@@ -1,0 +1,205 @@
+<?php $val = array (
+  'data' => 
+  array (
+    233 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'special',
+        'label' => 'Label',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-233{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-233{display:block}.product-label-diagonal.product-label-233>b{transform:scale(calc(10 / 10))}.product-info .product-label-diagonal.product-label-233>b{transform:scale(calc(10 / 10))}',
+    ),
+    29 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'New',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-29{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-29{display:block}.product-label-diagonal.product-label-29>b{transform:scale(calc(10 / 10))}.product-label-29
+b{background:rgba(77, 98, 255, 1)}.product-info .product-label-diagonal.product-label-29>b{transform:scale(calc(10 / 10))}',
+    ),
+    30 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'outofstock',
+        'label' => 'New',
+        'display' => 'diagonal',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-30{display:flex;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-30{display:block;margin:15px}.product-label-diagonal.product-label-30>b{transform:scale(calc(10 / 10))}.product-info .product-label-diagonal.product-label-30>b{transform:scale(calc(10 / 10))}',
+    ),
+    31 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => '',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-31{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-31{display:block}.product-label-diagonal.product-label-31>b{transform:scale(calc(10 / 10))}.product-label-31
+b{color:rgba(255, 255, 255, 1);font-weight:700;text-transform:uppercase;background:rgba(76, 97, 255, 1);padding:5px;padding-right:7px;padding-left:7px;color:rgba(48, 56, 65, 1);background:rgba(254, 225, 91, 1);border-radius:50%}.product-label-31 b::before{content:\'\\e99a\' !important;font-family:icomoon !important;font-size:24px;color:rgba(235, 102, 38, 1)}.product-label-31.product-label-default
+b{min-width:40px;min-height:40px}.product-info .product-label-diagonal.product-label-31>b{transform:scale(calc(10 / 10))}',
+    ),
+    133 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Free',
+        'display' => 'diagonal',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-133{display:flex;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-133{display:block}.product-label-diagonal.product-label-133>b{transform:scale(calc(10 / 10))}.product-label-133
+b{background:rgba(60, 196, 114, 1)}.product-info .product-label-diagonal.product-label-133>b{transform:scale(calc(10 / 10))}',
+    ),
+    146 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Online Only',
+        'display' => 'diagonal',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-146{display:flex;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-146{display:block;margin:18px}.product-label-diagonal.product-label-146>b{transform:scale(calc(10 / 10))}.product-label-146
+b{background:rgba(63, 83, 237, 1)}.product-info .product-label-diagonal.product-label-146>b{transform:scale(calc(10 / 10))}',
+    ),
+  ),
+  'all' => 
+  array (
+  ),
+  'special' => 
+  array (
+    233 => 233,
+  ),
+  'outofstock' => 
+  array (
+    30 => 30,
+  ),
+  'custom' => 
+  array (
+    51 => 
+    array (
+      29 => 29,
+    ),
+    50 => 
+    array (
+      29 => 29,
+    ),
+    49 => 
+    array (
+      29 => 29,
+    ),
+    48 => 
+    array (
+      29 => 29,
+    ),
+    47 => 
+    array (
+      29 => 29,
+    ),
+    46 => 
+    array (
+      29 => 29,
+    ),
+    45 => 
+    array (
+      29 => 29,
+    ),
+    44 => 
+    array (
+      29 => 29,
+    ),
+    43 => 
+    array (
+      29 => 29,
+    ),
+    42 => 
+    array (
+      29 => 29,
+      146 => 146,
+    ),
+    41 => 
+    array (
+      29 => 29,
+    ),
+    40 => 
+    array (
+      29 => 29,
+    ),
+    36 => 
+    array (
+      29 => 29,
+    ),
+    35 => 
+    array (
+      29 => 29,
+    ),
+    34 => 
+    array (
+      29 => 29,
+    ),
+    33 => 
+    array (
+      29 => 29,
+    ),
+    32 => 
+    array (
+      29 => 29,
+    ),
+    31 => 
+    array (
+      29 => 29,
+    ),
+    30 => 
+    array (
+      29 => 29,
+    ),
+    29 => 
+    array (
+      29 => 29,
+    ),
+    28 => 
+    array (
+      29 => 29,
+    ),
+  ),
+);

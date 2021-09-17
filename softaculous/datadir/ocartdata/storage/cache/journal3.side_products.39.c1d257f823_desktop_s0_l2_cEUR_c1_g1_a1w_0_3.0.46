@@ -1,0 +1,550 @@
+<?php $val = array (
+  'css' => '.module-side_products-39 .swiper-container{overflow:hidden}.module-side_products-39 .swiper-buttons{display:none;top:50%;width:calc(100% - (-15px * 2));margin-top:-10px}.module-side_products-39:hover .swiper-buttons{display:block}.module-side_products-39 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-side_products-39 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-side_products-39 .swiper-buttons
+div{width:35px;height:35px;background:rgba(0, 0, 0, 0.75);border-width:4px;border-style:solid;border-color:rgba(255, 255, 255, 1);border-radius:50%}.module-side_products-39 .swiper-button-disabled{opacity:0}.module-side_products-39 .swiper-buttons div::before{content:\'\\e408\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-side_products-39 .swiper-buttons .swiper-button-next::before{content:\'\\e409\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-side_products-39 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(233, 2, 97, 1)}.module-side_products-39 .swiper-pagination{display:none;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-side_products-39:hover .swiper-pagination{display:block}.module-side_products-39
+.swiper{padding-bottom:20px}.module-side_products-39 .swiper-pagination-bullet{width:8px;height:8px;background-color:rgba(226, 226, 226, 1)}.module-side_products-39 .swiper-pagination>span+span{margin-left:8px}.desktop .module-side_products-39 .swiper-pagination-bullet:hover{background-color:rgba(143, 157, 166, 1)}.module-side_products-39 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(233, 2, 97, 1)}.module-side_products-39 .swiper-pagination>span{border-radius:50px}.module-side_products-39 .nav-tabs > li > a, .module-side_products-39 .nav-tabs > li.active > a, .module-side_products-39 .nav-tabs > li.active > a:hover, .module-side_products-39 .nav-tabs>li.active>a:focus{color:rgba(139, 145, 152, 1)}.desktop .module-side_products-39 .nav-tabs > li:hover > a, .module-side_products-39 .nav-tabs>li.active>a{color:rgba(255, 255, 255, 1)}.module-side_products-39 .nav-tabs > li.active > a, .module-side_products-39 .nav-tabs > li.active > a:hover, .module-side_products-39 .nav-tabs>li.active>a:focus{color:rgba(230, 230, 230, 1)}.module-side_products-39 .nav-tabs>li.active::after{display:none}.module-side_products-39 .nav-tabs>li>a{justify-content:center;white-space:normal}.module-side_products-39 .nav-tabs{display:flex;justify-content:flex-start;flex-wrap:nowrap;overflow-x:auto;overflow-y:hidden;-webkit-overflow-scrolling:touch}.module-side_products-39 .nav-tabs>li{flex-grow:0}.module-side_products-39 .mobile .nav-tabs{overflow-x:scroll}.module-side_products-39 .nav-tabs::-webkit-scrollbar{-webkit-appearance:none;height:1px;height:5px;width:5px}.module-side_products-39 .nav-tabs::-webkit-scrollbar-track{background-color:white}.module-side_products-39 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999}.module-side_products-39 .tab-container::before{display:none}.module-side_products-39 .tab-container{display:block}.module-side_products-39 .tab-container .nav-tabs{flex-direction:row}.module-side_products-39 .product-layout.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.one-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-side_products-39 .product-layout.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-side_products-39 .product-layout:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-side_products-39 .product-layout.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-side_products-39 .product-layout:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-side_products-39 .side-products-blocks>div{width:calc(100% / 1)}.module-side_products-39:not(.carousel-mode) .module-body>.module-item>.side-products{margin:-10px}.module-side_products-39 .side-product{background:rgba(255, 255, 255, 1);border-radius:3px;padding:7px}.desktop .module-side_products-39 .side-product:hover{box-shadow:0 10px 40px rgba(0, 0, 0, 0.15)}.module-side_products-39 .product-layout:not(.swiper-slide)+div{margin-top:10px}.module-side_products-39 .side-product .image
+img{border-radius:px}.module-side_products-39 .side-product
+.image{width:25%}.module-side_products-39 .side-product
+.caption{width:calc(100% - 25%);padding-left:8px}.module-side_products-39 .side-product .quickview-button{display:inline-flex;visibility:hidden;opacity:0;left:50%;top:50%;transform:translate(-50%, -50%) scale(.85)}.module-side_products-39 .side-product .quickview-button
+.btn{padding:10px
+!important;border-radius:50% !important}.module-side_products-39 .side-product:hover .quickview-button{visibility:visible;opacity:1;left:50%;top:50%;transform:translate(-50%, -50%) scale(1)}.module-side_products-39 .side-product .btn-quickview{width:30px !important;height:30px !important}.module-side_products-39 .side-product .btn-quickview::before{content:\'\\ebef\' !important;font-family:icomoon !important;font-size:16px}.module-side_products-39 .side-product .btn-quickview.btn, .module-side_products-39 .side-product .btn-quickview.btn:visited{color:rgba(105, 105, 115, 1)}.module-side_products-39 .side-product .btn-quickview.btn:hover{color:rgba(51, 51, 51, 1) !important;background:rgba(240, 242, 245, 1) !important}.module-side_products-39 .side-product .btn-quickview.btn{background:rgba(248, 248, 248, 1)}.module-side_products-39 .side-product .btn-quickview.btn:active, .module-side_products-39 .side-product .btn-quickview.btn:hover:active, .module-side_products-39 .side-product .btn-quickview.btn:focus:active{background:rgba(238, 238, 238, 1) !important}.module-side_products-39 .side-product .btn-quickview.btn:focus{background:rgba(238, 238, 238, 1)}.module-side_products-39 .side-product .btn-quickview.btn.btn.disabled::after{font-size:20px}.module-side_products-39 .side-product
+.name{display:block;margin-bottom:2px}.module-side_products-39 .side-product .name
+a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:\'Vollkorn\';font-weight:700;font-size:16px;color:rgba(51, 51, 51, 1);line-height:1.3}.module-side_products-39 .side-product
+.price{display:flex;align-items:center;flex-direction:row;font-size:14px;color:rgba(105, 105, 115, 1);margin-bottom:2px}.module-side_products-39 .side-product .price-tax{font-size:12px;display:none}.module-side_products-39 .side-product .price-old{margin:0;order:2;font-size:13px;color:rgba(143, 157, 166, 1);text-decoration:line-through}.module-side_products-39 .side-product .price-new{margin:0
+5px 0 0;order:1;color:rgba(233, 2, 97, 1)}.module-side_products-39 .side-product
+.rating{display:flex;margin-top:2px;margin-bottom:3px;justify-content:flex-start}.module-side_products-39 .side-product .rating.no-rating{display:none}.module-side_products-39 .side-product .rating .fa-stack{font-size:10px;width:1.1em}.module-side_products-39 .side-product .button-group{display:flex;margin-top:5px;margin-left:-3px}.module-side_products-39 .side-product .btn-cart{display:inline-flex;margin-right:10px}.module-side_products-39 .side-product .btn-cart::before{font-size:14px;left:1px}.module-side_products-39 .side-product .btn-cart.btn, .module-side_products-39 .side-product .btn-cart.btn:visited{font-size:13px;color:rgba(139, 145, 152, 1);text-transform:none;letter-spacing:0}.module-side_products-39 .side-product .btn-cart.btn:hover{color:rgba(233, 2, 97, 1) !important;background:none !important}.module-side_products-39 .side-product .btn-cart.btn:active, .module-side_products-39 .side-product .btn-cart.btn:hover:active, .module-side_products-39 .side-product .btn-cart.btn:focus:active{color:rgba(233, 2, 97, 1) !important;background:none !important;box-shadow:none}.module-side_products-39 .side-product .btn-cart.btn:focus{color:rgba(233, 2, 97, 1) !important;background:none;box-shadow:none}.module-side_products-39 .side-product .btn-cart.btn{background:none;padding:0px;box-shadow:none;border-radius:0px !important}.desktop .module-side_products-39 .side-product .btn-cart.btn:hover{box-shadow:none}.module-side_products-39 .side-product .btn-cart.btn.btn.disabled::after{font-size:20px}.module-side_products-39 .side-product .btn-wishlist{display:inline-flex;margin-right:10px}.module-side_products-39 .side-product .btn-wishlist::before{font-size:13px}.module-side_products-39 .side-product .btn-wishlist.btn, .module-side_products-39 .side-product .btn-wishlist.btn:visited{font-size:13px;color:rgba(139, 145, 152, 1);text-transform:none;letter-spacing:0}.module-side_products-39 .side-product .btn-wishlist.btn:hover{color:rgba(233, 2, 97, 1) !important;background:none !important}.module-side_products-39 .side-product .btn-wishlist.btn:active, .module-side_products-39 .side-product .btn-wishlist.btn:hover:active, .module-side_products-39 .side-product .btn-wishlist.btn:focus:active{color:rgba(233, 2, 97, 1) !important;background:none !important;box-shadow:none}.module-side_products-39 .side-product .btn-wishlist.btn:focus{color:rgba(233, 2, 97, 1) !important;background:none;box-shadow:none}.module-side_products-39 .side-product .btn-wishlist.btn{background:none;padding:0px;box-shadow:none;border-radius:0px !important}.desktop .module-side_products-39 .side-product .btn-wishlist.btn:hover{box-shadow:none}.module-side_products-39 .side-product .btn-wishlist.btn.btn.disabled::after{font-size:20px}.module-side_products-39 .side-product .btn-compare{display:inline-flex}.module-side_products-39 .side-product .btn-compare::before{font-size:13px}.module-side_products-39 .side-product .btn-compare.btn, .module-side_products-39 .side-product .btn-compare.btn:visited{font-size:13px;color:rgba(139, 145, 152, 1);text-transform:none;letter-spacing:0}.module-side_products-39 .side-product .btn-compare.btn:hover{color:rgba(233, 2, 97, 1) !important;background:none !important}.module-side_products-39 .side-product .btn-compare.btn:active, .module-side_products-39 .side-product .btn-compare.btn:hover:active, .module-side_products-39 .side-product .btn-compare.btn:focus:active{color:rgba(233, 2, 97, 1) !important;background:none !important;box-shadow:none}.module-side_products-39 .side-product .btn-compare.btn:focus{color:rgba(233, 2, 97, 1) !important;background:none;box-shadow:none}.module-side_products-39 .side-product .btn-compare.btn{background:none;padding:0px;box-shadow:none;border-radius:0px !important}.desktop .module-side_products-39 .side-product .btn-compare.btn:hover{box-shadow:none}.module-side_products-39 .side-product .btn-compare.btn.btn.disabled::after{font-size:20px}@media (max-width: 1024px){.module-side_products-39 .swiper-buttons{display:none}.module-side_products-39:hover .swiper-buttons{display:block}}@media (max-width: 980px){.module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}}@media (max-width: 760px){.module-side_products-39 .swiper-container{overflow:visible}.module-side_products-39 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.module-side_products-39 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.module-side_products-39 .side-product
+.image{width:30%}.module-side_products-39 .side-product
+.caption{width:calc(100% - 30%)}.module-side_products-39 .side-product .button-group{display:none}}@media (max-width: 470px){.module-side_products-39 .side-product .name
+a{font-size:13px}.module-side_products-39 .side-product .price-old{font-size:11px}.module-side_products-39 .side-product
+.price{font-size:12px}}@media (max-width: 359px){.module-side_products-39 .side-product
+.image{width:100%}.module-side_products-39 .side-product
+.caption{width:100%;padding-top:8px;padding-left:0px}.module-side_products-39 .side-product{display:flex}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Vollkorn' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'sectionsDisplay' => 'tabs',
+    'sectionsDisplayTablet' => '',
+    'sectionsDisplayPhone' => '',
+    'carousel' => true,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+        980 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => 'b3f87890-45b4-4c1c-b427-fa6f072899dd',
+    'imageDimensions' => 
+    array (
+      'width' => 70,
+      'height' => 70,
+      'resize' => 'fit',
+    ),
+    'moduleSideProductQuickviewTooltipStatus' => true,
+    'moduleSideProductQuickviewTooltipPosition' => 'top',
+    'moduleSideProductRatingVisibility' => true,
+    'moduleSideProductCartTooltipStatus' => true,
+    'moduleSideProductCartTooltipPosition' => 'top',
+    'moduleSideProductWishlistTooltipStatus' => true,
+    'moduleSideProductWishlistTooltipPosition' => 'top',
+    'moduleSideProductCompareTooltipStatus' => true,
+    'moduleSideProductCompareTooltipPosition' => 'top',
+    'status' => true,
+    'id' => 'side_products-613bc4e5d40f4',
+    'module_id' => 39,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-side_products',
+      2 => 'module-side_products-39',
+      'carousel-mode' => true,
+      'isotope' => false,
+    ),
+    'image_width' => 70,
+    'image_height' => 70,
+    'image_resize' => 'fit',
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'text_tax' => 'Imponibile:',
+    'button_cart' => 'Acquista',
+    'button_wishlist' => 'Aggiungi alla lista dei desideri',
+    'button_compare' => 'Confronta',
+    'default_index' => 1,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Visti di recente',
+        'filter' => 
+        array (
+          'sort' => 'p.sort_order',
+          'order' => 'ASC',
+          'start' => 0,
+          'limit' => 4,
+          'preset' => 'recently_viewed',
+          'recently_viewed' => true,
+        ),
+        'id' => '39-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'In evidenza',
+        'filter' => 
+        array (
+          'sort' => 'p.viewed',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 4,
+          'preset' => 'most_viewed',
+        ),
+        'id' => '39-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-2',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          166 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '7',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/image/cache/1-PRODOTTI/PROFUMI-UOMO-2/costume-national/costume-national-scent-intense-edp-100ml-profumo-unisex-166-140x140.jpg',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              28 => 
+              array (
+                'type' => 'special',
+                'label' => '-45 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Check-out',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '166',
+            'thumb' => 'https://www.rossishop.it/image/cache/1-PRODOTTI/PROFUMI-UOMO-2/costume-national/costume-national-scent-intense-edp-100ml-profumo-unisex-166-70x70.jpg',
+            'name' => 'Costume National Scent Intense edp 100ML - Profumo Unisex',
+            'description' => 'Profumo Unisex Costume National Scent Intense Eau de Parfum 100ML
+
+Scent Intense è una inusuale reinterpretazione di uno degli ingredienti più nobili della profumeria, l\'ambra.
+Grazie alla sua composizione&nbsp; caratterizzata dalla profonda armonia di ambra e legni, Scent Intense emana il mister..',
+            'price' => '€110,00',
+            'special' => '€60,00',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'https://www.rossishop.it/index.php?route=product/product&amp;product_id=166',
+          ),
+          181 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '16',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/image/cache/catalog/1-Prodotti/Parrucchieri/arriccia%20capelli/arricciacapelli-140x140w.jpg',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              28 => 
+              array (
+                'type' => 'special',
+                'label' => '-60 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Check-out',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '181',
+            'thumb' => 'https://www.rossishop.it/image/cache/catalog/1-Prodotti/Parrucchieri/arriccia%20capelli/arricciacapelli-70x70w.jpg',
+            'name' => 'Piastra  Arricciacapelli A Spirale Effetto Boccoli Perfetti',
+            'description' => 'CARATTERISTICHE TECNICHE
+
+Professional capelli ricci perfetti in ceramica&nbsp;
+
+Ferro Arricciacapelli a Spirale è l\'innovativo ferro arricciacapelli a spirale,
+
+&nbsp;perfetto per creare cascate di boccoli fai-da-te&nbsp;
+
+Veloce e semplice &nbsp;da usare a casa , ma dal effetto del miglior..',
+            'price' => '€19,90',
+            'special' => '€8,00',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'https://www.rossishop.it/index.php?route=product/product&amp;product_id=181',
+          ),
+          164 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '12',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/image/cache/catalog/1-Prodotti/Parrucchieri/piastre/piastra%20onda%20profumeria%20rossi-140x140w.jpg',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              28 => 
+              array (
+                'type' => 'special',
+                'label' => '-60 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Check-out',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '164',
+            'thumb' => 'https://www.rossishop.it/image/cache/catalog/1-Prodotti/Parrucchieri/piastre/piastra%20onda%20profumeria%20rossi-70x70w.jpg',
+            'name' => 'PIASTRA TRIPLA ONDA DA 25MM IN CERAMICA 220V PIASTRA CAPELLI EFFETTO ONDA ',
+            'description' => 'DESCRIZIONE&nbsp;
+
+bellissima piastra onda per acconciature capelli tripla onda&nbsp;
+
+con pulsante di accensione da 180° a 210°
+
+ottimo design manico antiscivolo basetta per appoggio&nbsp;
+
+colore nero &nbsp;in ceramica e manico rosa&nbsp;
+
+comoda da maneggiare per le vostre acconciature&..',
+            'price' => '€29,90',
+            'special' => '€12,00',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'https://www.rossishop.it/index.php?route=product/product&amp;product_id=164',
+          ),
+          165 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => true,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '6',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/image/cache/1-PRODOTTI/PARRUCCHIERI/PIASTRE/piastra-a-vapore-per-capelli-generatore-ioni-in-ceramica-professionale-200degc-165-140x140.jpg',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              28 => 
+              array (
+                'type' => 'special',
+                'label' => '-45 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Check-out',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => NULL,
+            'product_id' => '165',
+            'thumb' => 'https://www.rossishop.it/image/cache/1-PRODOTTI/PARRUCCHIERI/PIASTRE/piastra-a-vapore-per-capelli-generatore-ioni-in-ceramica-professionale-200degc-165-70x70.jpg',
+            'name' => 'PIASTRA A VAPORE PER CAPELLI GENERATORE IONI IN CERAMICA PROFESSIONALE 200°C',
+            'description' => 'Il nuovo sistema di alta tecnologia a 2 fasi può fare per i capelli grandi cose. Grazie alla Nano tecnologia, i capelli scivoleranno dolcemente sulla piastra, e il rivestimento in Tourmaline Ceramica li proteggerà da danni dovuti al calore. Prima infonderà Iono-vapore e togliendo l’umidità renderà a..',
+            'price' => '€32,79',
+            'special' => '€18,00',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => 0.0,
+            'href' => 'https://www.rossishop.it/index.php?route=product/product&amp;product_id=165',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

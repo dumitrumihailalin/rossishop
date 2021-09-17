@@ -1,0 +1,503 @@
+<?php $val = array (
+  'category_id' => '66',
+  'parent_id' => '0',
+  'title' => 'Igiene Personale',
+  'items' => 
+  array (
+    305 => 
+    array (
+      'category_id' => '305',
+      'parent_id' => '66',
+      'title' => 'Prodotti BIO',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c305',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_305',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    176 => 
+    array (
+      'category_id' => '176',
+      'parent_id' => '66',
+      'title' => 'Bambini',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c176',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_176',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    172 => 
+    array (
+      'category_id' => '172',
+      'parent_id' => '66',
+      'title' => 'Corpo',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c172',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_172',
+        'total' => '1',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    312 => 
+    array (
+      'category_id' => '312',
+      'parent_id' => '66',
+      'title' => 'Deo',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c312',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_312',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    173 => 
+    array (
+      'category_id' => '173',
+      'parent_id' => '66',
+      'title' => 'Intima',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c173',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_173',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    174 => 
+    array (
+      'category_id' => '174',
+      'parent_id' => '66',
+      'title' => 'Orale',
+      'items' => 
+      array (
+        287 => 
+        array (
+          'category_id' => '287',
+          'parent_id' => '174',
+          'title' => 'Spazzolini da denti',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c287',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174_287',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c174',
+        'dropdown' => 
+        array (
+          287 => 
+          array (
+            'category_id' => '287',
+            'parent_id' => '174',
+            'title' => 'Spazzolini da denti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c287',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174_287',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    175 => 
+    array (
+      'category_id' => '175',
+      'parent_id' => '66',
+      'title' => 'Viso',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c175',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_175',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    288 => 
+    array (
+      'category_id' => '288',
+      'parent_id' => '66',
+      'title' => 'Set Benessere',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c288',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_288',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c66',
+    'dropdown' => 
+    array (
+      305 => 
+      array (
+        'category_id' => '305',
+        'parent_id' => '66',
+        'title' => 'Prodotti BIO',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c305',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_305',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      176 => 
+      array (
+        'category_id' => '176',
+        'parent_id' => '66',
+        'title' => 'Bambini',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c176',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_176',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      172 => 
+      array (
+        'category_id' => '172',
+        'parent_id' => '66',
+        'title' => 'Corpo',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c172',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_172',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      312 => 
+      array (
+        'category_id' => '312',
+        'parent_id' => '66',
+        'title' => 'Deo',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c312',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_312',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      173 => 
+      array (
+        'category_id' => '173',
+        'parent_id' => '66',
+        'title' => 'Intima',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c173',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_173',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      174 => 
+      array (
+        'category_id' => '174',
+        'parent_id' => '66',
+        'title' => 'Orale',
+        'items' => 
+        array (
+          287 => 
+          array (
+            'category_id' => '287',
+            'parent_id' => '174',
+            'title' => 'Spazzolini da denti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c287',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174_287',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c174',
+          'dropdown' => 
+          array (
+            287 => 
+            array (
+              'category_id' => '287',
+              'parent_id' => '174',
+              'title' => 'Spazzolini da denti',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c287',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174_287',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      175 => 
+      array (
+        'category_id' => '175',
+        'parent_id' => '66',
+        'title' => 'Viso',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c175',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_175',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      288 => 
+      array (
+        'category_id' => '288',
+        'parent_id' => '66',
+        'title' => 'Set Benessere',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c288',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_288',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

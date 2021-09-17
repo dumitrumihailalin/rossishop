@@ -1,0 +1,852 @@
+<?php $val = array (
+  'css' => '.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-1>a>.menu-label{color:rgba(255, 255, 255, 1);font-weight:400;text-transform:uppercase;letter-spacing:0;background:rgba(60, 196, 114, 1);border-radius:1px;padding:1px;padding-right:4px;padding-left:4px;margin-top:-7px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}@media (max-width: 1440px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1{padding-right:20px;padding-left:20px}}@media (max-width: 1024px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1{padding:0px}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:50%;padding:20px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{padding:5px}}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{width:30%;border-width:0;border-left-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);padding:20px;padding-right:0px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{border-width:0px;padding:5px}}@media (max-width: 760px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-2{width:100%}}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-3{width:20%;padding:20px}.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-3 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-1.mega-menu .grid-row-1 .grid-col-3{width:100%;padding:5px}}.route-common-home body:not(.is-sticky) .main-menu-3 .main-menu-item-2.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2 .mega-menu-content{width:700px;position:absolute;left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-2>.dropdown-menu::before{left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-1{width:40%;background-image:url(\'https://www.rossishop.it/test/image/cache/catalog/sfondo-smartphone-1242x2208.jpg\');background-size:cover}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 760px){.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-2{width:30%;padding:20px}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-2{width:100%}}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-3{width:30%;padding:20px}.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-3 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-2.mega-menu .grid-row-1 .grid-col-3{width:100%}}.route-common-home body:not(.is-sticky) .main-menu-3 .main-menu-item-3.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 .mega-menu-content{width:700px;position:absolute;left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3>.dropdown-menu::before{left:50%;transform:translate3d(-50%,0,0)}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-3>a>.menu-label{color:rgba(48, 56, 65, 1);font-weight:400;letter-spacing:0;background:rgba(254, 225, 91, 1);border-radius:1px;padding:1px;padding-right:4px;padding-left:4px;margin-top:-7px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1{width:40%;background-image:url(\'https://www.rossishop.it/test/image/cache/catalog/2938859-copia3-2676x2812.jpg\');background-size:cover}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:center}@media (max-width: 760px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-1{width:100%}}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2{width:30%;padding:20px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-2{width:100%}}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-3{width:30%;padding:20px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-3 .grid-items{justify-content:flex-start}@media (max-width: 760px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-1 .grid-col-3{width:100%}}.route-common-home body:not(.is-sticky) .main-menu-3 .main-menu-item-4.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-4>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-5 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-5>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-5.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-5>a>.menu-label{color:rgba(48, 56, 65, 1);font-weight:400;letter-spacing:0;background:rgba(254, 225, 91, 1);border-radius:1px;padding:1px;padding-right:4px;padding-left:4px;margin-top:-7px}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1{padding-top:15px;padding-bottom:15px}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1::before{display:block;left:0;width:100vw}@media (max-width: 1440px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1{padding-right:15px;padding-left:15px}}@media (max-width: 1024px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1{padding:5px;padding-right:0px;padding-left:0px}}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-1{width:50%}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-1 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-1{width:100%;padding:10px}}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-2{width:25%;padding-right:10px}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-2 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-2{width:50%;margin-bottom:20px}}@media (max-width: 760px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-2{width:100%;padding:0px}}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-3{width:25%;padding-left:20px}.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-3 .grid-items{justify-content:flex-start}@media (max-width: 1024px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-3{width:50%}}@media (max-width: 760px){.main-menu-3 .main-menu-item-5.mega-menu .grid-row-1 .grid-col-3{width:100%;padding:0px}}.route-common-home body:not(.is-sticky) .main-menu-3 .main-menu-item-6.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-6 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-6>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-6.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 > .j-menu li.main-menu-item-6>a>.menu-label{color:rgba(255, 255, 255, 1);font-weight:400;text-transform:uppercase;letter-spacing:0;background:rgba(77, 98, 255, 1);border-radius:1px;padding:1px;padding-right:4px;padding-left:4px;margin-top:-7px}.main-menu-3 .mega-menu.main-menu-item-7 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-3 .main-menu-item-7.multi-level .dropdown-menu{left:100%}.route-common-home body:not(.is-sticky) .main-menu-3 .main-menu-item-8.flyout>.j-dropdown{display:block !important;transform:none;opacity:1}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-8 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-8>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-8.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Categorie',
+        'label' => 'Sale',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+          'name' => 'Bici Elettriche',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => true,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '119',
+                      'name' => 'Catalog Menu - No Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '270',
+                      'name' => 'Menu Banners',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+              3 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-3',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '275',
+                      'name' => 'Menu Banners Copy',
+                      'type' => 'banners',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      2 => 
+      array (
+        'title' => 'Informatica',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+          'name' => 'Bici Elettriche',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => true,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '241',
+                      'name' => 'Main Menu Block',
+                      'type' => 'blocks',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '206',
+                      'name' => 'Custom Links - Top Categories',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              3 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-3',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '208',
+                      'name' => 'Custom Links - Top Brands',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      3 => 
+      array (
+        'title' => 'Telefonia',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '68',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=68',
+          'name' => 'Telefonia',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => true,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '241',
+                      'name' => 'Main Menu Block',
+                      'type' => 'blocks',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '206',
+                      'name' => 'Custom Links - Top Categories',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+              3 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-3',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '208',
+                      'name' => 'Custom Links - Top Brands',
+                      'type' => 'links_menu',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Multilevel',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+          'name' => 'Bici Elettriche',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => true,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+          66 => 
+          array (
+            'category_id' => '66',
+            'parent_id' => '59',
+            'title' => 'Promozioni',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c66',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          67 => 
+          array (
+            'category_id' => '67',
+            'parent_id' => '59',
+            'title' => 'Accessori Bici',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c67',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          60 => 
+          array (
+            'category_id' => '60',
+            'parent_id' => '59',
+            'title' => 'City Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c60',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          61 => 
+          array (
+            'category_id' => '61',
+            'parent_id' => '59',
+            'title' => 'Fat-Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c61',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          62 => 
+          array (
+            'category_id' => '62',
+            'parent_id' => '59',
+            'title' => 'Folding',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c62',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_62',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          63 => 
+          array (
+            'category_id' => '63',
+            'parent_id' => '59',
+            'title' => 'Monopattini Elettrici',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c63',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_63',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          64 => 
+          array (
+            'category_id' => '64',
+            'parent_id' => '59',
+            'title' => 'Mountain Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c64',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_64',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          65 => 
+          array (
+            'category_id' => '65',
+            'parent_id' => '59',
+            'title' => 'Work-Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c65',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_65',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      5 => 
+      array (
+        'title' => 'Mixed Menu',
+        'label' => 'New',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-5',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          1 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-1',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '164',
+                      'name' => 'Catalog Menu Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-2',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '274',
+                      'name' => 'Brands Layout Copy',
+                      'type' => 'manufacturers',
+                    ),
+                  ),
+                ),
+              ),
+              3 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-3',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '213',
+                      'name' => 'Specials Menu',
+                      'type' => 'products',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+      6 => 
+      array (
+        'title' => 'Specials',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/special',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-6',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      8 => 
+      array (
+        'title' => 'Blog',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/test/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-8',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

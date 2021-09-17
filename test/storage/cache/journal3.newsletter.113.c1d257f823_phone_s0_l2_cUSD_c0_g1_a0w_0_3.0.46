@@ -1,0 +1,55 @@
+<?php $val = array (
+  'css' => '.module-newsletter-113{padding:10px;text-align:left;justify-content:flex-start}.module-newsletter-113 .title.module-title{font-size:18px;font-weight:700;text-transform:uppercase;border-width:0px;padding:0px;margin-bottom:15px;white-space:normal;overflow:visible;text-overflow:initial}.module-newsletter-113 .title.module-title::after{content:\'\';display:block;position:relative;margin-top:7px}.module-newsletter-113 .title.module-title.page-title>span::after{content:\'\';display:block;position:relative;margin-top:7px}.module-newsletter-113 .title.module-title::after, .module-newsletter-113 .title.module-title.page-title>span::after{width:50px;height:1px;background:rgba(76, 97, 255, 1)}.module-newsletter-113 .module-body>div{align-self:flex-start}.module-newsletter-113 .title::after{left:0;right:auto;transform:none}.module-newsletter-113 .module-body{flex-direction:column}.module-newsletter-113 .newsletter-text{font-size:15px;color:rgba(109, 118, 125, 1);padding-bottom:10px}.module-newsletter-113 .module-body .input-group{height:50px}.module-newsletter-113 .module-body .newsletter-form .input-group
+input{width:500px;max-width:100%}.module-newsletter-113 .btn::before{content:\'\\eb79\' !important;font-family:icomoon !important;margin-right:5px}.module-newsletter-113 .input-group .input-group-btn .btn, .module-newsletter-113 .input-group .input-group-btn .btn:visited{font-size:12px;color:rgba(255, 255, 255, 1);text-transform:uppercase}.module-newsletter-113 .input-group .input-group-btn .btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(76, 97, 255, 1) !important}.module-newsletter-113 .input-group .input-group-btn .btn:active, .module-newsletter-113 .input-group .input-group-btn .btn:hover:active, .module-newsletter-113 .input-group .input-group-btn .btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(34, 184, 155, 1) !important}.module-newsletter-113 .input-group .input-group-btn .btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-newsletter-113 .input-group .input-group-btn
+.btn{background:rgba(48, 56, 65, 1);padding:12px;min-height:40px;height:40px}.module-newsletter-113 .input-group .input-group-btn .btn.btn.disabled::after{font-size:20px}.module-newsletter-113 .input-group-btn
+.btn{transform:translateX(-5px);margin-top:5px}@media (max-width: 760px){.module-newsletter-113 .module-body .newsletter-form
+.checkbox{padding-top:10px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Iscriviti alla newsletter',
+    'text' => 'Scopri in esclusiva le offerte più rilevanti, le novità tecnologiche più importanti, ed altre curiosità..',
+    'placeholder' => 'La tua email',
+    'buttonType' => 'both',
+    'buttonText' => 'Invia',
+    'tooltipStatus' => true,
+    'tooltipText' => 'Subscribe',
+    'tooltipPosition' => 'top',
+    'subscribedMessage' => 'Grazie per esserti iscritto alla nostra newsletter.',
+    'subscribedEmail' => true,
+    'subscribedEmailMessage' => 'Grazie per esserti iscritto alla nostra newsletter.',
+    'unsubscribeMessage' => 'Sei già iscritto. Vuoi annullare l\'iscrizione?',
+    'unsubscribedMessage' => 'Sei stato cancellato dalla nostra newsletter.',
+    'unsubscribedEmail' => true,
+    'unsubscribedEmailMessage' => 'Ci dispiace vederti andare via.',
+    'adminAlerts' => true,
+    'agree' => '3',
+    'captcha' => false,
+    'status' => true,
+    'id' => 'newsletter-5f2c703b4e9ba',
+    'module_id' => 113,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-newsletter',
+      2 => 'module-newsletter-113',
+    ),
+    'action' => 'https://www.rossishop.it/test/index.php?route=journal3/newsletter/newsletter&amp;module_id=113',
+    'agree_data' => 
+    array (
+      'text' => 'Ho letto e accetto <a class="agree" href="https://www.rossishop.it/test/index.php?route=information/information/agree&amp;information_id=3" alt="Privacy e Cookie"><b>Privacy e Cookie</b></a>',
+      'error' => 'Attenzione: devi accettare Privacy e Cookie!',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

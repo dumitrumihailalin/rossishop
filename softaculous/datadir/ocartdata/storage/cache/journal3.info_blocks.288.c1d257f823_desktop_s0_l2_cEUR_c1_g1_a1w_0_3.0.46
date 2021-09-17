@@ -1,0 +1,169 @@
+<?php $val = array (
+  'css' => '.module-info_blocks-288 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.module-info_blocks-288 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px);width:auto !important}.one-column #content .module-info_blocks-288 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-info_blocks-288 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-info_blocks-288 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-info_blocks-288 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-info_blocks-288 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-info_blocks-288 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-info_blocks-288 .module-item .info-block{justify-content:center}.module-info_blocks-288 .module-body{justify-content:center}.module-info_blocks-288 .info-block .info-block-title{font-size:14px;color:rgba(230, 230, 230, 1);text-transform:uppercase;display:block}.module-info_blocks-288 a.info-block:hover .info-block-title{color:rgba(233, 2, 97, 1)}.module-info_blocks-288 .info-block .info-block-text{display:block}.module-info_blocks-288 .info-block{padding:10px;padding-top:5px;padding-bottom:5px;display:flex;flex-direction:row;justify-content:flex-start;text-align:left}.module-info_blocks-288 .info-block-content{display:flex}.module-info_blocks-288 .info-block::before{align-self:center;font-size:18px}.module-info_blocks-288 .info-block-img{align-self:center}.module-info_blocks-288 .info-block::before, .module-info_blocks-288 .info-block-img{margin-right:7px;margin-bottom:2px}.module-info_blocks-288 .info-block .count-badge{display:none}@media (max-width: 760px){.module-info_blocks-288 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.module-info_blocks-288 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}}@media (max-width: 470px){.module-info_blocks-288 .info-block .info-block-title{text-transform:none}.module-info_blocks-288 .info-block::before{font-size:15px}}.module-info_blocks-288 .module-item-1 .info-block::before{content:\'\\eab9\' !important;font-family:icomoon !important}.module-info_blocks-288 .module-item-2 .info-block::before{content:\'\\eb97\' !important;font-family:icomoon !important}.module-info_blocks-288 .module-item-3 .info-block::before{content:\'\\f29c\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 45,
+      'height' => 45,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'info_blocks-613bc62300a7e',
+    'module_id' => 288,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-info_blocks',
+      2 => 'module-info_blocks-288',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Spedizione Gratuita a partire da 90€',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '6',
+          'href' => 'https://www.rossishop.it/index.php?route=information/information&amp;information_id=6',
+          'name' => 'Info Spedizioni',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => '',
+        'button' => false,
+        'id' => '288-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Chiamaci ora',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '',
+          'href' => 'tel:08231450707',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => '',
+        'button' => false,
+        'id' => '288-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Fai una domanda',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '22',
+          'href' => 'javascript:open_popup(22)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'content' => '',
+        'button' => false,
+        'id' => '288-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          2 => 'info-blocks',
+          3 => 'info-blocks-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

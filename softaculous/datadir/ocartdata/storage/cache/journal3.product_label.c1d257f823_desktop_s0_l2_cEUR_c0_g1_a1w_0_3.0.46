@@ -1,0 +1,360 @@
+<?php $val = array (
+  'data' => 
+  array (
+    270 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Online Only',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-270{display:flex;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-270{display:block;margin:20px;top:0;left:0;right:initial;bottom:initial;transform:translate3d(-130px, 8px, 0) rotate(-45deg)}.product-label-diagonal.product-label-270>b{transform:scale(calc(10 / 10))}.product-label-270
+b{color:rgba(51, 51, 51, 1);background:rgba(226, 226, 226, 1)}.product-info .product-label-diagonal.product-label-270>b{transform:scale(calc(10 / 10))}',
+    ),
+    28 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'special',
+        'label' => 'Sale',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-28{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-28{display:block}.product-label-diagonal.product-label-28>b{transform:scale(calc(10 / 10))}.product-label-28{order:0}.product-label-28
+b{background:rgba(233, 2, 97, 1)}.product-info .product-label-diagonal.product-label-28>b{transform:scale(calc(10 / 10))}',
+    ),
+    29 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Nuovo',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-29{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-29{display:block}.product-label-diagonal.product-label-29>b{transform:scale(calc(10 / 10))}.product-label-29
+b{font-size:11px;color:rgba(255, 255, 255, 1);font-weight:700;text-transform:uppercase;background:rgba(233, 2, 98, 1);border-radius:20px;padding:5px;padding-right:7px;padding-left:7px}.product-info .product-label-diagonal.product-label-29>b{transform:scale(calc(10 / 10))}',
+    ),
+    30 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'outofstock',
+        'label' => 'New',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-30{display:flex;margin-top:5px;margin-left:5px;position:absolute;top:0;right:initial;bottom:initial;left:0}.product-label-diagonal.product-label-30{display:block;margin:20px;top:0;left:0;right:initial;bottom:initial;transform:translate3d(-130px, 8px, 0) rotate(-45deg)}.product-label-diagonal.product-label-30>b{transform:scale(calc(10 / 10))}.product-label-30
+b{font-size:11px;color:rgba(255, 255, 255, 1);font-weight:700;text-transform:uppercase;background:rgba(233, 2, 98, 1);border-radius:20px;padding:5px;padding-right:7px;padding-left:7px;color:rgba(51, 51, 51, 1);text-transform:none;background:rgba(254, 208, 117, 1)}.product-info .product-label-diagonal.product-label-30>b{transform:scale(calc(10 / 10))}',
+    ),
+    31 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Hot',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-31{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-31{display:block}.product-label-diagonal.product-label-31>b{transform:scale(calc(10 / 10))}.product-label-31
+b{color:rgba(51, 51, 51, 1);background:rgba(254, 208, 117, 1)}.product-info .product-label-diagonal.product-label-31>b{transform:scale(calc(10 / 10))}',
+    ),
+    133 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Gratis',
+        'display' => 'diagonal',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-133{display:flex;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-133{display:block;top:0;left:0;right:initial;bottom:initial;transform:translate3d(-130px, 8px, 0) rotate(-45deg)}.product-label-diagonal.product-label-133>b{transform:scale(calc(10 / 10))}.product-label-133
+b{background:rgba(80, 173, 85, 1)}.product-info .product-label-diagonal.product-label-133>b{transform:scale(calc(10 / 10))}',
+    ),
+    217 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'label' => 'Top Brand',
+        'display' => 'default',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-label-default.product-label-217{display:flex;margin-top:5px;margin-right:5px;position:relative;top:0;right:0;bottom:initial;left:initial;justify-content:flex-end}.product-label-diagonal.product-label-217{display:block}.product-label-diagonal.product-label-217>b{transform:scale(calc(10 / 10))}.product-label-217
+b{font-size:11px;color:rgba(255,255,255,1);font-weight:700;text-transform:uppercase;background:rgba(233,2,98,1);border-radius:20px;padding:5px;padding-right:7px;padding-left:7px;background:rgba(80,173,85,1)}.product-label-217{order:1}.product-info .product-label-diagonal.product-label-217>b{transform:scale(calc(10 / 10))}',
+    ),
+  ),
+  'all' => 
+  array (
+  ),
+  'special' => 
+  array (
+    28 => 28,
+  ),
+  'outofstock' => 
+  array (
+    30 => 30,
+  ),
+  'custom' => 
+  array (
+    2555 => 
+    array (
+      29 => 29,
+    ),
+    2554 => 
+    array (
+      29 => 29,
+    ),
+    2553 => 
+    array (
+      29 => 29,
+    ),
+    2552 => 
+    array (
+      29 => 29,
+    ),
+    2551 => 
+    array (
+      29 => 29,
+    ),
+    2550 => 
+    array (
+      29 => 29,
+    ),
+    2549 => 
+    array (
+      29 => 29,
+    ),
+    2548 => 
+    array (
+      29 => 29,
+    ),
+    2547 => 
+    array (
+      29 => 29,
+    ),
+    2546 => 
+    array (
+      29 => 29,
+    ),
+    2545 => 
+    array (
+      29 => 29,
+    ),
+    2544 => 
+    array (
+      29 => 29,
+    ),
+    2543 => 
+    array (
+      29 => 29,
+    ),
+    2542 => 
+    array (
+      29 => 29,
+    ),
+    2541 => 
+    array (
+      29 => 29,
+    ),
+    2540 => 
+    array (
+      29 => 29,
+      31 => 31,
+    ),
+    2539 => 
+    array (
+      29 => 29,
+    ),
+    2538 => 
+    array (
+      29 => 29,
+    ),
+    2537 => 
+    array (
+      29 => 29,
+    ),
+    2536 => 
+    array (
+      29 => 29,
+    ),
+    2535 => 
+    array (
+      29 => 29,
+    ),
+    2534 => 
+    array (
+      29 => 29,
+    ),
+    2533 => 
+    array (
+      29 => 29,
+    ),
+    2532 => 
+    array (
+      29 => 29,
+    ),
+    2531 => 
+    array (
+      29 => 29,
+    ),
+    2530 => 
+    array (
+      29 => 29,
+      31 => 31,
+    ),
+    2529 => 
+    array (
+      29 => 29,
+    ),
+    2528 => 
+    array (
+      29 => 29,
+    ),
+    2527 => 
+    array (
+      29 => 29,
+      31 => 31,
+    ),
+    2526 => 
+    array (
+      29 => 29,
+    ),
+    2525 => 
+    array (
+      29 => 29,
+    ),
+    2524 => 
+    array (
+      29 => 29,
+    ),
+    2523 => 
+    array (
+      29 => 29,
+    ),
+    2522 => 
+    array (
+      29 => 29,
+    ),
+    2520 => 
+    array (
+      29 => 29,
+    ),
+    2519 => 
+    array (
+      29 => 29,
+    ),
+    2518 => 
+    array (
+      29 => 29,
+    ),
+    2517 => 
+    array (
+      29 => 29,
+      31 => 31,
+    ),
+    2516 => 
+    array (
+      29 => 29,
+      31 => 31,
+    ),
+    2515 => 
+    array (
+      29 => 29,
+    ),
+    2514 => 
+    array (
+      29 => 29,
+    ),
+    2513 => 
+    array (
+      29 => 29,
+    ),
+    2512 => 
+    array (
+      29 => 29,
+    ),
+    2511 => 
+    array (
+      29 => 29,
+    ),
+    2510 => 
+    array (
+      29 => 29,
+    ),
+    2509 => 
+    array (
+      29 => 29,
+    ),
+    2508 => 
+    array (
+      29 => 29,
+    ),
+    2507 => 
+    array (
+      29 => 29,
+    ),
+    2506 => 
+    array (
+      29 => 29,
+    ),
+    2505 => 
+    array (
+      29 => 29,
+      31 => 31,
+    ),
+    1945 => 
+    array (
+      31 => 31,
+    ),
+    212 => 
+    array (
+      31 => 31,
+    ),
+    1894 => 
+    array (
+      31 => 31,
+    ),
+    1668 => 
+    array (
+      31 => 31,
+    ),
+  ),
+);

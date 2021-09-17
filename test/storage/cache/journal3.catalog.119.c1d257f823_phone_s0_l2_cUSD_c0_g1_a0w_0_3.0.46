@@ -1,0 +1,368 @@
+<?php $val = array (
+  'css' => '.module-catalog-119 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.module-catalog-119 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-catalog-119 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 3 * 10px) / 4 - 0.01px)}.one-column #content .module-catalog-119 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-catalog-119 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.two-column #content .module-catalog-119 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.side-column .module-catalog-119 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 0 * 10px) / 1 - 0.01px)}.side-column .module-catalog-119 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 1 - 0.01px)}.module-catalog-119  .catalog-title{border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(76, 97, 255, 1)}.module-catalog-119 .catalog-title{margin-bottom:8px;display:flex;color:rgba(48, 56, 65, 1);font-weight:700;width:auto;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-119
+.subitems{align-items:flex-start}.module-catalog-119 .subitem > a
+span{font-size:13px;color:rgba(109, 118, 125, 1)}.module-catalog-119 .subitem > a:hover
+span{color:rgba(76, 97, 255, 1)}.module-catalog-119 .subitem.view-more a
+span{font-size:12px;color:rgba(77, 98, 255, 1)}.module-catalog-119 .subitem.view-more a:hover
+span{color:rgba(76, 97, 255, 1)}.module-catalog-119 .subitem>a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-bottom:5px}.module-catalog-119 .subitem>a::before{content:\'\\e409\' !important;font-family:icomoon !important;font-size:10px}.module-catalog-119 .catalog-image{margin-right:8px}.module-catalog-119 .item-assets{flex-direction:row}.module-catalog-119 .item-assets>a{max-width:40%;order:0}.module-catalog-119 .item-assets
+.subitems{width:60%}.module-catalog-119 .item-assets .catalog-image{display:block}@media (max-width: 760px){.module-catalog-119 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.module-catalog-119 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 150,
+      'height' => 150,
+      'resize' => 'fill',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        760 => 
+        array (
+          'spacing' => 10,
+          'items' => 2,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 10,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 10,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'View More',
+    'status' => true,
+    'id' => 'catalog-5f2c703b8f23d',
+    'module_id' => 119,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-119',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '4',
+        'id' => '119-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Promozioni',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Accessori Bici',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'City Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-300x300h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'Fat-Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-300x300h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Bici Elettriche',
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+        'total' => '8',
+      ),
+      2 => 
+      array (
+        'limit' => '4',
+        'id' => '119-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Promozioni',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_68_73',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Smartphone',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_68_69',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'iPhone',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_68_70',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Cellulari',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_68_71',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Telefonia',
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_68',
+        'total' => '6',
+      ),
+      3 => 
+      array (
+        'limit' => '4',
+        'id' => '119-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Promozioni',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Accessori Bici',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'City Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-300x300h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'Fat-Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-300x300h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Bici Elettriche',
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+        'total' => '8',
+      ),
+      4 => 
+      array (
+        'limit' => '4',
+        'id' => '119-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Promozioni',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Accessori Bici',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'City Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-300x300h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'Fat-Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-300x300h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Bici Elettriche',
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+        'total' => '8',
+      ),
+      5 => 
+      array (
+        'limit' => '4',
+        'id' => '119-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Promozioni',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Accessori Bici',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'City Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-300x300h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'Fat-Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-300x300h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Bici Elettriche',
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+        'total' => '8',
+      ),
+      6 => 
+      array (
+        'limit' => '4',
+        'id' => '119-6',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-6',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Promozioni',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Accessori Bici',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+            'image' => 'https://www.rossishop.it/test/image/cache/placeholder-150x150.png',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/placeholder-300x300.png',
+          ),
+          2 => 
+          array (
+            'name' => 'City Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/ebike-peugeot-e-legend-classic-city-bike-300x300h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'Fat-Bike',
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+            'image' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-150x150h.jpg',
+            'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/Categorie/fat-bike-300x300h.jpg',
+          ),
+        ),
+        'image' => '',
+        'name' => 'Bici Elettriche',
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+        'total' => '8',
+      ),
+    ),
+  ),
+);

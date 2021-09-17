@@ -1,0 +1,174 @@
+<?php $val = array (
+  'css' => '.module-master_slider-289::before{background:rgba(44, 54, 64, 0.5)}.module-master_slider-289 .ms-view{overflow:hidden}.module-master_slider-289 .static-text-1
+span{font-family:\'Vollkorn\';font-weight:400;font-size:80px;color:rgba(51, 51, 51, 1);line-height:1.1;font-size:48px;color:rgba(255, 255, 255, 1);transform:scale(calc(100 / 100));transform-origin:center}.module-master_slider-289 .static-text-1{top:50%;left:50%;right:auto;bottom:auto;transform:translate3d(-50%, -50%, 0)}.module-master_slider-289 .static-text-2{top:auto;left:0;right:auto;bottom:0;transform:translate3d(0, 0, 0)}.module-master_slider-289 .static-text-2
+span{transform:scale(calc(100 / 100));transform-origin:center}.module-master_slider-289 .ms-nav-next{display:flex;left:auto;right:0;top:50%;bottom:auto;transform:translateY(-50%)}.module-master_slider-289 .ms-nav-prev{display:flex;left:0;right:auto;top:50%;bottom:auto;transform:translateY(-50%)}.module-master_slider-289 .ms-nav-next::before, .module-master_slider-289 .ms-nav-prev::before{content:\'\\e5c8\' !important;font-family:icomoon !important}.module-master_slider-289 .ms-nav-next, .module-master_slider-289 .ms-nav-prev{width:50px;height:50px}.module-master_slider-289 .ms-bullets{display:block;top:auto;bottom:0;left:50%;right:auto;transform:translateX(-50%)}.module-master_slider-289 .ms-bullets .ms-bullets-count{flex-direction:row}.module-master_slider-289 .ms-bullets .ms-bullet{margin:calc(5px / 2) !important;border-radius:10px}.module-master_slider-289 .ms-thumb-list{display:block;padding:10px
+0;top:auto !important;bottom:0 !important;order:2}.module-master_slider-289 .ms-thumb-list .ms-thumb-frame{margin-right:10px !important;opacity: .75}.module-master_slider-289 .ms-thumb-frame{border-width:0px}.module-master_slider-289 .ms-timerbar{display:block;top:0 !important;bottom:auto !important}.module-master_slider-289 .master-slider .ms-time-bar{height:4px !important}@media (max-width: 980px){.module-master_slider-289 .static-text-1
+span{font-size:30px}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Vollkorn' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'shuffle' => false,
+    'imageDimensions' => 
+    array (
+      'width' => 900,
+      'height' => 220,
+      'resize' => 'fill',
+    ),
+    'sliderDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'parallaxMode' => false,
+    'parallax' => '25',
+    'layout' => 'fillwidth',
+    'layoutTablet' => '',
+    'layoutPhone' => '',
+    'bottomOffset' => '',
+    'staticTextType' => 'title',
+    'staticText' => 'Title',
+    'staticTextLink' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'static2TextType' => 'text',
+    'static2Text' => '',
+    'static2TextLink' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'delay' => '2000',
+    'thumbnails' => false,
+    'thumbnailsDimensions' => 
+    array (
+      'width' => 50,
+      'height' => 50,
+      'resize' => 'fill',
+    ),
+    'lazyLoad' => false,
+    'status' => true,
+    'id' => 'master_slider-613bb9b79a015',
+    'module_id' => 289,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-master_slider',
+      2 => 'module-master_slider-289',
+      'fullscreen-slider' => false,
+    ),
+    'width' => 900,
+    'height' => 220,
+    'options' => 
+    array (
+      'width' => 900,
+      'height' => 220,
+      'layout' => 'fillwidth',
+      'smoothHeight' => false,
+      'centerControls' => false,
+      'parallaxMode' => 'swipe',
+      'instantStartLayers' => true,
+      'loop' => true,
+      'dir' => 'h',
+      'autoHeight' => false,
+      'rtl' => false,
+      'startOnAppear' => false,
+      'autoplay' => true,
+      'overPause' => true,
+      'shuffle' => false,
+      'view' => 'basic',
+      'speed' => '30',
+      'swipe' => true,
+      'mouse' => false,
+      'controls' => 
+      array (
+        'timebar' => 
+        array (
+          'autohide' => false,
+          'inset' => true,
+          'align' => 'top',
+        ),
+      ),
+    ),
+    'first_image' => false,
+    'first_alt' => '',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'type' => 'category',
+        'alt' => '',
+        'videoType' => 'html5',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '289-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          2 => 'ms-slide',
+        ),
+        'delay' => 2.0,
+        'image' => false,
+        'image2x' => false,
+        'thumb' => false,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+    'has_category' => true,
+    'first_image2x' => false,
+  ),
+);

@@ -1,0 +1,151 @@
+<!--
+
+/**
+ * Copyright (c) 2019 Nexi Payments S.p.A.
+ *
+ * @author      iPlusService S.r.l.
+ * @category    Payment Module
+ * @package     Nexi XPay
+ * @version     2.0.0
+ * @copyright   Copyright (c) 2019 Nexi Payments S.p.A. (https://ecommerce.nexi.it)
+ * @license     GNU General Public License v3.0
+ */
+
+-->
+
+{{ header }}
+
+{{ column_left }}
+
+<div id="content">
+
+    <div class="page-header">
+        <div class="container-fluid">
+            <h1>{{ heading_title }}</h1>
+            <ul class="breadcrumb">
+                {% for breadcrumb in breadcrumbs %}
+                    <li>
+                        <a href="{{ breadcrumb['href'] }}">{{ breadcrumb['text'] }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+            <div class="pull-right">
+                <button type="submit" form="form-nexixpay" data-toggle="tooltip" title="{{ button_save }}" class="btn btn-primary"><i class="fa fa-save"></i></button>
+                <a href="{{ cancel }}" data-toggle="tooltip" title="{{ button_cancel }}" class="btn btn-default"><i class="fa fa-reply"></i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+
+        <div class="panel panel-default">
+
+            <div class="panel-heading">
+                <h3 class="panel-title"><i class="fa fa-pencil"></i> {{ h1_nexi }}</h3>
+            </div>
+
+            {% if error_warning %}
+                <div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+                    <button type="button" class="close" data-dismiss="alert">&times;</button>
+                </div>
+            {% endif %}
+
+            <div class="panel-body">
+
+                <form action="{{ action }}" method="post" enctype="multipart/form-data" id="form-nexixpay" class="form-horizontal" style="margin-bottom: 0px;">
+
+                  <div class="form-group"style="padding-top: 0px;">
+                      <label class="col-sm-12"><span>{{ extra_info }}</span></label>
+                  </div>
+                    <!-- Abilita/disabilita -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="stato"><span data-toggle="tooltip" title="{{ stato_help }}">{{ stato }}</span></label>
+                        <div class="col-sm-10">
+                            <select name="payment_nexixpay_status" id="stato" class="form-control">
+                                <option value="1" {{ (payment_nexixpay_status) ? 'selected="selected"' : '' }}>{{ text_attivo }}</option>
+                                <option value="0" {{ (not payment_nexixpay_status) ? 'selected="selected"' : '' }}>{{ text_disattivo }}</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Alias -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="entry-alias"><span data-toggle="tooltip" title="{{ alias_help }}">{{ alias }}</span></label>
+                        <div class="col-sm-10">
+                            <input type="text" name="payment_nexixpay_alias" value="{{ payment_nexixpay_alias }}" id="entry-alias" class="form-control" />
+                        </div>
+                    </div>
+
+                    <!-- Chiave MAC -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="entry-mac"><span data-toggle="tooltip" title="{{ mac_help }}">{{ mac }}</span></label>
+                        <div class="col-sm-10">
+                            <input type="text" name="payment_nexixpay_mac" value="{{ payment_nexixpay_mac }}" id="entry-mac" class="form-control" />
+                        </div>
+                    </div>
+
+                    <!-- Lingue -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="lingua"><span data-toggle="tooltip" title="{{ lingua_help }}">{{ lingua }}</span></label>
+                        <div class="col-sm-10">
+                            <select name="payment_nexixpay_lingua" id="lingua" class="form-control">
+                                {% for la in lingue %}
+                                    <option value='{{ lingue_value[loop.index0] }}' {{ (payment_nexixpay_lingua == lingue_value[loop.index0]) ? 'selected="selected"' : '' }}>{{ la }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- 3D Secure 2.0 -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="enebled3dS20"><span data-toggle="tooltip" title="{{ a3ds20_description }}">{{ a3ds20 }}</span></label>
+                        <div class="col-sm-10">
+                            <select name="payment_nexixpay_enebled3dS20" id="enebled3dS20" class="form-control">
+                                <option value="1" {{ (payment_nexixpay_enebled3dS20) ? 'selected="selected"' : '' }}>{{ text_attivo }}</option>
+                                <option value="0" {{ (not payment_nexixpay_enebled3dS20) ? 'selected="selected"' : '' }}>{{ text_disattivo }}</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Ambiente Test -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="input-test"><span data-toggle="tooltip" title="{{ ambiente_test_help }}">{{ ambiente_test }}</span></label>
+                        <div class="col-sm-10">
+                            <select name="payment_nexixpay_test" id="input-test" class="form-control">
+                                <option value="1" {{ (payment_nexixpay_test) ? 'selected="selected"' : '' }}>{{ text_attivo }}</option>
+                                <option value="0" {{ (not payment_nexixpay_test) ? 'selected="selected"' : '' }}>{{ text_disattivo }}</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Alias Test -->
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label" for="entry-alias-test"><span data-toggle="tooltip" title="{{ alias_test_help }}">{{ alias_test }}</span></label>
+                        <div class="col-sm-10">
+                            <input type="text" name="payment_nexixpay_alias_test" value="{{ payment_nexixpay_alias_test }}" id="entry-alias-test" class="form-control" />
+                        </div>
+                    </div>
+
+                    <!-- Chiave MAC Test -->
+                    <div class="form-group" style="padding-bottom: 0px;">
+                        <label class="col-sm-2 control-label" for="entry-mac-test"><span data-toggle="tooltip" title="{{ mac_test_help }}">{{ mac_test }}</span></label>
+                        <div class="col-sm-10">
+                            <input type="text" name="payment_nexixpay_mac_test" value="{{ payment_nexixpay_mac_test }}" id="entry-mac-test" class="form-control" />
+                        </div>
+                    </div>
+
+                    <input type="hidden" name="payment_nexixpay_sort_order" value="0">
+                    <input type="hidden" name="payment_nexixpay_geo_zone_id" value="0">
+                    <input type="hidden" name="payment_nexixpay_total" value="0">
+
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+{{ footer }}

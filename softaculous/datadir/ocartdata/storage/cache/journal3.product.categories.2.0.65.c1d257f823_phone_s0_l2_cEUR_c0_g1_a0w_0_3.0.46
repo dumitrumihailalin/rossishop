@@ -1,0 +1,1991 @@
+<?php $val = array (
+  'category_id' => '65',
+  'parent_id' => '0',
+  'title' => 'Trattamenti',
+  'items' => 
+  array (
+    306 => 
+    array (
+      'category_id' => '306',
+      'parent_id' => '65',
+      'title' => 'Prodotti BIO',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c306',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_306',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    96 => 
+    array (
+      'category_id' => '96',
+      'parent_id' => '65',
+      'title' => 'Viso Donna',
+      'items' => 
+      array (
+        215 => 
+        array (
+          'category_id' => '215',
+          'parent_id' => '96',
+          'title' => 'Antirughe Antietà',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c215',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_215',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        213 => 
+        array (
+          'category_id' => '213',
+          'parent_id' => '96',
+          'title' => 'Idratare e Nutrire',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c213',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_213',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        220 => 
+        array (
+          'category_id' => '220',
+          'parent_id' => '96',
+          'title' => 'Pelle Grassa e Impura',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c220',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_220',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        219 => 
+        array (
+          'category_id' => '219',
+          'parent_id' => '96',
+          'title' => 'Pelle Sensibile e Couperose',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c219',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_219',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        218 => 
+        array (
+          'category_id' => '218',
+          'parent_id' => '96',
+          'title' => 'Rassodare Effetto Lifting',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c218',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_218',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        212 => 
+        array (
+          'category_id' => '212',
+          'parent_id' => '96',
+          'title' => 'Struccare e Detergere ',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c212',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_212',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c96',
+        'dropdown' => 
+        array (
+          215 => 
+          array (
+            'category_id' => '215',
+            'parent_id' => '96',
+            'title' => 'Antirughe Antietà',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c215',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_215',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          213 => 
+          array (
+            'category_id' => '213',
+            'parent_id' => '96',
+            'title' => 'Idratare e Nutrire',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c213',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_213',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          220 => 
+          array (
+            'category_id' => '220',
+            'parent_id' => '96',
+            'title' => 'Pelle Grassa e Impura',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c220',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_220',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          219 => 
+          array (
+            'category_id' => '219',
+            'parent_id' => '96',
+            'title' => 'Pelle Sensibile e Couperose',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c219',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_219',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          218 => 
+          array (
+            'category_id' => '218',
+            'parent_id' => '96',
+            'title' => 'Rassodare Effetto Lifting',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c218',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_218',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          212 => 
+          array (
+            'category_id' => '212',
+            'parent_id' => '96',
+            'title' => 'Struccare e Detergere ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c212',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_212',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    158 => 
+    array (
+      'category_id' => '158',
+      'parent_id' => '65',
+      'title' => 'Viso Uomo',
+      'items' => 
+      array (
+        229 => 
+        array (
+          'category_id' => '229',
+          'parent_id' => '158',
+          'title' => 'Antirughe e Antietà',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c229',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_229',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        228 => 
+        array (
+          'category_id' => '228',
+          'parent_id' => '158',
+          'title' => 'Idratante e Nutriente',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c228',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_228',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c158',
+        'dropdown' => 
+        array (
+          229 => 
+          array (
+            'category_id' => '229',
+            'parent_id' => '158',
+            'title' => 'Antirughe e Antietà',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c229',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_229',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          228 => 
+          array (
+            'category_id' => '228',
+            'parent_id' => '158',
+            'title' => 'Idratante e Nutriente',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c228',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_228',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158',
+        'total' => '3',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    165 => 
+    array (
+      'category_id' => '165',
+      'parent_id' => '65',
+      'title' => 'Corpo Donna',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c165',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_165',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    166 => 
+    array (
+      'category_id' => '166',
+      'parent_id' => '65',
+      'title' => 'Corpo Uomo',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c166',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_166',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    98 => 
+    array (
+      'category_id' => '98',
+      'parent_id' => '65',
+      'title' => 'Rasatura',
+      'items' => 
+      array (
+        280 => 
+        array (
+          'category_id' => '280',
+          'parent_id' => '98',
+          'title' => 'Crema da Barba',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c280',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_280',
+            'total' => '2',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        278 => 
+        array (
+          'category_id' => '278',
+          'parent_id' => '98',
+          'title' => 'Pennelli da Barba',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c278',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_278',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        282 => 
+        array (
+          'category_id' => '282',
+          'parent_id' => '98',
+          'title' => 'Rasoi da Barba',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c282',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_282',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c98',
+        'dropdown' => 
+        array (
+          280 => 
+          array (
+            'category_id' => '280',
+            'parent_id' => '98',
+            'title' => 'Crema da Barba',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c280',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_280',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          278 => 
+          array (
+            'category_id' => '278',
+            'parent_id' => '98',
+            'title' => 'Pennelli da Barba',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c278',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_278',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          282 => 
+          array (
+            'category_id' => '282',
+            'parent_id' => '98',
+            'title' => 'Rasoi da Barba',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c282',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_282',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98',
+        'total' => '3',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    149 => 
+    array (
+      'category_id' => '149',
+      'parent_id' => '65',
+      'title' => 'Solari',
+      'items' => 
+      array (
+        331 => 
+        array (
+          'category_id' => '331',
+          'parent_id' => '149',
+          'title' => 'Creme Solari',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c331',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_331',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        329 => 
+        array (
+          'category_id' => '329',
+          'parent_id' => '149',
+          'title' => 'Dopo Sole Corpo',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c329',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_329',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        330 => 
+        array (
+          'category_id' => '330',
+          'parent_id' => '149',
+          'title' => 'Dopo Sole Viso',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c330',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_330',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        333 => 
+        array (
+          'category_id' => '333',
+          'parent_id' => '149',
+          'title' => 'Make Up Solari',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c333',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_333',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        332 => 
+        array (
+          'category_id' => '332',
+          'parent_id' => '149',
+          'title' => 'Oli Solari',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c332',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_332',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        334 => 
+        array (
+          'category_id' => '334',
+          'parent_id' => '149',
+          'title' => 'Protezione Capelli ',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c334',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_334',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c149',
+        'dropdown' => 
+        array (
+          331 => 
+          array (
+            'category_id' => '331',
+            'parent_id' => '149',
+            'title' => 'Creme Solari',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c331',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_331',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          329 => 
+          array (
+            'category_id' => '329',
+            'parent_id' => '149',
+            'title' => 'Dopo Sole Corpo',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c329',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_329',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          330 => 
+          array (
+            'category_id' => '330',
+            'parent_id' => '149',
+            'title' => 'Dopo Sole Viso',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c330',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_330',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          333 => 
+          array (
+            'category_id' => '333',
+            'parent_id' => '149',
+            'title' => 'Make Up Solari',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c333',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_333',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          332 => 
+          array (
+            'category_id' => '332',
+            'parent_id' => '149',
+            'title' => 'Oli Solari',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c332',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_332',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          334 => 
+          array (
+            'category_id' => '334',
+            'parent_id' => '149',
+            'title' => 'Protezione Capelli ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c334',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_334',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c65',
+    'dropdown' => 
+    array (
+      306 => 
+      array (
+        'category_id' => '306',
+        'parent_id' => '65',
+        'title' => 'Prodotti BIO',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c306',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_306',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      96 => 
+      array (
+        'category_id' => '96',
+        'parent_id' => '65',
+        'title' => 'Viso Donna',
+        'items' => 
+        array (
+          215 => 
+          array (
+            'category_id' => '215',
+            'parent_id' => '96',
+            'title' => 'Antirughe Antietà',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c215',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_215',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          213 => 
+          array (
+            'category_id' => '213',
+            'parent_id' => '96',
+            'title' => 'Idratare e Nutrire',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c213',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_213',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          220 => 
+          array (
+            'category_id' => '220',
+            'parent_id' => '96',
+            'title' => 'Pelle Grassa e Impura',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c220',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_220',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          219 => 
+          array (
+            'category_id' => '219',
+            'parent_id' => '96',
+            'title' => 'Pelle Sensibile e Couperose',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c219',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_219',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          218 => 
+          array (
+            'category_id' => '218',
+            'parent_id' => '96',
+            'title' => 'Rassodare Effetto Lifting',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c218',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_218',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          212 => 
+          array (
+            'category_id' => '212',
+            'parent_id' => '96',
+            'title' => 'Struccare e Detergere ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c212',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_212',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c96',
+          'dropdown' => 
+          array (
+            215 => 
+            array (
+              'category_id' => '215',
+              'parent_id' => '96',
+              'title' => 'Antirughe Antietà',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c215',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_215',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            213 => 
+            array (
+              'category_id' => '213',
+              'parent_id' => '96',
+              'title' => 'Idratare e Nutrire',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c213',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_213',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            220 => 
+            array (
+              'category_id' => '220',
+              'parent_id' => '96',
+              'title' => 'Pelle Grassa e Impura',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c220',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_220',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            219 => 
+            array (
+              'category_id' => '219',
+              'parent_id' => '96',
+              'title' => 'Pelle Sensibile e Couperose',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c219',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_219',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            218 => 
+            array (
+              'category_id' => '218',
+              'parent_id' => '96',
+              'title' => 'Rassodare Effetto Lifting',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c218',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_218',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            212 => 
+            array (
+              'category_id' => '212',
+              'parent_id' => '96',
+              'title' => 'Struccare e Detergere ',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c212',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_212',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      158 => 
+      array (
+        'category_id' => '158',
+        'parent_id' => '65',
+        'title' => 'Viso Uomo',
+        'items' => 
+        array (
+          229 => 
+          array (
+            'category_id' => '229',
+            'parent_id' => '158',
+            'title' => 'Antirughe e Antietà',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c229',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_229',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          228 => 
+          array (
+            'category_id' => '228',
+            'parent_id' => '158',
+            'title' => 'Idratante e Nutriente',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c228',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_228',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c158',
+          'dropdown' => 
+          array (
+            229 => 
+            array (
+              'category_id' => '229',
+              'parent_id' => '158',
+              'title' => 'Antirughe e Antietà',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c229',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_229',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            228 => 
+            array (
+              'category_id' => '228',
+              'parent_id' => '158',
+              'title' => 'Idratante e Nutriente',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c228',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_228',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158',
+          'total' => '3',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      165 => 
+      array (
+        'category_id' => '165',
+        'parent_id' => '65',
+        'title' => 'Corpo Donna',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c165',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_165',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      166 => 
+      array (
+        'category_id' => '166',
+        'parent_id' => '65',
+        'title' => 'Corpo Uomo',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c166',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_166',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      98 => 
+      array (
+        'category_id' => '98',
+        'parent_id' => '65',
+        'title' => 'Rasatura',
+        'items' => 
+        array (
+          280 => 
+          array (
+            'category_id' => '280',
+            'parent_id' => '98',
+            'title' => 'Crema da Barba',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c280',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_280',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          278 => 
+          array (
+            'category_id' => '278',
+            'parent_id' => '98',
+            'title' => 'Pennelli da Barba',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c278',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_278',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          282 => 
+          array (
+            'category_id' => '282',
+            'parent_id' => '98',
+            'title' => 'Rasoi da Barba',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c282',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_282',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c98',
+          'dropdown' => 
+          array (
+            280 => 
+            array (
+              'category_id' => '280',
+              'parent_id' => '98',
+              'title' => 'Crema da Barba',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c280',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_280',
+                'total' => '2',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            278 => 
+            array (
+              'category_id' => '278',
+              'parent_id' => '98',
+              'title' => 'Pennelli da Barba',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c278',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_278',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            282 => 
+            array (
+              'category_id' => '282',
+              'parent_id' => '98',
+              'title' => 'Rasoi da Barba',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c282',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_282',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98',
+          'total' => '3',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      149 => 
+      array (
+        'category_id' => '149',
+        'parent_id' => '65',
+        'title' => 'Solari',
+        'items' => 
+        array (
+          331 => 
+          array (
+            'category_id' => '331',
+            'parent_id' => '149',
+            'title' => 'Creme Solari',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c331',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_331',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          329 => 
+          array (
+            'category_id' => '329',
+            'parent_id' => '149',
+            'title' => 'Dopo Sole Corpo',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c329',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_329',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          330 => 
+          array (
+            'category_id' => '330',
+            'parent_id' => '149',
+            'title' => 'Dopo Sole Viso',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c330',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_330',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          333 => 
+          array (
+            'category_id' => '333',
+            'parent_id' => '149',
+            'title' => 'Make Up Solari',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c333',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_333',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          332 => 
+          array (
+            'category_id' => '332',
+            'parent_id' => '149',
+            'title' => 'Oli Solari',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c332',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_332',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          334 => 
+          array (
+            'category_id' => '334',
+            'parent_id' => '149',
+            'title' => 'Protezione Capelli ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c334',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_334',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c149',
+          'dropdown' => 
+          array (
+            331 => 
+            array (
+              'category_id' => '331',
+              'parent_id' => '149',
+              'title' => 'Creme Solari',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c331',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_331',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            329 => 
+            array (
+              'category_id' => '329',
+              'parent_id' => '149',
+              'title' => 'Dopo Sole Corpo',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c329',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_329',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            330 => 
+            array (
+              'category_id' => '330',
+              'parent_id' => '149',
+              'title' => 'Dopo Sole Viso',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c330',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_330',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            333 => 
+            array (
+              'category_id' => '333',
+              'parent_id' => '149',
+              'title' => 'Make Up Solari',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c333',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_333',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            332 => 
+            array (
+              'category_id' => '332',
+              'parent_id' => '149',
+              'title' => 'Oli Solari',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c332',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_332',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            334 => 
+            array (
+              'category_id' => '334',
+              'parent_id' => '149',
+              'title' => 'Protezione Capelli ',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c334',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_334',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65',
+    'total' => '3',
+    'classes' => 
+    array (
+    ),
+  ),
+);

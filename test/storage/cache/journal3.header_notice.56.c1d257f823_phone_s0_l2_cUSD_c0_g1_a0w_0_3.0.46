@@ -1,0 +1,53 @@
+<?php $val = array (
+  'css' => '.module-header_notice-56 .hn-close::before{content:\'\\ebeb\' !important;font-family:icomoon !important;font-size:22px;color:rgba(76, 97, 255, 1)}.module-header_notice-56 .hn-close:hover::before{color:rgba(60, 196, 114, 1)}.module-header_notice-56 .hn-close.btn, .module-header_notice-56 .hn-close.btn:visited{color:rgba(48, 56, 65, 1);text-transform:none}.module-header_notice-56 .hn-close.btn:hover{color:rgba(76, 97, 255, 1) !important;background:none !important}.module-header_notice-56 .hn-close.btn{background:none;border-style:none;padding:3px;box-shadow:none}.module-header_notice-56 .hn-close.btn:active, .module-header_notice-56 .hn-close.btn:hover:active, .module-header_notice-56 .hn-close.btn:focus:active{background:none !important}.module-header_notice-56 .hn-close.btn:focus{background:none}.module-header_notice-56 .hn-close.btn.btn.disabled::after{font-size:20px}.module-header_notice-56 .hn-close{margin-left:8px}.module-header_notice-56 .module-body
+p{margin-bottom:7px}.module-header_notice-56 .module-body{height:auto;flex-direction:row;background:rgba(77, 98, 255, 1);padding:7px}.module-header_notice-56 .header-notice-close-button{position:relative;top:auto;right:auto;bottom:auto;left:auto;transform:none}.module-header_notice-56 .hn-content
+a{text-decoration:underline}.module-header_notice-56 .hn-body::before{float:none}.module-header_notice-56 .hn-body{display:flex}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '833e042c',
+    'closeButton' => true,
+    'closeLink' => 
+    array (
+      'type' => NULL,
+      'id' => NULL,
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'closeText' => '',
+    'content' => '<strong>20% OFF</strong> on all products <a href="#">Shop now</a>',
+    'status' => true,
+    'id' => 'header_notice-5f2c703b60b17',
+    'module_id' => 56,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-header_notice',
+      2 => 'module-header_notice-56',
+    ),
+    'options' => 
+    array (
+      'cookie' => '833e042c',
+      'ease' => 'easeOutQuart',
+      'duration' => '800',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

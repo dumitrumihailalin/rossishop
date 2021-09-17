@@ -1,0 +1,226 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-219 > .j-menu .menu-item.main-menu-item-1>a::before{content:\'\\e97b\' !important;font-family:icomoon !important}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-1 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-1>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-1:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-1.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-219 > .j-menu li.main-menu-item-1>a>.menu-label{color:rgba(255, 255, 255, 1);font-weight:400;text-transform:uppercase;letter-spacing:0;background:rgba(60, 196, 114, 1);border-radius:1px;padding:1px;padding-right:4px;padding-left:4px;margin-top:-7px}div.main-menu.main-menu-219 > .j-menu .menu-item.main-menu-item-2>a::before{content:\'\\e97e\' !important;font-family:icomoon !important}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-2 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-2>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-2:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-2.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-219 > .j-menu .menu-item.main-menu-item-3>a::before{content:\'\\eb79\' !important;font-family:icomoon !important}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-3 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-3>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-3:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-219 > .j-menu .menu-item.main-menu-item-4>a::before{content:\'\\e946\' !important;font-family:icomoon !important}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-4 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-4>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-4:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-4.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}div.main-menu.main-menu-219 > .j-menu .menu-item.main-menu-item-5>a::before{content:\'\\f29c\' !important;font-family:icomoon !important}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-5 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 .mega-custom.main-menu-item-5>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-5:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-219 > .j-menu li.main-menu-item-5.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu-5f2c703c06075',
+    'module_id' => 219,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-219',
+      'accordion-menu' => true,
+    ),
+    'display' => 'accordion',
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Categorie / Prodotti',
+        'label' => 'New',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'flyout',
+        'mobileOpen' => true,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-1',
+          3 => 'dropdown',
+          4 => 'flyout',
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+          'drop-menu' => true,
+        ),
+        'items' => '223',
+        'isOpen' => true,
+      ),
+      2 => 
+      array (
+        'title' => 'Chi siamo',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '4',
+          'href' => 'https://www.rossishop.it/test/index.php?route=information/information&amp;information_id=4',
+          'name' => 'Chi siamo',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      3 => 
+      array (
+        'title' => 'Contatti',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      4 => 
+      array (
+        'title' => 'Blog',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'blog_home',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/index.php?route=journal3/blog',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-4',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+      5 => 
+      array (
+        'title' => 'FAQ',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'information',
+          'id' => '5',
+          'href' => 'https://www.rossishop.it/test/index.php?route=information/information&amp;information_id=5',
+          'name' => 'Termini e condizioni',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => '',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-5',
+          'multi-level' => true,
+          'dropdown' => false,
+          'drop-menu' => 
+          array (
+            0 => false,
+            1 => false,
+          ),
+          'icon-only' => false,
+          'menu-fullwidth' => false,
+          'mega-fullwidth' => false,
+          'mega-custom' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

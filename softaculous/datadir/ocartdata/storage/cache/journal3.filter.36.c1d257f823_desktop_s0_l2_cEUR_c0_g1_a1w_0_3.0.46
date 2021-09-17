@@ -1,0 +1,1404 @@
+<?php $val = array (
+  'css' => '.reset-filter.btn,.reset-filter.btn:visited{font-family:\'Hind Madurai\';font-weight:400;font-size:11px;text-transform:none;letter-spacing:0}.reset-filter.btn{padding:2px;padding-right:7px;padding-left:7px;min-width:20px;min-height:20px}.desktop .reset-filter.btn:hover{box-shadow:0 5px 30px -5px rgba(0,0,0,0.25)}.reset-filter.btn:active,.reset-filter.btn:hover:active,.reset-filter.btn:focus:active{box-shadow:inset 0 0 20px rgba(0,0,0,0.25)}.reset-filter.btn:focus{box-shadow:inset 0 0 20px rgba(0,0,0,0.25)}.reset-filter.btn.btn.disabled::after{font-size:20px}.reset-filter::before{content:\'\\e5c9\' !important;font-family:icomoon !important;margin-right:3px}.mobile-filter-trigger.btn{background:rgba(80, 173, 85, 1);padding:12px
+!important}.mobile-filter-trigger.btn:hover{background:rgba(233, 2, 98, 1) !important}.mobile-filter-trigger.btn.btn.disabled::after{font-size:20px}.mobile-filter-trigger::before{content:\'\\e919\' !important;font-family:icomoon !important;margin-right:7px}.mobile-filter-trigger{margin-top:10px;left:50%;right:auto;transform:translate3d(-50%,0,0)}.module-filter-36 .panel-group .panel-heading a::before{content:\'\\eba2\' !important;font-family:icomoon !important;font-size:15px;margin-right:3px;order:10}.desktop .module-filter-36 .panel-group .panel-heading:hover a::before{color:rgba(233, 2, 97, 1)}.module-filter-36 .panel-group .panel-active .panel-heading a::before{content:\'\\eb87\' !important;font-family:icomoon !important;color:rgba(233, 2, 97, 1)}.module-filter-36 .panel-group .panel-heading
+a{justify-content:space-between;font-family:\'Hind Madurai\';font-weight:700;font-size:13px;color:rgba(105, 105, 115, 1);text-transform:uppercase;padding:15px;padding-right:5px;padding-left:0px}.module-filter-36 .panel-group .panel-heading:hover
+a{color:rgba(233, 2, 97, 1)}.module-filter-36 .panel-group .panel-active .panel-heading:hover a, .module-filter-36 .panel-group .panel-active .panel-heading
+a{color:rgba(51, 51, 51, 1)}.module-filter-36 .panel-group .panel-heading{border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1)}.module-filter-36 .panel-group .panel:first-child .panel-heading{border-width:0px}.module-filter-36 .panel-group .panel-body{padding-bottom:20px}.module-filter-36 .count-badge{display:inline-flex}.module-filter-36 .extra-controls
+input{background:rgba(255, 255, 255, 1) !important;border-width:1px !important;border-style:solid !important;border-color:rgba(226, 226, 226, 1) !important;border-radius:3px !important}.module-filter-36 .extra-controls input:focus, .module-filter-36 .extra-controls input:active{border-color:rgba(233, 2, 98, 1) !important}.module-filter-36 .extra-controls input:hover{box-shadow:0 5px 35px -5px rgba(0, 0, 0, 0.07)}.module-filter-36 .extra-controls input:focus{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-filter-36 .panel-body{max-height:250px;overflow-y:auto}.module-filter-36 label:hover .links-text{color:rgba(41, 41, 43, 1)}.module-filter-36 label input:checked + .links-text, .module-filter-36 label input:checked+img+.links-text{color:rgba(41, 41, 43, 1)}.module-filter-36 label
+img{border-width:2px;border-style:solid;border-color:rgba(0, 0, 0, 0)}.module-filter-36 label:hover
+img{border-color:rgba(0, 0, 0, 1)}.module-filter-36 label input:checked+img{border-color:rgba(0, 0, 0, 1)}.module-filter-36 .image-only label
+img{border-radius:50px}.module-filter-36 .image-only .panel-body>div>label{padding:calc(7px / 2)}.module-filter-36 .irs-line{transform:scaleY(.1);;background:rgba(233, 2, 97, 1)}.module-filter-36 .irs-bar{transform:scaleY(.1);;background:rgba(41, 41, 43, 1)}.module-filter-36 .irs-line, .module-filter-36 .irs-bar{border-radius:10px}.module-filter-36 .irs-slider{background:rgba(41, 41, 43, 1);border-radius:50%;width:15px;height:15px;transform:translateY(5px)}.module-filter-36 .module-item-a10 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a10 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a21 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a21 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a21{order:100}.module-filter-36 .module-item-a21 .count-badge{display:none}.module-filter-36 .module-item-a32 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a32 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a32{order:100}.module-filter-36 .module-item-a32 .count-badge{display:none}.module-filter-36 .module-item-a11 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a11 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a22 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a22 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a33 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a33 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a33{order:100}.module-filter-36 .module-item-a33 .count-badge{display:none}.module-filter-36 .module-item-o1 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o1 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o1{order:1}.module-filter-36 .module-item-o1 .count-badge{display:inline-flex}.module-filter-36 .module-item-a12 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a12 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a23 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a23 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a34 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a34 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a34{order:100}.module-filter-36 .module-item-a34 .count-badge{display:inline-flex}.module-filter-36 .module-item-c .panel-body > div > label
+input{display:none}.module-filter-36 .module-item-c .panel-body > div > label input+*{margin:0}.module-filter-36 .module-item-c{order:0}.module-filter-36 .module-item-c .count-badge{display:inline-flex}.module-filter-36 .module-item-o2 .panel-body > div > label
+input{display:none}.module-filter-36 .module-item-o2 .panel-body > div > label input+*{margin:0}.module-filter-36 .module-item-o2{order:1}.module-filter-36 .module-item-o2 .count-badge{display:none}.module-filter-36 .module-item-a13 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a13 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a13{order:1}.module-filter-36 .module-item-a13 .count-badge{display:inline-flex}.module-filter-36 .module-item-a24 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a24 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a35 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a35 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a35{order:100}.module-filter-36 .module-item-a35 .count-badge{display:inline-flex}.module-filter-36 .module-item-a14 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a14 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a25 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a25 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a36 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a36 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a36{order:100}.module-filter-36 .module-item-a36 .count-badge{display:none}.module-filter-36 .module-item-a15 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a15 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a26 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a26 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a37 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a37 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a37{order:100}.module-filter-36 .module-item-a37 .count-badge{display:none}.module-filter-36 .module-item-o5 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o5 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o5{order:1}.module-filter-36 .module-item-o5 .count-badge{display:inline-flex}.module-filter-36 .module-item-a16 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a16 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a16{order:100}.module-filter-36 .module-item-a16 .count-badge{display:none}.module-filter-36 .module-item-a27 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a27 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a38 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a38 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a38{order:100}.module-filter-36 .module-item-a38 .count-badge{display:none}.module-filter-36 .module-item-a17 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a17 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a17{order:100}.module-filter-36 .module-item-a17 .count-badge{display:none}.module-filter-36 .module-item-a28 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a28 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a28{order:100}.module-filter-36 .module-item-a28 .count-badge{display:none}.module-filter-36 .module-item-a18 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a18 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a18{order:100}.module-filter-36 .module-item-a18 .count-badge{display:none}.module-filter-36 .module-item-a29 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a29 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a29{order:100}.module-filter-36 .module-item-a29 .count-badge{display:none}.module-filter-36 .module-item-a19 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a19 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a19{order:100}.module-filter-36 .module-item-a19 .count-badge{display:none}.module-filter-36 .module-item-f1 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-f1 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-f1 .count-badge{display:inline-flex}.module-filter-36 .module-item-f2 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-f2 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-f2{order:100}.module-filter-36 .module-item-f2 .count-badge{display:none}.module-filter-36 .module-item-m .panel-body > div > label
+input{display:none}.module-filter-36 .module-item-m .panel-body > div > label input+*{margin:0}.module-filter-36 .module-item-m{order:0}.module-filter-36 .module-item-m .count-badge{display:inline-flex}.module-filter-36 .module-item-o11 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o11 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o11{order:1}.module-filter-36 .module-item-o11 .count-badge{display:inline-flex}.module-filter-36 .module-item-p .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-p .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-p{order:-10}.module-filter-36 .module-item-a1 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a1 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a2 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a2 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a3 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a3 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o15 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-o15 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-o15{order:100}.module-filter-36 .module-item-o15 .count-badge{display:none}.module-filter-36 .module-item-a4 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a4 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a5 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a5 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a5 .count-badge{display:none}.module-filter-36 .module-item-a7 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a7 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a8 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a8 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a9 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a9 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a40 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a40 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a40{order:100}.module-filter-36 .module-item-a40 .count-badge{display:none}.module-filter-36 .module-item-a30 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a30 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a30{order:100}.module-filter-36 .module-item-a30 .count-badge{display:none}.module-filter-36 .module-item-a20 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a20 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a20{order:100}.module-filter-36 .module-item-a20 .count-badge{display:none}.module-filter-36 .module-item-a31 .panel-body > div > label
+input{display:inline-block}.module-filter-36 .module-item-a31 .panel-body > div > label input+*{margin:0
+5px}.module-filter-36 .module-item-a31{order:100}.module-filter-36 .module-item-a31 .count-badge{display:none}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Hind Madurai' => 
+      array (
+        400 => '400',
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Filtro',
+    'imageDimensions' => 
+    array (
+      'width' => 37,
+      'height' => 37,
+      'resize' => 'fit',
+    ),
+    'input' => 'checkbox',
+    'collapsed' => true,
+    'resetText' => 'Pulisci',
+    'mobileText' => 'Filtro Prodotti',
+    'status' => true,
+    'id' => 'filter-613bc04bc39e6',
+    'module_id' => 36,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-filter',
+      2 => 'module-filter-36',
+    ),
+    'image_width' => 37,
+    'image_height' => 37,
+    'image_resize' => 'fit',
+    'currency_left' => '€',
+    'currency_right' => '',
+    'items' => 
+    array (
+      'a10' => 
+      array (
+        'title' => 'test 7',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a10',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a10',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a21' => 
+      array (
+        'title' => 'Specifiche Tecniche > Tempo di designazione ottimale',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a21',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a21',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a32' => 
+      array (
+        'title' => 'Room > Room',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a32',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a32',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a11' => 
+      array (
+        'title' => 'test 8',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a11',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a11',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a22' => 
+      array (
+        'title' => 'Specifiche Tecniche > Regolatore di temperatura',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a22',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a22',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a33' => 
+      array (
+        'title' => 'Room > Kids Room',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a33',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a33',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'o1' => 
+      array (
+        'title' => 'Bottoni Circolari',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o1',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a12' => 
+      array (
+        'title' => 'Specifiche Tecniche > Larghezza (cm)',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a12',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a12',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a23' => 
+      array (
+        'title' => 'Specifiche Tecniche > Temperatura massima',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a23',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a23',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a34' => 
+      array (
+        'title' => 'Formato',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a34',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a34',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'c' => 
+      array (
+        'title' => 'Sottocategorie',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-c',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-c',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'c',
+        'key' => 'c',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'o2' => 
+      array (
+        'title' => 'Casella di Controllo',
+        'display' => 'image',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o2',
+          'text-only' => false,
+          'image-only' => true,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => true,
+        'collapsed' => false,
+      ),
+      'a13' => 
+      array (
+        'title' => 'Specifiche Tecniche > Peso (kg)',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a13',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a13',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a24' => 
+      array (
+        'title' => 'Specifiche Tecniche > Materiale del piatto/barra termici',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a24',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a24',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a35' => 
+      array (
+        'title' => 'Concentrazione',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a35',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a35',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a14' => 
+      array (
+        'title' => 'Specifiche Tecniche > Altezza (cm)',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a14',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a14',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a25' => 
+      array (
+        'title' => 'Specifiche Tecniche > Tempo di impiego del piatto/barra termici',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a25',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a25',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a36' => 
+      array (
+        'title' => 'Piramide Olfattiva > Note di Testa',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a36',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a36',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a15' => 
+      array (
+        'title' => 'Specifiche Tecniche > Materiale',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a15',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a15',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a26' => 
+      array (
+        'title' => 'Attribute 1',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a26',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a26',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a37' => 
+      array (
+        'title' => 'Piramide Olfattiva > Note di Cuore',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a37',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a37',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'o5' => 
+      array (
+        'title' => 'Selezioni',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o5',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a16' => 
+      array (
+        'title' => 'Specifiche Tecniche > Potenza',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a16',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a16',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a27' => 
+      array (
+        'title' => 'Attribute 2',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a27',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a27',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a38' => 
+      array (
+        'title' => 'Piramide Olfattiva > Note di Fondo',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a38',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a38',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a17' => 
+      array (
+        'title' => 'Specifiche Tecniche > Fonte di energia',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a17',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a17',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a28' => 
+      array (
+        'title' => 'Material > Upholstery',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a28',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a28',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a18' => 
+      array (
+        'title' => 'Specifiche Tecniche > Diametro del conduttore termico',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a18',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a18',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a29' => 
+      array (
+        'title' => 'Room > Living',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a29',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a29',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a19' => 
+      array (
+        'title' => 'Specifiche Tecniche > Capelli applicabili',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a19',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a19',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'f1' => 
+      array (
+        'title' => 'Filtri',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-f1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-f1',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'f',
+        'key' => 'f',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'f2' => 
+      array (
+        'title' => 'Filtri2',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-f2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-f2',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'f',
+        'key' => 'f',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'm' => 
+      array (
+        'title' => 'Marchio',
+        'display' => 'both',
+        'input' => 'radio',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-m',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-m',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'm',
+        'key' => 'm',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'o11' => 
+      array (
+        'title' => 'Dimensioni',
+        'display' => 'text',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o11',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o11',
+          'text-only' => true,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'p' => 
+      array (
+        'title' => 'Prezzo',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-p',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-p',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'p',
+        'key' => 'p',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a1' => 
+      array (
+        'title' => 'Description',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a1',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a2' => 
+      array (
+        'title' => 'No. of Cores',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a2',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a3' => 
+      array (
+        'title' => 'Clockspeed',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a3',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'o15' => 
+      array (
+        'title' => 'Colore',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-o15',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-o15',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'o',
+        'key' => 'o',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => false,
+      ),
+      'a4' => 
+      array (
+        'title' => 'test 1',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a4',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a5' => 
+      array (
+        'title' => 'test 2',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a5',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a7' => 
+      array (
+        'title' => 'test 4',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a7',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a7',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a8' => 
+      array (
+        'title' => 'test 5',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a8',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a8',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a9' => 
+      array (
+        'title' => 'test 6',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a9',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a9',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a40' => 
+      array (
+        'title' => 'Tipo > Tipo',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a40',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a40',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a30' => 
+      array (
+        'title' => 'Room > Dining',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a30',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a30',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a20' => 
+      array (
+        'title' => 'Specifiche Tecniche > Temperatura minima',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a20',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a20',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+      'a31' => 
+      array (
+        'title' => 'Room > Entry',
+        'display' => 'both',
+        'input' => '',
+        'inStockText' => 'In Stock',
+        'outOfStockText' => 'Out of Stock',
+        'id' => '36-a31',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-a31',
+          'text-only' => false,
+          'image-only' => false,
+          2 => 'panel',
+        ),
+        'type' => 'a',
+        'key' => 'a',
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'image_only' => false,
+        'collapsed' => true,
+      ),
+    ),
+  ),
+);

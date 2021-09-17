@@ -1,0 +1,119 @@
+<?php $val = array (
+  'css' => '.module-banners-201 .swiper-container{overflow:hidden}.module-banners-201 .swiper-buttons{display:none;top:50%;width:calc(100% - (5px * 2));margin-top:-10px}.module-banners-201:hover .swiper-buttons{display:block}.module-banners-201 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-banners-201 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-banners-201 .swiper-buttons
+div{width:25px;height:25px;background:rgba(76, 97, 255, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-banners-201 .swiper-button-disabled{opacity:0}.module-banners-201 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-banners-201 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-banners-201 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(63, 83, 237, 1)}.module-banners-201 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-banners-201
+.swiper{padding-bottom:10px}.module-banners-201 .swiper-pagination-bullet{width:7px;height:7px;background-color:rgba(109, 118, 125, 1)}.module-banners-201 .swiper-pagination>span+span{margin-left:8px}.desktop .module-banners-201 .swiper-pagination-bullet:hover{background-color:rgba(76, 97, 255, 1)}.module-banners-201 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(76, 97, 255, 1)}.module-banners-201 .swiper-pagination>span{border-radius:20px}.module-banners-201 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.module-banners-201 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-banners-201 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.one-column #content .module-banners-201 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-banners-201 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.two-column #content .module-banners-201 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.side-column .module-banners-201 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.side-column .module-banners-201 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.module-banners-201:not(.carousel-mode) .module-body{margin:-10px}.module-banners-201 a
+img{transform:scale(1)}.desktop .module-banners-201 a:hover
+img{transform:scale(1.15)}.module-banners-201 .module-item>a::before{background:rgba(53, 66, 174, 0.5)}.module-banners-201 a::before{opacity:0}.desktop .module-banners-201 a:hover::before{opacity:1}.module-banners-201 .module-item>a::after{content:\'\\e91f\' !important;font-family:icomoon !important;font-size:40px}.module-banners-201 a::after{opacity:0}.desktop .module-banners-201 a:hover::after{opacity:1}.module-banners-201 .banner-caption{visibility:hidden;opacity:0;display:block;top:auto;left:50%;right:auto;bottom:0;transform:translate3d(-50%, 0, 0)}.desktop .module-banners-201 a:hover .banner-caption{visibility:visible;opacity:1}.module-banners-201 a .banner-caption{width:100%}.module-banners-201 .banner-caption span::after{content:\'\\e5c8\' !important;font-family:icomoon !important;margin-left:5px}.module-banners-201 .banner-caption
+span{white-space:normal;;color:rgba(255, 255, 255, 1);text-align:center;background:rgba(76, 97, 255, 1);padding:10px}.module-banners-201 .banner-caption-2{visibility:hidden;opacity:0;display:block;top:auto;left:50%;right:auto;bottom:0;transform:translate3d(-50%, 0, 0)}.desktop .module-banners-201 a:hover .banner-caption-2{visibility:visible;opacity:1}.module-banners-201 a .banner-caption-2{width:100%}.module-banners-201 .banner-caption-2
+span{white-space:normal;;padding:10px}.module-banners-201 .banner-caption-3
+span{white-space:normal}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 550,
+      'height' => 240,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'banners-5f2c2d5c01161',
+    'module_id' => 201,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-banners',
+      2 => 'module-banners-201',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Sample banner caption',
+        'title2' => '',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '214',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '201-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'image' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia2-550x240w.jpg',
+        'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia2-1100x480w.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

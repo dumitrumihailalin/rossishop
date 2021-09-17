@@ -1,0 +1,294 @@
+<?php $val = array (
+  'css' => '.icons-menu-61 .title.module-title{color:rgba(238, 238, 238, 1);margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}.icons-menu-61 .title.module-title::after, .icons-menu-61 .title.module-title.page-title>span::after{width:50px;height:1px;background:rgba(76, 97, 255, 1)}.icons-menu-61 .title.module-title::after{margin-top:8px}.icons-menu-61 .title.module-title.page-title>span::after{margin-top:8px}.icons-menu-61
+a{background:rgba(77, 98, 255, 1);width:40px;height:40px}.desktop .icons-menu-61 a:hover{background:rgba(76, 97, 255, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.icons-menu-61 a::before{color:rgba(255, 255, 255, 1)}.icons-menu-61 .menu-item
+a{border-radius:50%}.icons-menu-61 .links-text{white-space:normal;overflow:visible;text-overflow:ellipsis;display:none}.icons-menu-61>ul>.icons-menu-item{padding:calc(10px / 2)}.icons-menu-tooltip-61 .tooltip-inner{background:rgba(76, 97, 255, 1)}.icons-menu-tooltip-61.tooltip.top .tooltip-arrow{border-top-color:rgba(76, 97, 255, 1)}.icons-menu-tooltip-61.tooltip.right .tooltip-arrow{border-right-color:rgba(76, 97, 255, 1)}.icons-menu-tooltip-61.tooltip.bottom .tooltip-arrow{border-bottom-color:rgba(76, 97, 255, 1)}.icons-menu-tooltip-61.tooltip.left .tooltip-arrow{border-left-color:rgba(76, 97, 255, 1)}.icons-menu-61
+ul{justify-content:center}.icons-menu-61 .module-title{text-align:center}.icons-menu-61 .module-title::after{left:50%;right:auto;transform:translate3d(-50%,0,0)}.icons-menu-61 .icons-menu-item-1.icon-menu-icon>a::before{content:\'\\f09a\' !important;font-family:icomoon !important}.icons-menu-61 .icons-menu-item-2.icon-menu-icon>a::before{content:\'\\f099\' !important;font-family:icomoon !important}.icons-menu-61 .icons-menu-item-3.icon-menu-icon>a::before{content:\'\\e90e\' !important;font-family:icomoon !important;font-size:18px}.icons-menu-61 .icons-menu-item-4.icon-menu-icon>a::before{content:\'\\f0e1\' !important;font-family:icomoon !important}.icons-menu-61 .icons-menu-item-5.icon-menu-icon>a::before{content:\'\\f167\' !important;font-family:icomoon !important}.icons-menu-61 .icons-menu-item-6.icon-menu-icon>a::before{content:\'\\f17e\' !important;font-family:icomoon !important}.icons-menu-61 .icons-menu-item-7.icon-menu-icon>a::before{content:\'\\f0d3\' !important;font-family:icomoon !important}.icons-menu-61 .icons-menu-item-8.icon-menu-icon>a::before{content:\'\\f232\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'tooltipStatus' => true,
+    'tooltipPosition' => 'top',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'icons-menu-5f2c2d5da7043',
+    'module_id' => 61,
+    'classes' => 
+    array (
+      0 => 'icons-menu',
+      1 => 'icons-menu-61',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Facebook',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Twitter',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Instagram',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'LinkedIn',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'YouTube',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Skype',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Pinterest',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Whatsapp',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

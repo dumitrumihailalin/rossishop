@@ -1,0 +1,112 @@
+{{ header }}{{ column_left }}
+<div id="content">
+  <style>
+  .base.enabled {
+    font-weight: bold;
+  }
+  .base.disabled {
+    color: #999999;
+  }
+  </style>
+  <div class="page-header">
+    <div class="container-fluid">
+      <div class="pull-right">
+        <a href="{{ add }}" data-toggle="tooltip" title="{{ button_add }}" class="btn btn-primary"><i class="fa fa-plus"></i></a>
+        <button type="button" onclick="$('#form-cunit').attr('action', '{{ copy }}'); $('#form-cunit').submit();" form="form-module" data-toggle="tooltip" title="{{ button_copy }}" class="btn btn-default"><i class="fa fa-copy"></i></button>
+        <button type="button" onclick="$('#form-cunit').attr('action', '{{ delete }}'); confirm('{{ text_confirm }}') ? $('#form-cunit').submit() : false;" form="form-module" data-toggle="tooltip" title="{{ button_delete }}" class="btn btn-danger"><i class="fa fa-trash-o"></i></button>
+        <!--<button type="submit" form="form-module" data-toggle="tooltip" title="{{ button_save }}" class="btn btn-primary"><i class="fa fa-save"></i></button>-->
+        <a href="{{ cancel }}" data-toggle="tooltip" title="{{ button_cancel }}" class="btn btn-default"><i class="fa fa-reply"></i></a></div>
+      <h1>{{ heading_title }}</h1>
+      <ul class="breadcrumb">
+        {% for breadcrumb in breadcrumbs %}
+        <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="container-fluid">
+    {% if error_warning %}
+    <div class="alert alert-danger alert-dismissible"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    {% endif %}
+    {% if success %}
+    <div class="alert alert-success alert-dismissible"><i class="fa fa-check-circle"></i> {{ success }}
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    {% endif %}
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-list"></i> {{ text_list }}</h3>
+      </div>
+      <div class="panel-body">
+        <form action="{{ action }}" method="post" enctype="multipart/form-data" id="form-cunit">
+          <div class="table-responsive">
+            <table class="table table-bordered table-hover">
+              <thead>
+                <tr>
+                  <th style="width: 1px;" class="text-center"><input type="checkbox" onclick="$('input[name*=\'selected\']').prop('checked', this.checked);" /></th>
+                  <th class="text-left">{% if sort == 'cd.base' %}
+                    <a href="{{ sort_base }}" class="{{ order|lower }}">{{ column_base }}</a>
+                    {% else %}
+                    <a href="{{ sort_base }}">{{ column_base }}</a>
+                    {% endif %}</th>
+                  <th class="text-left">{% if sort == 'cd.collective' %}
+                    <a href="{{ sort_collective }}" class="{{ order|lower }}">{{ column_collective }}</a>
+                    {% else %}
+                    <a href="{{ sort_collective }}">{{ column_collective }}</a>
+                    {% endif %}</th>
+                  <th class="text-right">{% if sort == 'c.value' %}
+                    <a href="{{ sort_value }}" class="{{ order|lower }}">{{ column_value }}</a>
+                    {% else %}
+                    <a href="{{ sort_value }}">{{ column_value }}</a>
+                    {% endif %}</th>
+                  <th class="text-right">{{ column_action }}</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% if cunits %}
+                {% for cunit in cunits %}
+                <tr>
+                  <td class="text-center">{% if cunit.custom_unit_id in selected %}
+                    <input type="checkbox" name="selected[]" value="{{ cunit.custom_unit_id }}" checked="checked" />
+                    {% else %}
+                    <input type="checkbox" name="selected[]" value="{{ cunit.custom_unit_id }}" />
+                    {% endif %}</td>
+                  <td class="text-left">
+                    <span class="base {{ cunit.status }}">{{ cunit.base }}</span>
+                  </td>
+                  <td class="text-left">
+                    {{ cunit.collective }}
+                  </td>
+                  <td class="text-right">{{ cunit.value }}</td>
+                  <td class="text-right"><a href="{{ cunit.edit }}" data-toggle="tooltip" title="{{ button_edit }}" class="btn btn-primary"><i class="fa fa-pencil"></i></a></td>
+                </tr>
+                {% endfor %}
+                {% else %}
+                <tr>
+                  <td class="text-center" colspan="5">
+                    {{ text_no_results }}
+                    <br><br>
+                    <a href="{{ add }}" data-toggle="tooltip" title="{{ button_add }}" class="btn btn-primary"><i class="fa fa-plus"></i></a><br>
+                  </td>
+                </tr>
+                {% endif %}
+              </tbody>
+            </table>
+          </div>
+        </form>
+        <div class="row">
+          <div class="col-sm-6 text-left">{{ pagination }}</div>
+          <div class="col-sm-6 text-right">{{ results }}</div>
+        </div>
+      </div>
+      <div class="panel-footer">
+        <div class="small pull-left">{{ text_version }} {{ new_version }}</div>
+        <div class="small pull-right">{{ text_copyright }}</div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ footer }}

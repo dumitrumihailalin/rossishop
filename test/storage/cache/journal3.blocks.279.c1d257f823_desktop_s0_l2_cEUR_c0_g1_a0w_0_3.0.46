@@ -1,0 +1,159 @@
+<?php $val = array (
+  'css' => '.module-blocks-279.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.module-blocks-279.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.one-column #content .module-blocks-279.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.one-column #content .module-blocks-279.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.two-column #content .module-blocks-279.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.two-column #content .module-blocks-279.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.side-column .module-blocks-279.blocks-grid .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-blocks-279.blocks-grid .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-blocks-279 .block-title{order:-2}.module-blocks-279 .block-header{display:flex;float:none;order:-1;justify-content:flex-start;align-items:flex-start}.module-blocks-279 .block-header
+img{display:flex}.module-blocks-279 .block-wrapper{display:flex}.module-blocks-279 .block-header
+i{float:none;display:flex}.module-blocks-279 .block-body{display:flex;flex-direction:column}.module-blocks-279 .module-item-1 .block-body .block-content{color:rgba(190, 190, 190, 1)}.module-blocks-279 .module-item-1 .block-header{display:flex;float:none;order:-1;justify-content:center;align-items:center;margin-bottom:10px}.module-blocks-279 .module-item-1 .block-header
+img{display:flex}.module-blocks-279 .module-item-1 .block-wrapper{display:flex}.module-blocks-279 .module-item-1 .block-header
+i{float:none;display:flex}.module-blocks-279 .module-item-1 .block-body{display:flex;flex-direction:column}.module-blocks-279 .module-item-1 .block-content{text-align:center;column-count:initial;column-gap:20px;column-rule-width:1px;column-rule-style:solid}.module-blocks-279 .module-item-1 .expand-content{max-height:100%;overflow:visible;max-height:70px}.module-blocks-279 .module-item-1 .block-footer
+.btn{width:auto;transform:scale(calc(100 / 100));transform-origin:center}.module-blocks-279 .module-item-1 .block-footer{text-align:center}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'displayTablet' => '',
+    'displayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'default' => '',
+    'title' => '',
+    'imageDimensions' => 
+    array (
+      'width' => 200,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'blocks-5f2d75491d76c',
+    'module_id' => 279,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-blocks',
+      2 => 'module-blocks-279',
+      3 => 'blocks-grid',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'default_index' => 0,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'header' => 'image',
+        'text' => '',
+        'alt' => '',
+        'contentType' => 'html',
+        'shortDescriptionLimit' => '150',
+        'dynamic' => 'journal3/blocks_example',
+        'expandButton' => false,
+        'footer' => 'none',
+        'footerText' => '',
+        'footerButton' => '',
+        'footerButtonLink' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '279-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => false,
+          'active' => false,
+          'panel' => false,
+          'panel-active' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+          'active' => false,
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+          'in' => false,
+        ),
+        'image' => 'https://www.rossishop.it/test/image/cache/catalog/logo-bm-store-200x98fill.png',
+        'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/logo-bm-store-400x196fill.png',
+        'title' => '',
+        'content' => '<p><b>123 Main St. London, UK</b></p>',
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

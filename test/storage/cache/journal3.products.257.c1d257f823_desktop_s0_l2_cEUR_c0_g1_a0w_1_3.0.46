@@ -1,0 +1,2181 @@
+<?php $val = array (
+  'css' => '.module-products-257 .swiper-container{overflow:hidden}.module-products-257 .swiper-buttons{display:none;top:50%;width:calc(100% - (5px * 2));margin-top:-10px}.module-products-257:hover .swiper-buttons{display:block}.module-products-257 .swiper-button-prev{left:0;right:auto;transform:translate(0, -50%)}.module-products-257 .swiper-button-next{left:auto;right:0;transform:translate(0, -50%)}.module-products-257 .swiper-buttons
+div{width:25px;height:25px;background:rgba(76, 97, 255, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.module-products-257 .swiper-button-disabled{opacity:0}.module-products-257 .swiper-buttons div::before{content:\'\\e5c4\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-products-257 .swiper-buttons .swiper-button-next::before{content:\'\\e5c8\' !important;font-family:icomoon !important;color:rgba(255, 255, 255, 1)}.module-products-257 .swiper-buttons div:not(.swiper-button-disabled):hover{background:rgba(63, 83, 237, 1)}.module-products-257 .swiper-pagination{display:block;margin-bottom:-10px;left:50%;right:auto;transform:translateX(-50%)}.module-products-257
+.swiper{padding-bottom:10px}.module-products-257 .swiper-pagination-bullet{width:7px;height:7px;background-color:rgba(109, 118, 125, 1)}.module-products-257 .swiper-pagination>span+span{margin-left:8px}.desktop .module-products-257 .swiper-pagination-bullet:hover{background-color:rgba(76, 97, 255, 1)}.module-products-257 .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:rgba(76, 97, 255, 1)}.module-products-257 .swiper-pagination>span{border-radius:20px}.module-products-257 .nav-tabs > li > a, .module-products-257 .nav-tabs > li.active > a, .module-products-257 .nav-tabs > li.active > a:hover, .module-products-257 .nav-tabs>li.active>a:focus{font-size:13px;color:rgba(238, 238, 238, 1);font-weight:700;text-transform:uppercase}.desktop .module-products-257 .nav-tabs > li:hover > a, .module-products-257 .nav-tabs>li.active>a{color:rgba(255, 255, 255, 1)}.module-products-257 .nav-tabs > li > a, .module-products-257 .nav-tabs > li:hover > a, .module-products-257 .nav-tabs > li.active > a, .module-products-257 .nav-tabs > li.active > a, .module-products-257 .nav-tabs > li.active > a:hover, .module-products-257 .nav-tabs>li.active>a:focus{background:rgba(48, 56, 65, 1) !important}.desktop .module-products-257 .nav-tabs>li:hover>a{background:rgba(76, 97, 255, 1) !important}.module-products-257 ul.nav-tabs > li.active > a, .module-products-257 ul.nav-tabs > li.active > a:hover, .module-products-257 ul.nav-tabs>li.active>a:focus{background:rgba(76, 97, 255, 1) !important}.module-products-257 .nav-tabs>li{border-width:0;border-left-width:1px;border-style:solid;border-color:rgba(80, 80, 80, 1);flex-grow:1}.module-products-257 .nav-tabs>li:first-child{border-width:0;border-left-width:0px}.module-products-257 .nav-tabs>li.active::after{content:\'\';display:block;position:absolute;border:10px
+solid transparent;left:50%;top:100%;transform:translate(-50%, 0);border-top-color:rgba(76, 97, 255, 1);border-top-width:10px}.module-products-257 .nav-tabs>li>a{justify-content:center;white-space:nowrap;padding:12px;padding-right:20px;padding-left:20px}.module-products-257 .nav-tabs>li>a::before{font-size:18px}.module-products-257 .nav-tabs{display:flex;justify-content:flex-start;flex-wrap:wrap;overflow-x:visible;overflow-y:visible;-webkit-overflow-scrolling:touch;;min-width:50px}.module-products-257 .mobile .nav-tabs{overflow-x:visible}.module-products-257 .nav-tabs::-webkit-scrollbar{-webkit-appearance:initial;height:1px;height:1px;width:1px}.module-products-257 .nav-tabs::-webkit-scrollbar-track{background-color:white;background-color:rgba(255, 255, 255, 1)}.module-products-257 .nav-tabs::-webkit-scrollbar-thumb{background-color:#999;background-color:rgba(76, 97, 255, 1)}.module-products-257 .tab-container::before{display:none}.module-products-257 .tab-content{padding-top:20px}.module-products-257 .tab-container{display:block}.module-products-257 .tab-container .nav-tabs{flex-direction:row}.module-products-257 .product-layout.swiper-slide{margin-right:20px;width:calc((100% - 4 * 20px) / 5 - 0.01px)}.module-products-257 .product-layout:not(.swiper-slide){padding:10px;width:calc(100% / 5 - 0.01px)}.one-column #content .module-products-257 .product-layout.swiper-slide{margin-right:20px;width:calc((100% - 4 * 20px) / 5 - 0.01px)}.one-column #content .module-products-257 .product-layout:not(.swiper-slide){padding:10px;width:calc(100% / 5 - 0.01px)}.two-column #content .module-products-257 .product-layout.swiper-slide{margin-right:20px;width:calc((100% - 2 * 20px) / 3 - 0.01px)}.two-column #content .module-products-257 .product-layout:not(.swiper-slide){padding:10px;width:calc(100% / 3 - 0.01px)}.side-column .module-products-257 .product-layout.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.side-column .module-products-257 .product-layout:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.module-products-257 .module-body>.module-item{margin-bottom:20px}.module-products-257:not(.carousel-mode) .module-body .module-item>div{margin:-10px}.module-products-257 .product-grid .product-thumb{background:rgba(255, 255, 255, 1);border-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);padding:5px}.desktop .module-products-257 .product-grid .product-layout:hover .product-thumb{border-color:rgba(76, 97, 255, 1)}.module-products-257 .product-grid .product-thumb:hover .product-img>div{transform:scale(1.12)}.module-products-257 .product-grid .product-thumb .image
+img{background:rgba(255, 255, 255, 1)}.module-products-257 .product-grid .product-thumb .product-labels{visibility:visible;opacity:1}.module-products-257 .product-grid .product-thumb .quickview-button{display:flex;left:50%;top:50%;bottom:auto;right:auto;transform:translate3d(-50%, -50%, 1px);margin-right:5px;margin-bottom:5px}.module-products-257 .product-grid .product-thumb .btn-quickview{visibility:hidden;opacity:0;transform:scale(.88);height:32px}.module-products-257 .product-grid .product-thumb:hover .btn-quickview{visibility:visible;opacity:1;transform:scale(1)}.module-products-257 .product-grid .product-thumb .btn-quickview::before{display:none;content:\'\\eb54\' !important;font-family:icomoon !important;font-size:16px}.module-products-257 .product-grid .product-thumb .btn-quickview .btn-text{display:inline-block;padding:0}.module-products-257 .product-grid .product-thumb
+.countdown{display:flex;visibility:visible;opacity:1;transform:translate3d(-50%, 0, 1px) scale(1);color:rgba(48, 56, 65, 1);background:rgba(255, 255, 255, 1);border-radius:3px;width:90%;bottom:10px}.module-products-257 .product-grid .product-thumb .countdown div
+span{color:rgba(109, 118, 125, 1)}.module-products-257 .product-grid .product-thumb .countdown>div{border-style:solid;border-color:rgba(245, 245, 245, 1)}.module-products-257 .product-grid.product-list .product-layout
+.image{float:left;height:100%}.module-products-257 .product-grid .product-thumb
+.stats{display:flex;justify-content:center;position:relative;transform:none;width:initial;color:rgba(109, 118, 125, 1);padding:5px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-products-257 .product-grid .product-thumb
+.name{order:initial;display:flex;width:auto;margin-left:auto;margin-right:auto;justify-content:center;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:8px}.module-products-257 .product-grid .stat-1 .stats-label{display:none}.module-products-257 .product-grid .stat-2 .stats-label{display:none}.module-products-257 .product-grid .product-thumb .stats .stat-1{padding-right:5px}.module-products-257 .product-grid .product-thumb .stats .stat-2{padding-left:5px}.module-products-257 .product-grid.product-grid .product-thumb
+.rating{position:absolute;visibility:visible;opacity:1;top:0}.module-products-257 .product-grid.product-grid .product-thumb .rating-stars{position:absolute;visibility:visible;opacity:1;transform:translateY(-50%)}.module-products-257 .product-grid .product-thumb
+.rating{justify-content:center;display:flex}.module-products-257 .product-grid .product-thumb .rating.no-rating{display:none}.module-products-257 .product-grid .product-thumb .rating .fa-stack{font-size:13px;width:1.2em}.module-products-257 .product-grid .product-thumb .rating .fa-star, .module-products-257 .product-grid .product-thumb .rating .fa-star+.fa-star-o{color:rgba(254, 225, 91, 1)}.module-products-257 .product-grid .product-thumb .rating .fa-star-o:only-child{color:rgba(109, 118, 125, 1)}.module-products-257 .product-grid .product-thumb .rating-stars{border-top-left-radius:3px;border-top-right-radius:3px;padding:5px}.module-products-257 .product-grid .product-thumb .rating.no-rating
+span{opacity:0.5}.module-products-257 .product-grid:not(.product-list) .has-countdown .product-thumb
+.rating{margin-top:-47px}.module-products-257 .product-grid .product-thumb .name
+a{white-space:normal;overflow:visible;text-overflow:initial;font-size:13px;color:rgba(48, 56, 65, 1);font-weight:700;text-align:center;text-transform:uppercase;text-align:center}.module-products-257 .product-grid .product-thumb
+.description{display:none;margin-top:5px}.module-products-257 .product-grid .product-thumb
+.price{display:block;font-family:\'Ubuntu\';font-weight:400;font-size:16px;color:rgba(48, 56, 65, 1);text-align:center;width:auto;margin-left:auto;margin-right:auto;margin-left:auto;margin-right:auto;text-align:center;justify-content:center;align-items:center;padding-top:3px;margin-bottom:5px;border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-products-257 .product-grid .product-thumb .price-tax{display:none;font-size:12px;text-align:center}.module-products-257 .product-grid .product-thumb .price-new{color:rgba(76, 97, 255, 1);margin:0
+7px 0 0;order:1}.module-products-257 .product-grid .product-thumb .price-old{font-size:14px;color:rgba(109, 118, 125, 1);font-weight:400;text-decoration:line-through;margin:0;order:2}.module-products-257 .product-grid .product-thumb .price>div{align-items:center;flex-direction:row}.module-products-257 .product-grid .product-thumb .button-group{justify-content:center}.module-products-257 .product-grid.product-grid .product-thumb .button-group{padding-top:3px;padding-bottom:12px}.module-products-257 .product-grid .product-thumb .cart-group{display:inline-flex}.module-products-257 .product-grid .product-thumb .btn-cart{height:30px}.module-products-257 .product-grid .product-thumb .btn-wishlist{width:35px;height:35px;display:inline-flex;margin-bottom:10px;margin-left:10px}.module-products-257 .product-grid .product-thumb .btn-compare{width:35px;height:35px;display:inline-flex;margin-right:10px;margin-bottom:10px}.module-products-257 .product-grid .product-thumb .btn-cart::before{display:none;font-size:16px;left:1px}.module-products-257 .product-grid .product-thumb .btn-cart .btn-text{display:inline-block;padding:0}.module-products-257 .product-grid.product-grid .product-thumb .btn-cart{flex:initial}.module-products-257 .product-grid.product-grid .product-thumb .cart-group{flex:initial}.module-products-257 .product-grid .product-thumb
+.stepper{display:inline-flex;width:50px;height:35px;border-style:solid;border-color:rgba(48, 56, 65, 1);border-top-left-radius:30px;border-bottom-left-radius:30px;height:30px}.module-products-257 .product-grid .product-thumb .stepper input.form-control{border-width:0px !important}.module-products-257 .product-grid .product-thumb .stepper span
+i{color:rgba(255, 255, 255, 1);background-color:rgba(109, 118, 125, 1)}.module-products-257 .product-grid .product-thumb .stepper span i:hover{background-color:rgba(76, 97, 255, 1)}.module-products-257 .product-grid .button-group-bottom .wish-group.wish-group-bottom{margin:-10px;margin-top:10px}.module-products-257 .product-grid .button-group-bottom .wish-group-bottom{border-width:0;border-top-width:1px;border-style:solid}.module-products-257 .product-grid .product-thumb .btn-wishlist::before{display:inline-block;font-size:16px}.module-products-257 .product-grid .product-thumb .btn-wishlist .btn-text{display:none}.module-products-257 .product-grid .product-thumb .btn-compare::before{display:inline-block;font-size:16px}.module-products-257 .product-grid .product-thumb .btn-compare .btn-text{display:none}.module-products-257 .product-grid .product-thumb .extra-group{display:block}.module-products-257 .product-grid .product-thumb .extra-group .btn:first-child{display:inline-flex}.module-products-257 .product-grid .product-thumb .extra-group .btn-extra+.btn{display:inline-flex}.module-products-257 .product-grid .product-thumb .extra-group .btn:first-child::before{display:inline-block;font-size:14px;color:rgba(60, 196, 114, 1)}.module-products-257 .product-grid .product-thumb .extra-group .btn:first-child .btn-text{display:inline-block;padding:0
+.4em}.module-products-257 .product-grid .product-thumb .extra-group .btn+.btn::before{display:inline-block;font-size:15px;color:rgba(76, 97, 255, 1)}.module-products-257 .product-grid .product-thumb .extra-group .btn + .btn .btn-text{display:inline-block;padding:0
+.4em}.module-products-257 .product-grid .product-layout .extra-group>div{justify-content:space-between}.module-products-257 .product-grid .product-thumb .extra-group>div{padding:5px;padding-right:7px;padding-left:7px;border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}.module-products-257 .product-grid .product-thumb .extra-group .btn.btn, .module-products-257 .product-grid .product-thumb .extra-group .btn.btn:visited{color:rgba(48, 56, 65, 1);text-transform:none}.module-products-257 .product-grid .product-thumb .extra-group .btn.btn:hover{color:rgba(76, 97, 255, 1) !important;background:none !important}.module-products-257 .product-grid .product-thumb .extra-group
+.btn.btn{background:none;border-style:none;padding:3px;box-shadow:none}.module-products-257 .product-grid .product-thumb .extra-group .btn.btn:active, .module-products-257 .product-grid .product-thumb .extra-group .btn.btn:hover:active, .module-products-257 .product-grid .product-thumb .extra-group .btn.btn:focus:active{background:none !important}.module-products-257 .product-grid .product-thumb .extra-group .btn.btn:focus{background:none}.module-products-257 .product-grid .product-thumb .extra-group .btn.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-grid .product-thumb .extra-group .btn + .btn.btn, .module-products-257 .product-grid .product-thumb .extra-group .btn+.btn.btn:visited{color:rgba(48, 56, 65, 1);text-transform:none}.module-products-257 .product-grid .product-thumb .extra-group .btn+.btn.btn:hover{color:rgba(76, 97, 255, 1) !important;background:none !important}.module-products-257 .product-grid .product-thumb .extra-group .btn+.btn.btn{background:none;border-style:none;padding:3px;box-shadow:none}.module-products-257 .product-grid .product-thumb .extra-group .btn + .btn.btn:active, .module-products-257 .product-grid .product-thumb .extra-group .btn + .btn.btn:hover:active, .module-products-257 .product-grid .product-thumb .extra-group .btn+.btn.btn:focus:active{background:none !important}.module-products-257 .product-grid .product-thumb .extra-group .btn+.btn.btn:focus{background:none}.module-products-257 .product-grid .product-thumb .extra-group .btn+.btn.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-grid.product-grid .product-thumb .extra-group{position:static;margin-top:initial}.module-products-257 .product-grid.product-grid .product-thumb .extra-group>div{position:static;transform:none;opacity:1}.module-products-257 .product-grid.product-grid .product-thumb .buttons-wrapper{position:static;width:auto;overflow:visible;order:initial;margin-top:auto;transform:none}.module-products-257 .product-grid.product-grid .product-thumb .buttons-wrapper .button-group{position:static;opacity:1;visibility:visible;transform:none}.module-products-257 .product-grid.product-grid .product-thumb:hover .buttons-wrapper .button-group{transform:none}.module-products-257 .product-grid.product-grid .wish-group{visibility:hidden;opacity:0;width:100%;position:absolute;top:0;transform:translate3d(0,-100%,0);justify-content:space-between}.module-products-257 .product-grid.product-grid .product-thumb:hover .wish-group{visibility:visible;opacity:1}.module-products-257 .product-grid .product-thumb .btn-quickview.btn{border-radius:20px !important}.module-products-257 .product-grid .product-thumb .btn-cart.btn{border-top-right-radius:30px !important;border-bottom-right-radius:30px !important}.module-products-257 .product-grid .product-thumb .btn-wishlist.btn{border-radius:50px !important}.module-products-257 .product-grid .product-thumb .btn-compare.btn{border-radius:50px !important}.module-products-257 .product-list .product-thumb{border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1);padding-top:20px}.module-products-257 .product-list:not(.product-grid) .product-layout:not(.swiper-slide)+.product-layout:not(.swiper-slide){margin-top:24px}.module-products-257 .product-list .product-thumb:hover .product-img>div{transform:scale(1.12)}.module-products-257 .product-list .product-thumb .product-labels{visibility:visible;opacity:1}.module-products-257 .product-list .product-thumb .quickview-button{display:flex;left:50%;top:50%;bottom:auto;right:auto;transform:translate3d(-50%, -50%, 1px)}.module-products-257 .product-list .product-thumb .btn-quickview{visibility:hidden;opacity:0;transform:scale(.88)}.module-products-257 .product-list .product-thumb:hover .btn-quickview{visibility:visible;opacity:1;transform:scale(1)}.module-products-257 .product-list .product-thumb .btn-quickview .btn-text{display:none}.module-products-257 .product-list .product-thumb .btn-quickview::before{display:inline-block;content:\'\\eb54\' !important;font-family:icomoon !important}.module-products-257 .product-list .product-thumb .image
+.btn{background:rgba(109, 118, 125, 1);border-width:0px}.module-products-257 .product-list .product-thumb .image .btn:hover{background:rgba(48, 56, 65, 1) !important}.module-products-257 .product-list .product-thumb .image .btn.btn.disabled::after{font-size:20px}.module-products-257 .product-list .product-thumb
+.countdown{display:flex;visibility:visible;opacity:1;transform:translate3d(-50%, 0, 1px) scale(1)}.module-products-257 .product-list.product-list .product-layout
+.image{float:left;height:100%}.module-products-257 .product-list .product-thumb
+.caption{padding-left:20px}.module-products-257 .product-list .product-thumb
+.stats{display:flex;justify-content:flex-start;margin-bottom:5px}.module-products-257 .product-list .stat-1 .stats-label{display:inline-block}.module-products-257 .product-list .stat-2 .stats-label{display:inline-block}.module-products-257 .product-list.product-grid .product-thumb
+.rating{position:static;visibility:visible;opacity:1}.module-products-257 .product-list .product-thumb
+.rating{justify-content:flex-end;margin-bottom:5px;display:flex}.module-products-257 .product-list .product-thumb .rating.no-rating{display:none}.module-products-257 .product-list .product-thumb .rating .fa-stack{font-size:15px;width:1.2em}.module-products-257 .product-list .product-thumb .rating-stars{margin-top:-18px}.module-products-257 .product-list .product-thumb .rating.no-rating
+span{opacity:.3}.module-products-257 .product-list .product-thumb
+.name{display:flex;width:auto;margin-left:auto;margin-right:auto;justify-content:flex-start;margin-left:0;margin-right:auto;margin-bottom:5px}.module-products-257 .product-list .product-thumb .name
+a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:18px;color:rgba(48, 56, 65, 1);font-weight:700;text-align:left}.module-products-257 .product-list .product-thumb
+.description{display:block;color:rgba(109, 118, 125, 1);line-height:1.5;margin-bottom:5px}.module-products-257 .product-list .product-thumb
+.price{display:block;font-size:22px;color:rgba(48, 56, 65, 1);text-align:left;width:auto;margin-left:auto;margin-right:auto;margin-left:0;margin-right:auto;text-align:left;justify-content:flex-start;margin-bottom:10px}.module-products-257 .product-list .product-thumb .price-tax{display:block;font-size:12px}.module-products-257 .product-list .product-thumb .price-new{color:rgba(76, 97, 255, 1);margin:0
+7px 0 0;order:1}.module-products-257 .product-list .product-thumb .price-old{font-size:18px;color:rgba(109, 118, 125, 1);text-decoration:line-through;margin:0;order:2}.module-products-257 .product-list .product-thumb .price>div{align-items:center;flex-direction:row}.module-products-257 .product-list .product-thumb .button-group{justify-content:space-between}.module-products-257 .product-list .product-thumb .cart-group{display:inline-flex}.module-products-257 .product-list .product-thumb .btn-cart{height:35px}.module-products-257 .product-list .product-thumb .btn-wishlist{width:35px;height:35px;display:inline-flex;margin-right:5px;margin-left:5px}.module-products-257 .product-list .product-thumb .btn-compare{width:35px;height:35px;display:inline-flex}.module-products-257 .product-list .product-thumb .btn-cart::before{display:inline-block;font-size:16px}.module-products-257 .product-list .product-thumb .btn-cart .btn-text{display:inline-block;padding:0
+.4em}.module-products-257 .product-list.product-grid .product-thumb .btn-cart{flex:initial}.module-products-257 .product-list.product-grid .product-thumb .cart-group{flex:initial}.module-products-257 .product-list .product-thumb .btn-cart.btn, .module-products-257 .product-list .product-thumb .btn-cart.btn:visited{font-size:12px;color:rgba(255, 255, 255, 1);text-transform:uppercase}.module-products-257 .product-list .product-thumb .btn-cart.btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(76, 97, 255, 1) !important}.module-products-257 .product-list .product-thumb .btn-cart.btn:active, .module-products-257 .product-list .product-thumb .btn-cart.btn:hover:active, .module-products-257 .product-list .product-thumb .btn-cart.btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(34, 184, 155, 1) !important}.module-products-257 .product-list .product-thumb .btn-cart.btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-products-257 .product-list .product-thumb .btn-cart.btn{background:rgba(48, 56, 65, 1);padding:12px}.module-products-257 .product-list .product-thumb .btn-cart.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-list .product-thumb
+.stepper{display:inline-flex;margin-right:5px;height:35px}.module-products-257 .product-list .product-thumb .btn-wishlist::before{display:inline-block;font-size:16px}.module-products-257 .product-list .product-thumb .btn-wishlist .btn-text{display:none}.module-products-257 .product-list .product-thumb .btn-wishlist.btn, .module-products-257 .product-list .product-thumb .btn-wishlist.btn:visited{font-size:12px;color:rgba(255, 255, 255, 1);text-transform:uppercase}.module-products-257 .product-list .product-thumb .btn-wishlist.btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(76, 97, 255, 1) !important}.module-products-257 .product-list .product-thumb .btn-wishlist.btn:active, .module-products-257 .product-list .product-thumb .btn-wishlist.btn:hover:active, .module-products-257 .product-list .product-thumb .btn-wishlist.btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(34, 184, 155, 1) !important}.module-products-257 .product-list .product-thumb .btn-wishlist.btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-products-257 .product-list .product-thumb .btn-wishlist.btn{background:rgba(48, 56, 65, 1);padding:12px}.module-products-257 .product-list .product-thumb .btn-wishlist.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-list .product-thumb .btn-compare::before{display:inline-block;font-size:16px}.module-products-257 .product-list .product-thumb .btn-compare .btn-text{display:none}.module-products-257 .product-list .product-thumb .btn-compare.btn{background:rgba(77, 98, 255, 1)}.module-products-257 .product-list .product-thumb .btn-compare.btn:hover{background:rgba(63, 83, 237, 1) !important}.module-products-257 .product-list .product-thumb .btn-compare.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-list .product-thumb .extra-group{display:block}.module-products-257 .product-list .product-thumb .extra-group .btn:first-child{display:inline-flex}.module-products-257 .product-list .product-thumb .extra-group .btn-extra+.btn{display:inline-flex}.module-products-257 .product-list .product-thumb .extra-group .btn:first-child::before{display:inline-block;font-size:16px;color:rgba(60, 196, 114, 1)}.module-products-257 .product-list .product-thumb .extra-group .btn:first-child .btn-text{display:inline-block;padding:0
+.4em}.module-products-257 .product-list .product-thumb .extra-group .btn+.btn::before{display:inline-block;font-size:16px;color:rgba(76, 97, 255, 1)}.module-products-257 .product-list .product-thumb .extra-group .btn + .btn .btn-text{display:inline-block;padding:0
+.4em}.module-products-257 .product-list .product-thumb .extra-group .btn+.btn.btn{margin-left:5px;background:none;border-style:none;padding:3px;box-shadow:none}.module-products-257 .product-list .product-layout .extra-group>div{justify-content:flex-start}.module-products-257 .product-list .product-thumb .extra-group>div{margin-top:10px}.module-products-257 .product-list .product-thumb .extra-group .btn.btn, .module-products-257 .product-list .product-thumb .extra-group .btn.btn:visited{color:rgba(48, 56, 65, 1);text-transform:none}.module-products-257 .product-list .product-thumb .extra-group .btn.btn:hover{color:rgba(76, 97, 255, 1) !important;background:none !important}.module-products-257 .product-list .product-thumb .extra-group
+.btn.btn{background:none;border-style:none;padding:3px;box-shadow:none}.module-products-257 .product-list .product-thumb .extra-group .btn.btn:active, .module-products-257 .product-list .product-thumb .extra-group .btn.btn:hover:active, .module-products-257 .product-list .product-thumb .extra-group .btn.btn:focus:active{background:none !important}.module-products-257 .product-list .product-thumb .extra-group .btn.btn:focus{background:none}.module-products-257 .product-list .product-thumb .extra-group .btn.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-list .product-thumb .extra-group .btn + .btn.btn, .module-products-257 .product-list .product-thumb .extra-group .btn+.btn.btn:visited{color:rgba(48, 56, 65, 1);text-transform:none}.module-products-257 .product-list .product-thumb .extra-group .btn+.btn.btn:hover{color:rgba(76, 97, 255, 1) !important;background:none !important}.module-products-257 .product-list .product-thumb .extra-group .btn + .btn.btn:active, .module-products-257 .product-list .product-thumb .extra-group .btn + .btn.btn:hover:active, .module-products-257 .product-list .product-thumb .extra-group .btn+.btn.btn:focus:active{background:none !important}.module-products-257 .product-list .product-thumb .extra-group .btn+.btn.btn:focus{background:none}.module-products-257 .product-list .product-thumb .extra-group .btn+.btn.btn.btn.disabled::after{font-size:20px}.module-products-257 .product-list.product-grid .product-thumb .extra-group{position:static;margin-top:initial}.module-products-257 .product-list.product-grid .product-thumb .extra-group>div{position:static;transform:none;opacity:1}.module-products-257 .product-list.product-grid .product-thumb .buttons-wrapper{position:static;width:auto;overflow:visible;order:initial;margin-top:auto;transform:none}.module-products-257 .product-list.product-grid .product-thumb .buttons-wrapper .button-group{position:static;opacity:1;visibility:visible;transform:none}.module-products-257 .product-list.product-grid .product-thumb:hover .buttons-wrapper .button-group{transform:none}.module-products-257 .product-list.product-grid .wish-group{justify-content:flex-start}@media (max-width: 1024px){.module-products-257 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.module-products-257 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.one-column #content .module-products-257 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 2 * 10px) / 3 - 0.01px)}.one-column #content .module-products-257 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 3 - 0.01px)}.module-products-257:not(.carousel-mode) .module-body .module-item>div{margin:-5px}.module-products-257 .product-grid .product-thumb
+.price{font-size:14px}.module-products-257 .product-grid .product-thumb .price-old{font-size:13px}.module-products-257 .product-grid .product-thumb
+.stepper{display:none}.module-products-257 .product-grid .product-thumb .btn-cart.btn{border-top-left-radius:30px !important;border-bottom-left-radius:30px !important}}@media (max-width: 769px){.module-products-257 .product-list .product-thumb
+.rating{justify-content:flex-start}.module-products-257 .product-list .product-thumb .rating-stars{margin-top:0px}}@media (max-width: 760px){.module-products-257 .nav-tabs>li{width:calc(100% / 3)}.module-products-257 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.module-products-257 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.one-column #content .module-products-257 .product-layout.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.one-column #content .module-products-257 .product-layout:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.module-products-257 .product-grid .product-thumb .extra-group .btn + .btn .btn-text{display:none}.module-products-257 .product-grid .product-thumb .extra-group .btn+.btn::before{display:inline-block}.module-products-257 .product-list.product-list .product-layout
+.image{float:none;height:auto}.module-products-257 .product-list .product-thumb
+.caption{padding-top:20px;padding-left:0px}}@media (max-width: 470px){.module-products-257 .nav-tabs>li{width:calc(100% / 2)}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Ubuntu' => 
+      array (
+        400 => '400',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'display' => 'grid',
+    'sectionsDisplay' => 'tabs',
+    'sectionsDisplayTablet' => '',
+    'sectionsDisplayPhone' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 5,
+          'spacing' => 20,
+        ),
+        1024 => 
+        array (
+          'spacing' => 10,
+          'items' => 3,
+        ),
+        760 => 
+        array (
+          'spacing' => 10,
+          'items' => 2,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 5,
+          'spacing' => 20,
+        ),
+        1024 => 
+        array (
+          'items' => 3,
+          'spacing' => 10,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 20,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+    ),
+    'default' => 'a7757aed-1a6c-41a3-9733-b22c7afb85c4',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fit',
+    ),
+    'moduleProductGridSecondImageStatus' => true,
+    'moduleProductGridQuickviewDisplay' => 'text',
+    'moduleProductGridQuickviewTooltipStatus' => true,
+    'moduleProductGridQuickviewTooltipPosition' => 'top',
+    'moduleProductGridRatingPosition' => 'image',
+    'moduleProductGridRatingVisibility' => true,
+    'moduleProductGridNamePosition' => 'default',
+    'moduleProductGridCartDisplay' => 'text',
+    'moduleProductGridCartTooltipStatus' => true,
+    'moduleProductGridCartTooltipPosition' => 'top',
+    'moduleProductGridWishlistDisplay' => 'icon',
+    'moduleProductGridWishlistTooltipStatus' => true,
+    'moduleProductGridWishlistTooltipPosition' => 'top',
+    'moduleProductGridCompareDisplay' => 'icon',
+    'moduleProductGridCompareTooltipStatus' => true,
+    'moduleProductGridCompareTooltipPosition' => 'top',
+    'moduleProductGridExtraButtonDisplay1' => 'both',
+    'moduleProductGridExtraButtonDisplay2' => 'both',
+    'moduleProductGridExtraButtonTooltipStatus' => true,
+    'moduleProductGridExtraButtonTooltipPosition' => 'top',
+    'moduleProductGridExtraPosition' => 'bottom',
+    'moduleProductGridButtonsPosition' => 'bottom',
+    'moduleProductListSecondImageStatus' => true,
+    'moduleProductListQuickviewDisplay' => 'icon',
+    'moduleProductListQuickviewTooltipStatus' => true,
+    'moduleProductListQuickviewTooltipPosition' => 'top',
+    'moduleProductListRatingPosition' => 'top',
+    'moduleProductListRatingVisibility' => true,
+    'moduleProductListNamePosition' => 'default',
+    'moduleProductListCartDisplay' => 'both',
+    'moduleProductListCartTooltipStatus' => true,
+    'moduleProductListCartTooltipPosition' => 'top',
+    'moduleProductListWishlistDisplay' => 'icon',
+    'moduleProductListWishlistTooltipStatus' => true,
+    'moduleProductListWishlistTooltipPosition' => 'top',
+    'moduleProductListCompareDisplay' => 'icon',
+    'moduleProductListCompareTooltipStatus' => true,
+    'moduleProductListCompareTooltipPosition' => 'top',
+    'moduleProductListExtraButtonDisplay1' => 'both',
+    'moduleProductListExtraButtonDisplay2' => 'both',
+    'moduleProductListExtraButtonTooltipStatus' => true,
+    'moduleProductListExtraButtonTooltipPosition' => 'top',
+    'moduleProductListExtraPosition' => 'bottom',
+    'moduleProductListButtonsPosition' => 'bottom',
+    'moduleProductDescriptionLimit' => '150',
+    'moduleProductStat1' => 'brand',
+    'moduleProductStat2' => 'model',
+    'status' => true,
+    'id' => 'products-5f2c2d5d0e08d',
+    'module_id' => 257,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-products',
+      2 => 'module-products-257',
+      3 => 'module-products-grid',
+      'carousel-mode' => false,
+      'isotope' => false,
+    ),
+    'image_width' => 250,
+    'image_height' => 250,
+    'image_resize' => 'fit',
+    'carouselOptions' => 
+    array (
+      'speed' => 500,
+      'autoplay' => false,
+      'pauseOnHover' => true,
+      'loop' => false,
+    ),
+    'text_tax' => 'Imponibile:',
+    'button_cart' => 'Acquista',
+    'button_wishlist' => 'Aggiungi alla lista dei desideri',
+    'button_compare' => 'Confronta',
+    'default_index' => 1,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Nuovi Arrivi',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'p.date_added',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'latest',
+        ),
+        'id' => '257-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-1',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          50 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '9',
+            'stock_status' => 'In 2-3 Giorni',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset-500x500.png',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset2-250x250.png',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset2-500x500.png',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              233 => 
+              array (
+                'type' => 'special',
+                'label' => '-17 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=7">Reset e-Bike</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'res-n',
+            ),
+            'product_id' => '50',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset-250x250.png',
+            'name' => 'Reset New Pocket - Bici elettrica a pedalata assistita da 250 W.',
+            'description' => 'Reset New PocketPiccola e leggera, adatta a tutti.Reset New Pocket bici elettrica a pedalata assistita da 250 W. Con Certificazione E.P.A.C. (electric..',
+            'price' => '1.420,00€',
+            'special' => '1.180,00€',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=50',
+          ),
+          49 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '0',
+            'stock_status' => 'Su Ordinazione',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_2-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_2-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              30 => 
+              array (
+                'type' => 'outofstock',
+                'label' => 'Su Ordinazione',
+                'display' => 'diagonal',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'SAM1',
+            ),
+            'product_id' => '49',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_1-250x250w.jpg',
+            'name' => 'Samsung Galaxy Tab 10.1',
+            'description' => 'Samsung Galaxy Tab 10.1, is the world&rsquo;s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core T..',
+            'price' => '199,99€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=49',
+          ),
+          48 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '995',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_1-500x500h.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_4-250x250h.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_4-500x500h.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'product 20',
+            ),
+            'product_id' => '48',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_1-250x250h.jpg',
+            'name' => 'iPod Classic',
+            'description' => 'More room to move.
+		
+			With 80GB or 160GB of storage and up to 40 hours of battery life, the new iPod classic lets you enjoy up to 40,000 songs or..',
+            'price' => '100,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=48',
+          ),
+          47 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '1000',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/hp_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/hp_3-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/hp_3-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=7">Reset e-Bike</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 21',
+            ),
+            'product_id' => '47',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/hp_1-250x250w.jpg',
+            'name' => 'HP LP3065',
+            'description' => 'Stop your co-workers in their tracks with the stunning new 30-inch diagonal HP LP3065 Flat Panel Monitor. This flagship monitor features best-in-class..',
+            'price' => '100,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=47',
+          ),
+          46 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '1000',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_5-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_5-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=10">Sony</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 19',
+            ),
+            'product_id' => '46',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_1-250x250w.jpg',
+            'name' => 'Sony VAIO',
+            'description' => 'Unprecedented power. The next generation of processing technology has arrived. Built into the newest VAIO notebooks lies Intel&#39;s latest, most powe..',
+            'price' => '1.000,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=46',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Più venduti',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'sales',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'bestseller',
+          'bestseller' => true,
+        ),
+        'id' => '257-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-2',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Speciali',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'p.sort_order',
+          'order' => 'ASC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'special',
+          'special' => true,
+        ),
+        'id' => '257-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-3',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          42 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '990',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/apple_cinema_30-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_1-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_1-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              146 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Online Only',
+                'display' => 'diagonal',
+              ),
+              233 => 
+              array (
+                'type' => 'special',
+                'label' => '-10 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 15',
+            ),
+            'product_id' => '42',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/apple_cinema_30-250x250w.jpg',
+            'name' => 'Apple Cinema 30&quot;',
+            'description' => 'The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this displa..',
+            'price' => '100,00€',
+            'special' => '90,00€',
+            'tax' => false,
+            'minimum' => '2',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=42',
+          ),
+          30 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '7',
+            'stock_status' => 'In 2-3 Giorni',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_3-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_3-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              233 => 
+              array (
+                'type' => 'special',
+                'label' => '-20 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=9">Canon</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 3',
+            ),
+            'product_id' => '30',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_1-250x250w.jpg',
+            'name' => 'Canon EOS 5D',
+            'description' => 'Canon\'s press material for the EOS 5D states that it \'defines (a) new D-SLR category\', while we\'re not typically too concerned with marketing talk thi..',
+            'price' => '100,00€',
+            'special' => '80,00€',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=30',
+          ),
+          50 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '9',
+            'stock_status' => 'In 2-3 Giorni',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset-500x500.png',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset2-250x250.png',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset2-500x500.png',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              233 => 
+              array (
+                'type' => 'special',
+                'label' => '-17 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=7">Reset e-Bike</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'res-n',
+            ),
+            'product_id' => '50',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset-250x250.png',
+            'name' => 'Reset New Pocket - Bici elettrica a pedalata assistita da 250 W.',
+            'description' => 'Reset New PocketPiccola e leggera, adatta a tutti.Reset New Pocket bici elettrica a pedalata assistita da 250 W. Con Certificazione E.P.A.C. (electric..',
+            'price' => '1.420,00€',
+            'special' => '1.180,00€',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=50',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Best Rated',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'rating',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'advanced',
+          'price' => 
+          array (
+            'min' => '',
+            'max' => '',
+          ),
+          'quantity' => 
+          array (
+            'min' => '',
+            'max' => '',
+          ),
+        ),
+        'id' => '257-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-4',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          46 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '1000',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_5-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_5-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=10">Sony</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 19',
+            ),
+            'product_id' => '46',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/sony_vaio_1-250x250w.jpg',
+            'name' => 'Sony VAIO',
+            'description' => 'Unprecedented power. The next generation of processing technology has arrived. Built into the newest VAIO notebooks lies Intel&#39;s latest, most powe..',
+            'price' => '1.000,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=46',
+          ),
+          33 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '1000',
+            'stock_status' => 'In 2-3 Giorni',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_syncmaster_941bw-500x500w.jpg',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 6',
+            ),
+            'product_id' => '33',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_syncmaster_941bw-250x250w.jpg',
+            'name' => 'Samsung SyncMaster 941BW',
+            'description' => 'Imagine the advantages of going big without slowing down. The big 19&quot; 941BW monitor combines wide aspect ratio with fast pixel response time, for..',
+            'price' => '200,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=33',
+          ),
+          49 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '0',
+            'stock_status' => 'Su Ordinazione',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_2-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_2-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              30 => 
+              array (
+                'type' => 'outofstock',
+                'label' => 'Su Ordinazione',
+                'display' => 'diagonal',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'SAM1',
+            ),
+            'product_id' => '49',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/samsung_tab_1-250x250w.jpg',
+            'name' => 'Samsung Galaxy Tab 10.1',
+            'description' => 'Samsung Galaxy Tab 10.1, is the world&rsquo;s thinnest tablet, measuring 8.6 mm thickness, running with Android 3.0 Honeycomb OS on a 1GHz dual-core T..',
+            'price' => '199,99€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=49',
+          ),
+          50 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '9',
+            'stock_status' => 'In 2-3 Giorni',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset-500x500.png',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset2-250x250.png',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset2-500x500.png',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              233 => 
+              array (
+                'type' => 'special',
+                'label' => '-17 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=7">Reset e-Bike</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'res-n',
+            ),
+            'product_id' => '50',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/new-pocket-reset-250x250.png',
+            'name' => 'Reset New Pocket - Bici elettrica a pedalata assistita da 250 W.',
+            'description' => 'Reset New PocketPiccola e leggera, adatta a tutti.Reset New Pocket bici elettrica a pedalata assistita da 250 W. Con Certificazione E.P.A.C. (electric..',
+            'price' => '1.420,00€',
+            'special' => '1.180,00€',
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=50',
+          ),
+          35 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '2',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/img-bmsistemi-store-500x500w.jpg',
+            'second_thumb' => false,
+            'second_thumb2x' => false,
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => NULL,
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 8',
+            ),
+            'product_id' => '35',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/img-bmsistemi-store-250x250w.jpg',
+            'name' => 'Prodotto Test',
+            'description' => 'Prodotto test a capa di cazzo..',
+            'price' => '150,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=35',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Brand',
+        'tabType' => 'content',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'p.sort_order',
+          'order' => 'ASC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'advanced',
+          'manufacturers' => 
+          array (
+            0 => '8',
+          ),
+          'price' => 
+          array (
+            'min' => '',
+            'max' => '',
+          ),
+          'quantity' => 
+          array (
+            'min' => '',
+            'max' => '',
+          ),
+        ),
+        'id' => '257-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-5',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+          42 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '990',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/apple_cinema_30-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_1-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/canon_eos_5d_1-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+              146 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Online Only',
+                'display' => 'diagonal',
+              ),
+              233 => 
+              array (
+                'type' => 'special',
+                'label' => '-10 %',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 15',
+            ),
+            'product_id' => '42',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/apple_cinema_30-250x250w.jpg',
+            'name' => 'Apple Cinema 30&quot;',
+            'description' => 'The 30-inch Apple Cinema HD Display delivers an amazing 2560 x 1600 pixel resolution. Designed specifically for the creative professional, this displa..',
+            'price' => '100,00€',
+            'special' => '90,00€',
+            'tax' => false,
+            'minimum' => '2',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=42',
+          ),
+          41 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '977',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/imac_1-500x500w.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/imac_3-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/imac_3-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 14',
+            ),
+            'product_id' => '41',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/imac_1-250x250w.jpg',
+            'name' => 'iMac',
+            'description' => 'Just when you thought iMac had everything, now there´s even more. More powerful Intel Core 2 Duo processors. And more memory standard. Combine this wi..',
+            'price' => '100,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=41',
+          ),
+          40 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '970',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/iphone_1-500x500h.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/iphone_6-250x250w.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/iphone_6-500x500w.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'product 11',
+            ),
+            'product_id' => '40',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/iphone_1-250x250h.jpg',
+            'name' => 'iPhone',
+            'description' => 'iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, o..',
+            'price' => '101,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=40',
+          ),
+          48 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '995',
+            'stock_status' => 'Non disponibile',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_1-500x500h.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_4-250x250h.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_4-500x500h.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'product 20',
+            ),
+            'product_id' => '48',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_classic_1-250x250h.jpg',
+            'name' => 'iPod Classic',
+            'description' => 'More room to move.
+		
+			With 80GB or 160GB of storage and up to 40 hours of battery life, the new iPod classic lets you enjoy up to 40,000 songs or..',
+            'price' => '100,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=48',
+          ),
+          36 => 
+          array (
+            'classes' => 
+            array (
+              'swiper-slide' => false,
+              'isotope-item' => false,
+              0 => '',
+            ),
+            'quantity' => '994',
+            'stock_status' => 'In 2-3 Giorni',
+            'thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_nano_1-500x500h.jpg',
+            'second_thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_nano_5-250x250h.jpg',
+            'second_thumb2x' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_nano_5-500x500h.jpg',
+            'labels' => 
+            array (
+              29 => 
+              array (
+                'type' => 'custom',
+                'label' => 'New',
+                'display' => 'default',
+              ),
+            ),
+            'extra_buttons' => 
+            array (
+              46 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Buy Now',
+                'action' => 'quickbuy',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              93 => 
+              array (
+                'type' => 'custom',
+                'label' => 'Ask Question',
+                'action' => 'link',
+                'link' => 
+                array (
+                  'type' => 'popup',
+                  'id' => '22',
+                  'href' => 'javascript:open_popup(22)',
+                  'name' => '',
+                  'total' => NULL,
+                  'attrs' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'date_end' => NULL,
+            'price_value' => true,
+            'stat1' => 
+            array (
+              'label' => 'Marca',
+              'text' => '<a href="https://www.rossishop.it/test/index.php?route=product/manufacturer/info&amp;manufacturer_id=8">Apple</a>',
+            ),
+            'stat2' => 
+            array (
+              'label' => 'Modello',
+              'text' => 'Product 9',
+            ),
+            'product_id' => '36',
+            'thumb' => 'https://www.rossishop.it/test/image/cache/catalog/demo/ipod_nano_1-250x250h.jpg',
+            'name' => 'iPod Nano',
+            'description' => 'Video in your pocket.
+	
+		Its the small iPod with one very big idea: video. The worlds most popular music player now lets you enjoy movies, TV shows..',
+            'price' => '100,00€',
+            'special' => false,
+            'tax' => false,
+            'minimum' => '1',
+            'rating' => false,
+            'href' => 'https://www.rossishop.it/test/index.php?route=product/product&amp;product_id=36',
+          ),
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Link',
+        'tabType' => 'link',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '195',
+          'href' => 'javascript:open_popup(195)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'filter' => 
+        array (
+          'sort' => 'p.date_added',
+          'order' => 'DESC',
+          'start' => 0,
+          'limit' => 5,
+          'preset' => 'latest',
+        ),
+        'id' => '257-6',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-6',
+          'tab-pane' => true,
+          'panel' => false,
+          'swiper-slide' => false,
+        ),
+        'tab_classes' => 
+        array (
+          0 => 'tab-6',
+        ),
+        'panel_classes' => 
+        array (
+          0 => 'panel-collapse',
+          1 => 'collapse',
+        ),
+        'products' => 
+        array (
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

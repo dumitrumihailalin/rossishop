@@ -1,0 +1,100 @@
+<?php $val = array (
+  'css' => 'div.main-menu.main-menu-3 > .j-menu .menu-item.main-menu-item-3>a::before{content:\'\\e8d2\' !important;font-family:icomoon !important}.desktop-main-menu-wrapper .menu-fullwidth>.j-dropdown{width:100vw;left:50%;margin-left:-50vw}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3 .mega-menu-content{width:500px;position:relative;left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 .mega-custom.main-menu-item-3>.dropdown-menu::before{left:0;transform:none}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3:not(.mega-fullwidth)>.dropdown-menu::before{display:block;margin-top:-10px}.desktop-main-menu-wrapper .main-menu-3 > .j-menu li.main-menu-item-3.multi-level .dropdown-menu ul li .dropdown-menu{left:100%}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-2{padding:10px}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-2::before{display:block;left:0;width:100vw}@media (max-width: 1024px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-2{padding:0px}}.main-menu-3 .main-menu-item-3.mega-menu .grid-row-2 .grid-col-1{width:100%;padding:20px;padding-left:0px}@media (max-width: 1024px){.main-menu-3 .main-menu-item-3.mega-menu .grid-row-2 .grid-col-1{width:100%;padding:0px;padding-bottom:20px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'main-menu',
+    'module_id' => 3,
+    'classes' => 
+    array (
+      0 => 'main-menu',
+      1 => 'main-menu-3',
+      'accordion-menu' => false,
+    ),
+    'display' => 'dropdown',
+    'items' => 
+    array (
+      3 => 
+      array (
+        'title' => 'Catalogo',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'megamenu',
+        'mobileOpen' => false,
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'main-menu-item',
+          2 => 'main-menu-item-3',
+          3 => 'dropdown',
+          4 => 'mega-menu',
+          'icon-only' => false,
+          'menu-fullwidth' => true,
+          'mega-fullwidth' => true,
+          'mega-custom' => false,
+          'drop-menu' => false,
+        ),
+        'grid_classes' => 
+        array (
+          0 => 'grid-rows',
+        ),
+        'rows' => 
+        array (
+          2 => 
+          array (
+            'classes' => 
+            array (
+              0 => 'grid-row',
+              1 => 'grid-row-2',
+            ),
+            'columns' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-col',
+                  1 => 'grid-col-1',
+                ),
+                'items' => 
+                array (
+                  1 => 
+                  array (
+                    'classes' => 
+                    array (
+                      0 => 'grid-item',
+                      1 => 'grid-item-1',
+                    ),
+                    'item' => 
+                    array (
+                      'id' => '264',
+                      'name' => 'Catalog Categories Image',
+                      'type' => 'catalog',
+                    ),
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+        'isOpen' => false,
+      ),
+    ),
+  ),
+);

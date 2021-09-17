@@ -1,0 +1,40 @@
+<div><h2 style="color: #a90000; background: #f9dc00; padding: 14px;">{{ text_instruction }}</h2>
+
+</div>
+<div style="max-width:520px">
+ <img class="img-responsive" src="./catalog/view/theme/default/image/postepay2.png">
+  <p><b>{{ text_description }}</b></p>
+<table class="table table-striped"><tr><td>
+{{  payment_postepay_nco }}</td></tr><tr><td>
+{{ payment_postepay_ni }}</td></tr><tr><td>
+{{ payment_postepay_cf }}</td></tr></table>
+  <b>{{ text_payment }}</b>
+</div>
+<div class="buttons">
+  <div class="pull-right">
+    <input type="button" value="{{ button_confirm }}" id="button-confirm" data-loading-text="{{ text_loading }}" class="btn btn-primary" />
+  </div>
+</div>
+<script type="text/javascript"><!--
+$('#button-confirm').on('click', function() {
+	$.ajax({
+		url: 'index.php?route=extension/payment/postepay/confirm',
+		dataType: 'json',
+		beforeSend: function() {
+			$('#button-confirm').button('loading');
+		},
+		complete: function() {
+			$('#button-confirm').button('reset');
+		},
+		success: function(json) {
+			if (json['redirect']) {
+				location = json['redirect'];	
+			}
+		},
+		error: function(xhr, ajaxOptions, thrownError) {
+			alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
+		}
+	});
+});
+//--></script>
+

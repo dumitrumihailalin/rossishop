@@ -1,0 +1,163 @@
+<?php $val = array (
+  'data' => 
+  array (
+    278 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'bottom',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => NULL,
+    ),
+    58 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'image',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '#content .product-blocks-58{margin-bottom:20px}',
+    ),
+    247 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'top',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '#content .product-blocks-247{padding-bottom:15px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}',
+    ),
+    248 => 
+    array (
+      'php' => 
+      array (
+        'type' => 'custom',
+        'position' => 'top',
+        'positionTablet' => '',
+        'positionPhone' => '',
+        'blockType' => 'grid',
+      ),
+      'js' => 
+      array (
+      ),
+      'fonts' => 
+      array (
+      ),
+      'css' => '.product-blocks-248{order:-20}#content .product-blocks-248{padding-bottom:15px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(221, 221, 221, 1)}',
+    ),
+  ),
+  'all' => 
+  array (
+    278 => 278,
+    58 => 58,
+  ),
+  'special' => 
+  array (
+  ),
+  'outofstock' => 
+  array (
+  ),
+  'custom' => 
+  array (
+    47 => 
+    array (
+      247 => 247,
+    ),
+    28 => 
+    array (
+      247 => 247,
+    ),
+    41 => 
+    array (
+      247 => 247,
+    ),
+    40 => 
+    array (
+      247 => 247,
+    ),
+    48 => 
+    array (
+      247 => 247,
+    ),
+    36 => 
+    array (
+      247 => 247,
+    ),
+    34 => 
+    array (
+      247 => 247,
+    ),
+    32 => 
+    array (
+      247 => 247,
+    ),
+    43 => 
+    array (
+      247 => 247,
+    ),
+    44 => 
+    array (
+      247 => 247,
+    ),
+    45 => 
+    array (
+      247 => 247,
+    ),
+    29 => 
+    array (
+      247 => 247,
+    ),
+    35 => 
+    array (
+      247 => 247,
+    ),
+    33 => 
+    array (
+      247 => 247,
+    ),
+    46 => 
+    array (
+      247 => 247,
+    ),
+    50 => 
+    array (
+      247 => 247,
+    ),
+    49 => 
+    array (
+      247 => 247,
+    ),
+    42 => 
+    array (
+      248 => 248,
+    ),
+  ),
+);

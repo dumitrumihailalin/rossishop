@@ -1,0 +1,56 @@
+<?php $val = array (
+  'css' => '.module-newsletter-196{text-align:left;justify-content:flex-start}.module-newsletter-196 .module-body>div{align-self:flex-start}.module-newsletter-196 .title::after{left:0;right:auto;transform:none}.module-newsletter-196 .module-body{flex-direction:column}.module-newsletter-196 .newsletter-text{font-size:13px}.module-newsletter-196 .module-body .input-group{height:40px}.module-newsletter-196 .module-body .newsletter-form .input-group
+input{width:300px;max-width:100%}.module-newsletter-196 .module-body .form-control{background:rgba(245, 245, 245, 1) !important;border-width:1px !important;border-style:solid !important;border-color:rgba(221, 221, 221, 1) !important;border-radius:2px !important}.module-newsletter-196 .module-body .form-control:hover{border-color:rgba(77, 98, 255, 1) !important}.module-newsletter-196 .module-body .form-control:focus, .module-newsletter-196 .module-body .form-control:active{border-color:rgba(77, 98, 255, 1) !important}.module-newsletter-196 .module-body .form-control:focus{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.1)}.module-newsletter-196 .btn::before{content:\'\\e5c8\' !important;font-family:icomoon !important;font-size:16px}.module-newsletter-196 .input-group .input-group-btn .btn, .module-newsletter-196 .input-group .input-group-btn .btn:visited{font-size:12px;color:rgba(255, 255, 255, 1);text-transform:uppercase}.module-newsletter-196 .input-group .input-group-btn .btn:hover{color:rgba(255, 255, 255, 1) !important;background:rgba(76, 97, 255, 1) !important}.module-newsletter-196 .input-group .input-group-btn .btn:active, .module-newsletter-196 .input-group .input-group-btn .btn:hover:active, .module-newsletter-196 .input-group .input-group-btn .btn:focus:active{color:rgba(255, 255, 255, 1) !important;background:rgba(34, 184, 155, 1) !important}.module-newsletter-196 .input-group .input-group-btn .btn:focus{color:rgba(255, 255, 255, 1) !important;box-shadow:inset 0 0 20px rgba(0, 0, 0, 0.25)}.module-newsletter-196 .input-group .input-group-btn
+.btn{background:rgba(48, 56, 65, 1);padding:12px;padding:8px;min-height:30px;height:30px}.module-newsletter-196 .input-group .input-group-btn .btn.btn.disabled::after{font-size:20px}.module-newsletter-196 .input-group-btn
+.btn{transform:translateX(-5px);margin-top:5px}.module-newsletter-196 .checkbox
+label{font-size:10px;color:rgba(109, 118, 125, 1)}.module-newsletter-196 .checkbox label
+a{font-weight:400;text-decoration:underline}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Sign Up and save',
+    'text' => 'Receive a $10 voucher in your inbox immediately after you sign up for our newsletter.',
+    'placeholder' => 'Your email',
+    'buttonType' => 'both',
+    'buttonText' => 'Sign up',
+    'tooltipStatus' => true,
+    'tooltipText' => 'Subscribe',
+    'tooltipPosition' => 'top',
+    'subscribedMessage' => 'You have been subscribed to our newsletter.',
+    'subscribedEmail' => true,
+    'subscribedEmailMessage' => 'Thank you for subscribing to our newsletter.&nbsp;',
+    'unsubscribeMessage' => 'You are already subscribed. Do you want to unsubscribe?',
+    'unsubscribedMessage' => 'You have been unsubscribed from our newsletter.',
+    'unsubscribedEmail' => true,
+    'unsubscribedEmailMessage' => 'We\'re sorry to see you go.',
+    'adminAlerts' => true,
+    'agree' => '3',
+    'captcha' => false,
+    'status' => true,
+    'id' => 'newsletter-5f2c2d5ba4051',
+    'module_id' => 196,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-newsletter',
+      2 => 'module-newsletter-196',
+    ),
+    'action' => 'https://www.rossishop.it/test/index.php?route=journal3/newsletter/newsletter&amp;module_id=196',
+    'agree_data' => 
+    array (
+      'text' => 'Ho letto e accetto <a class="agree" href="https://www.rossishop.it/test/index.php?route=information/information/agree&amp;information_id=3" alt="Privacy e Cookie"><b>Privacy e Cookie</b></a>',
+      'error' => 'Attenzione: devi accettare Privacy e Cookie!',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

@@ -1,0 +1,23 @@
+<?php $val = array (
+  'category_id' => '69',
+  'parent_id' => '68',
+  'title' => 'Smartphone',
+  'items' => 
+  array (
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c69',
+    'dropdown' => 
+    array (
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=68_69',
+    'total' => '0',
+    'classes' => 
+    array (
+    ),
+  ),
+);

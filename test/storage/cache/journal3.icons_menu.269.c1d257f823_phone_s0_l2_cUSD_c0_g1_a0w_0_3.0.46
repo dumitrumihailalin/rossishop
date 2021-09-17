@@ -1,0 +1,134 @@
+<?php $val = array (
+  'css' => '.icons-menu-269 .title.module-title{color:rgba(238, 238, 238, 1);margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}.icons-menu-269 .title.module-title::after, .icons-menu-269 .title.module-title.page-title>span::after{width:50px;height:1px;background:rgba(76, 97, 255, 1)}.icons-menu-269 .title.module-title::after{margin-top:8px}.icons-menu-269 .title.module-title.page-title>span::after{margin-top:8px}.icons-menu-269
+a{background:rgba(77, 98, 255, 1);width:40px;height:40px}.desktop .icons-menu-269 a:hover{background:rgba(76, 97, 255, 1);box-shadow:0 5px 30px -5px rgba(0, 0, 0, 0.15)}.icons-menu-269 a::before{color:rgba(255, 255, 255, 1)}.icons-menu-269 .menu-item
+a{border-radius:50%}.icons-menu-269>ul{margin:5px}.icons-menu-269 .links-text{white-space:normal;overflow:visible;text-overflow:ellipsis;display:none}.icons-menu-269>ul>.icons-menu-item{padding:calc(10px / 2)}.icons-menu-269
+ul{justify-content:flex-start}.icons-menu-269 .module-title{text-align:left}.icons-menu-269 .module-title::after{left:0;right:auto;transform:none}.icons-menu-269 .icons-menu-item-1.icon-menu-icon>a::before{content:\'\\f09a\' !important;font-family:icomoon !important}.icons-menu-269 .icons-menu-item-2.icon-menu-icon>a::before{content:\'\\f17e\' !important;font-family:icomoon !important}.icons-menu-269 .icons-menu-item-3.icon-menu-icon>a::before{content:\'\\f232\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'tooltipStatus' => true,
+    'tooltipPosition' => 'top',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'icons-menu-5f2c703b563bb',
+    'module_id' => 269,
+    'classes' => 
+    array (
+      0 => 'icons-menu',
+      1 => 'icons-menu-269',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Facebook',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Skype',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'WhatsApp',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/test/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'icon',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'icons-menu-item',
+          2 => 'icons-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+          3 => 'icon-menu-icon',
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

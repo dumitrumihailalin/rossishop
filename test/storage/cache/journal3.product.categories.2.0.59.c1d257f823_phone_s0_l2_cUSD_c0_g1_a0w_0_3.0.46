@@ -1,0 +1,407 @@
+<?php $val = array (
+  'category_id' => '59',
+  'parent_id' => '0',
+  'title' => 'Bici Elettriche',
+  'items' => 
+  array (
+    66 => 
+    array (
+      'category_id' => '66',
+      'parent_id' => '59',
+      'title' => 'Promozioni',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c66',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+        'total' => '1',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    67 => 
+    array (
+      'category_id' => '67',
+      'parent_id' => '59',
+      'title' => 'Accessori Bici',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c67',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    60 => 
+    array (
+      'category_id' => '60',
+      'parent_id' => '59',
+      'title' => 'City Bike',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c60',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+        'total' => '1',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    61 => 
+    array (
+      'category_id' => '61',
+      'parent_id' => '59',
+      'title' => 'Fat-Bike',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c61',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    62 => 
+    array (
+      'category_id' => '62',
+      'parent_id' => '59',
+      'title' => 'Folding',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c62',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_62',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    63 => 
+    array (
+      'category_id' => '63',
+      'parent_id' => '59',
+      'title' => 'Monopattini Elettrici',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c63',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_63',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    64 => 
+    array (
+      'category_id' => '64',
+      'parent_id' => '59',
+      'title' => 'Mountain Bike',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c64',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_64',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    65 => 
+    array (
+      'category_id' => '65',
+      'parent_id' => '59',
+      'title' => 'Work-Bike',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c65',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_65',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c59',
+    'dropdown' => 
+    array (
+      66 => 
+      array (
+        'category_id' => '66',
+        'parent_id' => '59',
+        'title' => 'Promozioni',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c66',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      67 => 
+      array (
+        'category_id' => '67',
+        'parent_id' => '59',
+        'title' => 'Accessori Bici',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c67',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      60 => 
+      array (
+        'category_id' => '60',
+        'parent_id' => '59',
+        'title' => 'City Bike',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c60',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      61 => 
+      array (
+        'category_id' => '61',
+        'parent_id' => '59',
+        'title' => 'Fat-Bike',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c61',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      62 => 
+      array (
+        'category_id' => '62',
+        'parent_id' => '59',
+        'title' => 'Folding',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c62',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_62',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      63 => 
+      array (
+        'category_id' => '63',
+        'parent_id' => '59',
+        'title' => 'Monopattini Elettrici',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c63',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_63',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      64 => 
+      array (
+        'category_id' => '64',
+        'parent_id' => '59',
+        'title' => 'Mountain Bike',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c64',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_64',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      65 => 
+      array (
+        'category_id' => '65',
+        'parent_id' => '59',
+        'title' => 'Work-Bike',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c65',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_65',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+    'total' => '2',
+    'classes' => 
+    array (
+    ),
+  ),
+);

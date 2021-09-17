@@ -1,0 +1,887 @@
+<?php $val = array (
+  'category_id' => '67',
+  'parent_id' => '0',
+  'title' => 'Capelli',
+  'items' => 
+  array (
+    304 => 
+    array (
+      'category_id' => '304',
+      'parent_id' => '67',
+      'title' => 'Prodotti BIO',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c304',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_304',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    171 => 
+    array (
+      'category_id' => '171',
+      'parent_id' => '67',
+      'title' => 'Accessori',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c171',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_171',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    168 => 
+    array (
+      'category_id' => '168',
+      'parent_id' => '67',
+      'title' => 'Balsamo ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c168',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_168',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    99 => 
+    array (
+      'category_id' => '99',
+      'parent_id' => '67',
+      'title' => 'Colorazione ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c99',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_99',
+        'total' => '14',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    230 => 
+    array (
+      'category_id' => '230',
+      'parent_id' => '67',
+      'title' => 'Kids',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c230',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_230',
+        'total' => '3',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    170 => 
+    array (
+      'category_id' => '170',
+      'parent_id' => '67',
+      'title' => 'Maschere ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c170',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_170',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    167 => 
+    array (
+      'category_id' => '167',
+      'parent_id' => '67',
+      'title' => 'Shampoo ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c167',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_167',
+        'total' => '4',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    169 => 
+    array (
+      'category_id' => '169',
+      'parent_id' => '67',
+      'title' => 'Styling ',
+      'items' => 
+      array (
+        321 => 
+        array (
+          'category_id' => '321',
+          'parent_id' => '169',
+          'title' => 'Cera Capelli',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c321',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_321',
+            'total' => '3',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        339 => 
+        array (
+          'category_id' => '339',
+          'parent_id' => '169',
+          'title' => 'Cristalli - Gemme',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c339',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_339',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        320 => 
+        array (
+          'category_id' => '320',
+          'parent_id' => '169',
+          'title' => 'Gel Capelli',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c320',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_320',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        319 => 
+        array (
+          'category_id' => '319',
+          'parent_id' => '169',
+          'title' => 'Lacca',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c319',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_319',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+        340 => 
+        array (
+          'category_id' => '340',
+          'parent_id' => '169',
+          'title' => 'Lucidanti',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c340',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_340',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c169',
+        'dropdown' => 
+        array (
+          321 => 
+          array (
+            'category_id' => '321',
+            'parent_id' => '169',
+            'title' => 'Cera Capelli',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c321',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_321',
+              'total' => '3',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          339 => 
+          array (
+            'category_id' => '339',
+            'parent_id' => '169',
+            'title' => 'Cristalli - Gemme',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c339',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_339',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          320 => 
+          array (
+            'category_id' => '320',
+            'parent_id' => '169',
+            'title' => 'Gel Capelli',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c320',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_320',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          319 => 
+          array (
+            'category_id' => '319',
+            'parent_id' => '169',
+            'title' => 'Lacca',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c319',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_319',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          340 => 
+          array (
+            'category_id' => '340',
+            'parent_id' => '169',
+            'title' => 'Lucidanti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c340',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_340',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c67',
+    'dropdown' => 
+    array (
+      304 => 
+      array (
+        'category_id' => '304',
+        'parent_id' => '67',
+        'title' => 'Prodotti BIO',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c304',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_304',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      171 => 
+      array (
+        'category_id' => '171',
+        'parent_id' => '67',
+        'title' => 'Accessori',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c171',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_171',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      168 => 
+      array (
+        'category_id' => '168',
+        'parent_id' => '67',
+        'title' => 'Balsamo ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c168',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_168',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      99 => 
+      array (
+        'category_id' => '99',
+        'parent_id' => '67',
+        'title' => 'Colorazione ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c99',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_99',
+          'total' => '14',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      230 => 
+      array (
+        'category_id' => '230',
+        'parent_id' => '67',
+        'title' => 'Kids',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c230',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_230',
+          'total' => '3',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      170 => 
+      array (
+        'category_id' => '170',
+        'parent_id' => '67',
+        'title' => 'Maschere ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c170',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_170',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      167 => 
+      array (
+        'category_id' => '167',
+        'parent_id' => '67',
+        'title' => 'Shampoo ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c167',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_167',
+          'total' => '4',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      169 => 
+      array (
+        'category_id' => '169',
+        'parent_id' => '67',
+        'title' => 'Styling ',
+        'items' => 
+        array (
+          321 => 
+          array (
+            'category_id' => '321',
+            'parent_id' => '169',
+            'title' => 'Cera Capelli',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c321',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_321',
+              'total' => '3',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          339 => 
+          array (
+            'category_id' => '339',
+            'parent_id' => '169',
+            'title' => 'Cristalli - Gemme',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c339',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_339',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          320 => 
+          array (
+            'category_id' => '320',
+            'parent_id' => '169',
+            'title' => 'Gel Capelli',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c320',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_320',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          319 => 
+          array (
+            'category_id' => '319',
+            'parent_id' => '169',
+            'title' => 'Lacca',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c319',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_319',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          340 => 
+          array (
+            'category_id' => '340',
+            'parent_id' => '169',
+            'title' => 'Lucidanti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c340',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_340',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c169',
+          'dropdown' => 
+          array (
+            321 => 
+            array (
+              'category_id' => '321',
+              'parent_id' => '169',
+              'title' => 'Cera Capelli',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c321',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_321',
+                'total' => '3',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            339 => 
+            array (
+              'category_id' => '339',
+              'parent_id' => '169',
+              'title' => 'Cristalli - Gemme',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c339',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_339',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            320 => 
+            array (
+              'category_id' => '320',
+              'parent_id' => '169',
+              'title' => 'Gel Capelli',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c320',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_320',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            319 => 
+            array (
+              'category_id' => '319',
+              'parent_id' => '169',
+              'title' => 'Lacca',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c319',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_319',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+            340 => 
+            array (
+              'category_id' => '340',
+              'parent_id' => '169',
+              'title' => 'Lucidanti',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c340',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_340',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67',
+    'total' => '26',
+    'classes' => 
+    array (
+    ),
+  ),
+);

@@ -1,0 +1,499 @@
+<?php $val = array (
+  'css' => '.module-catalog-264 .module-item.swiper-slide{margin-right:25px;width:calc((100% - 7 * 25px) / 8 - 0.01px)}.module-catalog-264 .module-item:not(.swiper-slide){padding:12.5px;width:calc(100% / 8 - 0.01px)}.one-column #content .module-catalog-264 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 3 * 0px) / 4 - 0.01px)}.one-column #content .module-catalog-264 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-catalog-264 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 2 * 0px) / 3 - 0.01px)}.two-column #content .module-catalog-264 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 3 - 0.01px)}.side-column .module-catalog-264 .module-item.swiper-slide{margin-right:0px;width:calc((100% - 0 * 0px) / 1 - 0.01px)}.side-column .module-catalog-264 .module-item:not(.swiper-slide){padding:0px;width:calc(100% / 1 - 0.01px)}.module-catalog-264 .catalog-title{margin-bottom:7px;display:flex;font-family:\'Vollkorn\';font-weight:700;font-size:15px;color:rgba(51, 51, 51, 1);text-transform:uppercase;width:auto;margin-left:0;margin-right:auto;justify-content:flex-start;white-space:normal;overflow:visible;text-overflow:initial}.module-catalog-264 .catalog-title:hover{color:rgba(233, 2, 97, 1)}.module-catalog-264
+.subitems{align-items:flex-start}.module-catalog-264 .subitem > a
+span{font-size:13px;color:rgba(105, 105, 115, 1)}.module-catalog-264 .subitem > a:hover
+span{color:rgba(41, 41, 43, 1);text-decoration:underline}.module-catalog-264 .subitem.view-more a
+span{font-size:12px;color:rgba(105, 105, 115, 1);font-weight:700;text-decoration:underline}.module-catalog-264 .subitem.view-more a:hover
+span{color:rgba(233, 2, 98, 1)}.module-catalog-264 .subitem>a{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;padding-bottom:7px}.module-catalog-264 .catalog-image{margin-right:10px;margin-bottom:10px}.module-catalog-264 .item-assets{flex-direction:column}.module-catalog-264 .item-assets>a{max-width:100%;order:0}.module-catalog-264 .item-assets
+.subitems{width:100%}.module-catalog-264 .item-assets .catalog-image{display:block}@media (max-width: 1024px){.module-catalog-264 .module-item.swiper-slide{margin-right:25px;width:calc((100% - 3 * 25px) / 4 - 0.01px)}.module-catalog-264 .module-item:not(.swiper-slide){padding:12.5px;width:calc(100% / 4 - 0.01px)}.module-catalog-264 div.item-assets{flex-direction:column}.module-catalog-264 div.item-assets>a{max-width:100%;order:0}.module-catalog-264 div.item-assets
+.subitems{width:100%}.module-catalog-264 div.item-assets .catalog-image{display:block}}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Vollkorn' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'images' => true,
+    'imageDimensions' => 
+    array (
+      'width' => 120,
+      'height' => 120,
+      'resize' => 'fill',
+    ),
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 8,
+          'spacing' => 25,
+        ),
+        1024 => 
+        array (
+          'spacing' => 25,
+          'items' => 4,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 0,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 3,
+          'spacing' => 0,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 0,
+        ),
+      ),
+    ),
+    'carousel' => false,
+    'viewMoreText' => 'Mostra Tutto',
+    'status' => true,
+    'id' => 'catalog-613bba0a77c05',
+    'module_id' => 264,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-catalog',
+      2 => 'module-catalog-264',
+      'carousel-mode' => false,
+      'image-on-hover' => true,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'limit' => '4',
+        'id' => '264-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Offerta Profumi',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-offerta-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-offerta-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Profumi Donna',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_61',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-donna-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-donna-240x240h.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Profumi Uomo',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_60',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Profumi Unisex',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_63',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-unisex-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/cat-menu-profumi-unisex-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/profumi-new-120x120h.jpg',
+        'name' => 'Profumi',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/profumi-new-240x240h.jpg',
+        'total' => '10',
+      ),
+      2 => 
+      array (
+        'limit' => '4',
+        'id' => '264-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Labbra',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-labbra-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-labbra-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Mani',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_156',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-mani-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-mani-240x240h.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Occhi',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-occhi-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-occhi-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Trousse',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_258',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-trousse-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/make-up/cat-make-up-trousse-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/Banner/make-up-banner-img-120x120h.jpg',
+        'name' => 'Make-Up',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/Banner/make-up-banner-img-240x240h.jpg',
+        'total' => '6',
+      ),
+      3 => 
+      array (
+        'limit' => '4',
+        'id' => '264-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Accessori Estetici',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/cat-esteticai-accessori-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/cat-esteticai-accessori-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Attrezzature',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/cat-esteticai-attrezzature-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/cat-esteticai-attrezzature-240x240h.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Epilazione',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/cat-esteticai-epilazione-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/cat-esteticai-epilazione-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Gel Uv',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_308',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/gel-uv-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/estetica/gel-uv-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/estetica-cat-120x120h.jpg',
+        'name' => 'Estetica',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/estetica-cat-240x240h.jpg',
+        'total' => '7',
+      ),
+      4 => 
+      array (
+        'limit' => '4',
+        'id' => '264-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Prodotti BIO',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_306',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-prodotti-bio-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-prodotti-bio-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Viso Donna',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-viso-donna-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-viso-donna-240x240h.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Viso Uomo',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-viso-uomo-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-viso-uomo-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Corpo Donna',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_165',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-corpo-donna-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-corpo-donna-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/skincare-banner-120x120h.jpg',
+        'name' => 'Trattamenti',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/skincare-banner-240x240h.jpg',
+        'total' => '7',
+      ),
+      5 => 
+      array (
+        'limit' => '4',
+        'id' => '264-5',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-5',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Prodotti BIO',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_304',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-prodotti-bio-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-prodotti-bio-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Accessori',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_171',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-accessori-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-accessori-240x240h.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Balsamo ',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_168',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-balsamo-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-balsamo-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Colorazione ',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_99',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-colorazione-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/capelli/cat-capelli-colorazione-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/Hair_Blonde_girl-120x120h.jpg',
+        'name' => 'Capelli',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/Hair_Blonde_girl-240x240h.jpg',
+        'total' => '8',
+      ),
+      6 => 
+      array (
+        'limit' => '4',
+        'id' => '264-6',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-6',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Prodotti BIO',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_305',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-prodotti-bio-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/trattamenti/cat-trattamenti-prodotti-bio-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Bambini',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_176',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/igiene/cat-igiene-bambini-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/igiene/cat-igiene-bambini-240x240h.png',
+          ),
+          2 => 
+          array (
+            'name' => 'Corpo',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_172',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/igiene/cat-igiene-corpo-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/igiene/cat-igiene-corpo-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Deo',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_312',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/igiene/cat-igiene-deo-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/igiene/cat-igiene-deo-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/igiene-personale-120x120h.jpg',
+        'name' => 'Igiene Personale',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/igiene-personale-240x240h.jpg',
+        'total' => '8',
+      ),
+      7 => 
+      array (
+        'limit' => '4',
+        'id' => '264-7',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-7',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Pettini',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_285',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/parrucchieri/cat-parrucchieri-pettini-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/parrucchieri/cat-parrucchieri-pettini-240x240h.png',
+          ),
+          1 => 
+          array (
+            'name' => 'Tagliacapelli',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_355',
+            'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/tagliacapelli-rossi-shop-profumeria-120x120h.jpg',
+            'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/tagliacapelli-rossi-shop-profumeria-240x240h.jpg',
+          ),
+          2 => 
+          array (
+            'name' => 'Piastre',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_126',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/parrucchieri/cat-parrucchieri-piastre-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/parrucchieri/cat-parrucchieri-piastre-240x240h.png',
+          ),
+          3 => 
+          array (
+            'name' => 'Spazzole',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135',
+            'image' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/parrucchieri/cat-parrucchieri-spazzole-120x120h.png',
+            'image2x' => 'https://www.rossishop.it/image/cache/categorie/nuovo-set/parrucchieri/cat-parrucchieri-spazzole-240x240h.png',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/banner_img_haircare-120x120h.jpg',
+        'name' => 'Parrucchieri',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/banner_img_haircare-240x240h.jpg',
+        'total' => '7',
+      ),
+      8 => 
+      array (
+        'limit' => '4',
+        'id' => '264-8',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-8',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+          0 => 
+          array (
+            'name' => 'Gel igienizzanti',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_345',
+            'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/Gel-igienizzanti-120x120h.jpg',
+            'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/Gel-igienizzanti-240x240h.jpg',
+          ),
+          1 => 
+          array (
+            'name' => 'Liquidi igienizzanti',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_346',
+            'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/coronavirus-gel-igienizzante-disinfettante-mani-mascherina-120x120h.jpeg',
+            'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/coronavirus-gel-igienizzante-disinfettante-mani-mascherina-240x240h.jpeg',
+          ),
+          2 => 
+          array (
+            'name' => 'Dispenser Gel e liquidi igienizzanti',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_347',
+            'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/dispenser-120x120h.jpg',
+            'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/dispenser-240x240h.jpg',
+          ),
+          3 => 
+          array (
+            'name' => 'Mascherine',
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_348',
+            'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/mascherina-supermercato-120x120h.jpg',
+            'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/mascherina-supermercato-240x240h.jpg',
+          ),
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/coronavirus-gel-igienizzante-disinfettante-mani-mascherina-120x120h.jpeg',
+        'name' => 'PROTEZIONE COVID-19',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/coronavirus-gel-igienizzante-disinfettante-mani-mascherina-240x240h.jpeg',
+        'total' => '9',
+      ),
+      9 => 
+      array (
+        'limit' => '4',
+        'id' => '264-9',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-9',
+          'swiper-slide' => false,
+        ),
+        'items' => 
+        array (
+        ),
+        'image' => 'https://www.rossishop.it/image/cache/catalog/categorie/profumatori-d’ambiente-profumeria-rossi-shop--120x120h.jpg',
+        'name' => 'CASA',
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=354',
+        'image2x' => 'https://www.rossishop.it/image/cache/catalog/categorie/profumatori-d’ambiente-profumeria-rossi-shop--240x240h.jpg',
+        'total' => '0',
+      ),
+    ),
+  ),
+);

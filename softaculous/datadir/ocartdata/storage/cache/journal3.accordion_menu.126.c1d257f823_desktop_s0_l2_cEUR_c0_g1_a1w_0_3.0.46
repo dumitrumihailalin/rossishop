@@ -1,0 +1,328 @@
+<?php $val = array (
+  'css' => '.accordion-menu-126>.j-menu>li>a::before{content:\'\\e93f\' !important;font-family:icomoon !important}.accordion-menu-126.accordion-menu .j-menu .dropdown>a>.count-badge{margin-right:5px}.accordion-menu-126.accordion-menu .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}.accordion-menu-126.accordion-menu .j-menu .dropdown>a::after{display:none}.accordion-menu-126.accordion-menu .j-menu>li>a{font-size:14px;color:rgba(105, 105, 115, 1);font-weight:700;padding:7px;padding-right:0px;padding-left:0px}.desktop .accordion-menu-126.accordion-menu .j-menu > li:hover > a, .accordion-menu-126.accordion-menu .j-menu>li.active>a{color:rgba(233, 2, 97, 1)}.accordion-menu-126.accordion-menu .j-menu>li.open>a{color:rgba(233, 2, 97, 1);font-weight:700}.accordion-menu-126.accordion-menu .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.accordion-menu-126.accordion-menu .j-menu>li>a::before{color:rgba(139, 145, 152, 1);margin-right:7px;font-size:12px}.accordion-menu-126.accordion-menu .j-menu li .count-badge{font-size:10px;color:rgba(255, 255, 255, 1);font-weight:400;background:rgba(233, 2, 97, 1);border-radius:50px}.accordion-menu-126.accordion-menu .j-menu li .count-zero{display:none !important}.accordion-menu-126.accordion-menu .j-menu a .count-badge{display:none;position:relative}.accordion-menu-126 .open-menu i::before{content:\'\\eba2\' !important;font-family:icomoon !important;font-size:16px;color:rgba(161, 163, 166, 1);left:5px}.accordion-menu-126 .open-menu[aria-expanded=\'true\'] i::before{content:\'\\eb87\' !important;font-family:icomoon !important;font-size:16px;color:rgba(233, 2, 97, 1);left:5px}.accordion-menu-126.accordion-menu .j-menu .j-menu .dropdown>a>.count-badge{margin-right:5px}.accordion-menu-126.accordion-menu .j-menu .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}.accordion-menu-126.accordion-menu .j-menu .j-menu .dropdown>a::after{display:none}.accordion-menu-126.accordion-menu .j-menu .j-menu>li>a{font-size:13px;color:rgba(105, 105, 115, 1);font-weight:400;text-transform:none;padding:5px}.desktop .accordion-menu-126.accordion-menu .j-menu .j-menu > li:hover > a, .accordion-menu-126.accordion-menu .j-menu .j-menu>li.active>a{color:rgba(51, 51, 51, 1)}.accordion-menu-126.accordion-menu .j-menu .j-menu>li.open>a{font-weight:700}.accordion-menu-126.accordion-menu .j-menu .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.accordion-menu-126.accordion-menu .j-menu .j-menu li .count-badge{font-size:10px;color:rgba(255, 255, 255, 1);font-weight:400;background:rgba(233, 2, 97, 1);border-radius:50px}.accordion-menu-126.accordion-menu .j-menu .j-menu li .count-zero{display:none !important}.accordion-menu-126.accordion-menu .j-menu .j-menu a .count-badge{display:none;position:relative}.accordion-menu-126 .j-menu > li > div .j-menu>li>a{padding-left:20px !important}.accordion-menu-126 .j-menu > li > div .j-menu>li>div>.j-menu>li>a{padding-left:30px !important}.accordion-menu-126 .j-menu > li > div .j-menu>li>div>.j-menu>li>div>.j-menu>li>a{padding-left:40px !important}.accordion-menu-126 .j-menu > li > div .j-menu>li>div>.j-menu>li>div>.j-menu>li>div>.j-menu>li>a{padding-left:50px !important}.accordion-menu-126>.j-menu{padding:15px;padding-left:20px;background:rgba(240, 242, 245, 1)}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'status' => true,
+    'id' => 'accordion-menu-613bc1894492a',
+    'module_id' => 126,
+    'classes' => 
+    array (
+      0 => 'accordion-menu',
+      1 => 'accordion-menu-126',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Il mio account',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/account',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Indirizzi',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/address',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Lista dei desideri',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/wishlist',
+          'name' => '',
+          'total' => '{{ $wishlist }}',
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'wishlist-badge',
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Cronologia ordini',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/order',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Downloads',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/download',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Pagamenti ricorrenti',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/recurring',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Punti premio',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/reward',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-7',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Restituzioni',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/return/add',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-8',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      9 => 
+      array (
+        'title' => 'Transazioni',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/transaction',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-9',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      10 => 
+      array (
+        'title' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/newsletter',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-10',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

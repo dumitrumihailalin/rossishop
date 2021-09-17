@@ -1,0 +1,307 @@
+{{ header }}{{ column_left }}
+<div id="content">
+  <div class="page-header">
+    <div class="container-fluid">
+      <div class="pull-right">
+        <button type="submit" form="form-module" data-toggle="tooltip" title="{{ button_save }}" class="btn btn-primary"><i class="fa fa-save"></i></button>
+        <a href="{{ cancel }}" data-toggle="tooltip" title="{{ button_cancel }}" class="btn btn-default"><i class="fa fa-reply"></i></a></div>
+      <h1>{{ heading_title }}</h1>
+      <ul class="breadcrumb">
+        {% for breadcrumb in breadcrumbs %}
+        <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="container-fluid">
+    {% if error_warning %}
+    <div class="alert alert-danger alert-dismissible"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    {% endif %}
+    {% if success %}
+    <div class="alert alert-success alert-dismissible"><i class="fa fa-check-circle"></i> {{ success }}
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    {% endif %}
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-pencil"></i> {{ text_edit }}</h3>
+      </div>
+      <div class="panel-body">
+        <form action="{{ action }}" method="post" enctype="multipart/form-data" id="form-cunit" class="form-horizontal">
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-status">{{ entry_status }}</label>
+            <div class="col-sm-10">
+              <select name="status" id="input-status" class="form-control">
+                <option value="1"{% if status %} selected="selected"{% endif %}>{{ text_enabled }}</option>
+                <option value="0"{% if not status %} selected="selected"{% endif %}>{{ text_disabled }}</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-sort-order">{{ entry_sort_order }}</label>
+            <div class="col-sm-10">
+              <input type="text" name="sort_order" value="{{ sort_order }}" placeholder="{{ entry_sort_order }}" id="input-sort-order" class="form-control" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label"><span data-toggle="tooltip" title="{{ help_base }}">{{ entry_base }}</span></label>
+            <div class="col-sm-10">
+              {% for language in languages %}
+              <div class="input-group"><span class="input-group-addon"><img src="language/{{ language.code }}/{{ language.code }}.png" title="{{ language.name }}" /></span>
+                <input type="text" name="cunit_description[{{ language.language_id }}][base]" value="{{ cunit_description[language.language_id] ? cunit_description[language.language_id].base }}" placeholder="{{ entry_base }}" class="form-control" />
+              </div>
+              {% if error_base[language.language_id] %}
+              <div class="text-danger">{{ error_base[language.language_id] }}</div>
+              {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label"><span data-toggle="tooltip" title="{{ help_collective }}">{{ entry_collective }}</span></label>
+            <div class="col-sm-10">
+              {% for language in languages %}
+              <div class="input-group"><span class="input-group-addon"><img src="language/{{ language.code }}/{{ language.code }}.png" title="{{ language.name }}" /></span>
+                <input type="text" name="cunit_description[{{ language.language_id }}][collective]" value="{{ cunit_description[language.language_id] ? cunit_description[language.language_id].collective }}" placeholder="{{ entry_collective }}" class="form-control" />
+              </div>
+              {% if error_collective[language.language_id] %}
+              <div class="text-danger">{{ error_collective[language.language_id] }}</div>
+              {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+          <div class="form-group required">
+            <label class="col-sm-2 control-label" for="input-value"><span data-toggle="tooltip" title="{{ help_value }}">{{ entry_value }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" name="value" value="{{ value }}" placeholder="{{ entry_value }}" id="input-value" class="form-control" />
+              {% if error_value %}
+              <div class="text-danger">{{ error_value }}</div>
+              {% endif %}
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label"><span data-toggle="tooltip" title="{{ help_decimal }}">{{ entry_decimal }}</span></label>
+            <div class="col-sm-10">
+                <label class="radio-inline">
+                  <input type="radio" name="decimal" value="1"{% if decimal %} checked="checked"{% endif %} />
+                  {{ text_yes }}
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" name="decimal" value="0"{% if not decimal %} checked="checked"{% endif %} />
+                  {{ text_no }}
+                </label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label"><span data-toggle="tooltip" title="{{ help_price_in }}">{{ entry_price_in }}</span></label>
+            <div class="col-sm-10">
+                <label class="radio-inline">
+                  <input type="radio" name="price_in" value="b"{% if price_in == 'b' %} checked="checked"{% endif %} />
+                  {{ entry_base }}
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" name="price_in" value="c"{% if price_in == 'c' %} checked="checked"{% endif %} />
+                  {{ entry_collective }}
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" name="price_in" value="a"{% if price_in == 'a' %} checked="checked"{% endif %} />
+                  {{ text_both }}
+                </label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label"><span data-toggle="tooltip" title="{{ help_order_in }}">{{ entry_order_in }}</span></label>
+            <div class="col-sm-10">
+                <label class="radio-inline">
+                  <input type="radio" name="order_in" value="b"{% if order_in == 'b' %} checked="checked"{% endif %} />
+                  {{ entry_base }}
+                </label>
+                <label class="radio-inline">
+                  <input type="radio" name="order_in" value="c"{% if order_in == 'c' %} checked="checked"{% endif %} />
+                  {{ entry_collective }}
+                </label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-product"><span data-toggle="tooltip" title="{{ help_autocomplete }}">{{ entry_product }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" value="" placeholder="{{ text_autocomplete }}" id="input-product" class="form-control" />
+              <div id="product" class="well well-sm" style="height: 150px; overflow: auto;">
+                {% for product in products %}
+                <div id="product{{ product.product_id }}"><i class="fa fa-minus-circle"></i> {{ product.name }}
+                  <input type="hidden" name="products[]" value="{{ product.product_id }}" />
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-category"><span data-toggle="tooltip" title="{{ help_autocomplete }}">{{ entry_category }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" value="" placeholder="{{ text_autocomplete }}" id="input-category" class="form-control" />
+              <div id="category" class="well well-sm" style="height: 150px; overflow: auto;">
+                {% for category in categories %}
+                <div id="category{{ category.category_id }}"><i class="fa fa-minus-circle"></i> {{ category.name }}
+                  <input type="hidden" name="categories[]" value="{{ category.category_id }}" />
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-manufacturer"><span data-toggle="tooltip" title="{{ help_autocomplete }}">{{ entry_manufacturer }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" value="" placeholder="{{ text_autocomplete }}" id="input-manufacturer" class="form-control" />
+              <div id="manufacturer" class="well well-sm" style="height: 150px; overflow: auto;">
+                {% for manufacturer in manufacturers %}
+                <div id="manufacturer{{ manufacturer.manufacturer_id }}"><i class="fa fa-minus-circle"></i> {{ manufacturer.name }}
+                  <input type="hidden" name="manufacturers[]" value="{{ manufacturer.manufacturer_id }}" />
+                </div>
+                {% endfor %}
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label">{{ entry_login }}</label>
+            <div class="col-sm-10">
+              <label class="radio-inline">
+                <input type="radio" name="login" value="1"{% if login %} checked="checked"{% endif %} />
+                {{ text_yes }}
+              </label>
+              <label class="radio-inline">
+                <input type="radio" name="login" value="0"{% if not login %} checked="checked"{% endif %} />
+                {{ text_no }}
+              </label>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label"><span data-toggle="tooltip" title="{{ help_customer_group }}">{{ entry_customer_group }}</span></label>
+            <div class="col-sm-10">
+              <div class="well well-sm" style="height: 150px; overflow: auto;">
+                {% for customer_group in customer_groups %}
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox" name="customer_groups[]" value="{{ customer_group.customer_group_id }}"{% if customer_group.customer_group_id in cunit_customer_groups %} checked="checked"{% endif %} />
+                    {{ customer_group.name }}
+                  </label>
+                </div>
+                {% endfor %}</div>
+            </div>
+          </div>
+          <div class="form-group required">
+            <label class="col-sm-2 control-label">{{ entry_store }}</label>
+            <div class="col-sm-10">
+              <div class="well well-sm" style="height: 150px; overflow: auto;">
+                {% for store in stores %}
+                <div class="checkbox">
+                  <label> 
+                    <input type="checkbox" name="stores[]" value="{{ store.store_id }}"{% if store.store_id in cunit_stores %} checked="checked"{% endif %} />
+                    {{ store.name }}
+                  </label>
+                </div>
+                {% endfor %}</div>
+                {% if error_store %}
+                <div class="text-danger">{{ error_store }}</div>
+                {% endif %}
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="panel-footer">
+        <div class="small pull-left">{{ text_version }} {{ new_version }}</div>
+        <div class="small pull-right">{{ text_copyright }}</div>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+// Product
+$('input#input-product').autocomplete({
+  'source': function(request, response) {
+    $.ajax({
+      url: 'index.php?route=catalog/product/autocomplete&user_token={{ user_token }}&filter_name=' +  encodeURIComponent(request),
+      dataType: 'json',
+      success: function(json) {
+        response($.map(json, function(item) {
+          return {
+            label: item['name'],
+            value: item['product_id']
+          }
+        }));
+      }
+    });
+  },
+  'select': function(item) {
+    $('input#input-product').val('');
+
+    $('#product' + item['value']).remove();
+
+    $('#product').append('<div id="product' + item['value'] + '"><i class="fa fa-minus-circle"></i> ' + item['label'] + '<input type="hidden" name="products[]" value="' + item['value'] + '" /></div>');
+  }
+});
+
+$('#product').delegate('.fa-minus-circle', 'click', function() {
+  $(this).parent().remove();
+});
+
+// Category
+$('input#input-category').autocomplete({
+  'source': function(request, response) {
+    $.ajax({
+      url: 'index.php?route=catalog/category/autocomplete&user_token={{ user_token }}&filter_name=' +  encodeURIComponent(request),
+      dataType: 'json',
+      success: function(json) {
+        response($.map(json, function(item) {
+          return {
+            label: item['name'],
+            value: item['category_id']
+          }
+        }));
+      }
+    });
+  },
+  'select': function(item) {
+    $('input#input-category').val('');
+
+    $('#category' + item['value']).remove();
+
+    $('#category').append('<div id="category' + item['value'] + '"><i class="fa fa-minus-circle"></i> ' + item['label'] + '<input type="hidden" name="categories[]" value="' + item['value'] + '" /></div>');
+  }
+});
+
+$('#category').delegate('.fa-minus-circle', 'click', function() {
+  $(this).parent().remove();
+});
+
+// Manufacturer
+$('input#input-manufacturer').autocomplete({
+  'source': function(request, response) {
+    $.ajax({
+      url: 'index.php?route=catalog/manufacturer/autocomplete&user_token={{ user_token }}&filter_name=' +  encodeURIComponent(request),
+      dataType: 'json',
+      success: function(json) {
+        response($.map(json, function(item) {
+          return {
+            label: item['name'],
+            value: item['manufacturer_id']
+          }
+        }));
+      }
+    });
+  },
+  'select': function(item) {
+    $('input#input-manufacturer').val('');
+
+    $('#manufacturer' + item['value']).remove();
+
+    $('#manufacturer').append('<div id="manufacturer' + item['value'] + '"><i class="fa fa-minus-circle"></i> ' + item['label'] + '<input type="hidden" name="manufacturers[]" value="' + item['value'] + '" /></div>');
+  }
+});
+
+$('#manufacturer').delegate('.fa-minus-circle', 'click', function() {
+  $(this).parent().remove();
+});
+//--></script>
+{{ footer }}

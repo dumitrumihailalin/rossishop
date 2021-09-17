@@ -1,0 +1,5338 @@
+<?php $val = array (
+  'css' => 'div.flyout-menu.flyout-menu-223 .j-menu .dropdown>a>.count-badge{margin-right:5px}div.flyout-menu.flyout-menu-223 .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}div.flyout-menu.flyout-menu-223 .j-menu .dropdown>a::after{display:none}div.flyout-menu.flyout-menu-223 .j-menu>li>a{font-family:\'Vollkorn\';font-weight:700;font-size:17px;color:rgba(51, 51, 51, 1);text-transform:none;padding:10px;padding-left:0px}div.flyout-menu.flyout-menu-223 .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}div.flyout-menu.flyout-menu-223 .j-menu>li>a::before{color:rgba(139, 145, 152, 1);margin-right:10px;min-width:24px;font-size:24px}div.flyout-menu.flyout-menu-223 .j-menu a .count-badge{display:inline-flex;position:relative}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu .dropdown>a>.count-badge{margin-right:0}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:7px}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu .dropdown>a::after{display:block}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu>li>a{font-size:14px;color:rgba(105, 105, 115, 1);font-weight:400;background:rgba(255, 255, 255, 1);padding:10px;padding-left:15px}.desktop .flyout-menu-223 .flyout-menu-item.dropdown .j-menu > li:hover > a, .flyout-menu-223 .flyout-menu-item.dropdown .j-menu>li.active>a{color:rgba(51, 51, 51, 1);background:rgba(240, 242, 245, 1)}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu .links-text{white-space:normal;overflow:visible;text-overflow:initial}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu>li>a::before{margin-right:7px;min-width:20px;font-size:18px}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu > li > a, .flyout-menu-223 .flyout-menu-item.dropdown.accordion-menu .menu-item > a + div, .flyout-menu-223 .flyout-menu-item.dropdown .accordion-menu .menu-item>a+div{border-style:none}.flyout-menu-223 .flyout-menu-item.dropdown .j-menu a .count-badge{display:none;position:relative}.flyout-menu-223 .flyout-menu-item.dropdown:not(.mega-menu) .j-dropdown{min-width:200px}.flyout-menu-223 .flyout-menu-item.dropdown:not(.mega-menu) .j-menu{box-shadow:30px 40px 90px -10px rgba(0, 0, 0, 0.2)}.flyout-menu-223 .flyout-menu-item.dropdown .j-dropdown::before{display:none;border-bottom-color:rgba(255, 255, 255, 1);margin-left:15px;margin-top:-20px}.flyout-menu-223 .mega-menu-content{background:rgba(255, 255, 255, 1)}.desktop .flyout-menu-223 .mega-menu-content{border-width:0;border-top-width:1px;border-style:solid;border-color:rgba(226, 226, 226, 1)}.flyout-menu-223 .j-dropdown>.mega-menu-content{box-shadow:30px 40px 90px -10px rgba(0, 0, 0, 0.2)}@media (max-width: 1024px){.flyout-menu-223 .j-dropdown>.mega-menu-content{max-height:500px !important;overflow-y:auto}}.flyout-menu-223 .mega-menu.flyout-menu-item-1 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-1.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-2 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-2.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-3 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-3.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-4 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-4.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-5 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-5.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-6 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-6.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-7 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-7.multi-level .dropdown-menu{left:100%}.flyout-menu-223 .mega-menu.flyout-menu-item-8 .dropdown-menu{width:800px}.desktop-header-active .flyout-menu-223 .flyout-menu-item-8.multi-level .dropdown-menu{left:100%}',
+  'fonts' => 
+  array (
+    'fonts' => 
+    array (
+      'Vollkorn' => 
+      array (
+        700 => '700',
+      ),
+    ),
+    'subsets' => 
+    array (
+      'latin-ext' => 'latin-ext',
+    ),
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'flyout-menu-613bb9cdf21f4',
+    'module_id' => 223,
+    'classes' => 
+    array (
+      0 => 'flyout-menu',
+      1 => 'flyout-menu-223',
+      'accordion-menu' => true,
+    ),
+    'display' => 'accordion',
+    'first' => false,
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Profumi',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59',
+          'name' => 'Profumi',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-1',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          70 => 
+          array (
+            'category_id' => '70',
+            'parent_id' => '59',
+            'title' => 'Offerta Profumi',
+            'items' => 
+            array (
+              335 => 
+              array (
+                'category_id' => '335',
+                'parent_id' => '70',
+                'title' => 'Donna',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c335',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70_335',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              337 => 
+              array (
+                'category_id' => '337',
+                'parent_id' => '70',
+                'title' => 'Unisex',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c337',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70_337',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              336 => 
+              array (
+                'category_id' => '336',
+                'parent_id' => '70',
+                'title' => 'Uomo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c336',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70_336',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c70',
+              'dropdown' => 
+              array (
+                335 => 
+                array (
+                  'category_id' => '335',
+                  'parent_id' => '70',
+                  'title' => 'Donna',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c335',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70_335',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                337 => 
+                array (
+                  'category_id' => '337',
+                  'parent_id' => '70',
+                  'title' => 'Unisex',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c337',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70_337',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                336 => 
+                array (
+                  'category_id' => '336',
+                  'parent_id' => '70',
+                  'title' => 'Uomo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c336',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70_336',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_70',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          61 => 
+          array (
+            'category_id' => '61',
+            'parent_id' => '59',
+            'title' => 'Profumi Donna',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c61',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_61',
+              'total' => '9',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          60 => 
+          array (
+            'category_id' => '60',
+            'parent_id' => '59',
+            'title' => 'Profumi Uomo',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c60',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_60',
+              'total' => '7',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          63 => 
+          array (
+            'category_id' => '63',
+            'parent_id' => '59',
+            'title' => 'Profumi Unisex',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c63',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_63',
+              'total' => '6',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          62 => 
+          array (
+            'category_id' => '62',
+            'parent_id' => '59',
+            'title' => 'Profumi Bambini',
+            'items' => 
+            array (
+              311 => 
+              array (
+                'category_id' => '311',
+                'parent_id' => '62',
+                'title' => 'Bimba',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c311',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_62_311',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              310 => 
+              array (
+                'category_id' => '310',
+                'parent_id' => '62',
+                'title' => 'Bimbo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c310',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_62_310',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c62',
+              'dropdown' => 
+              array (
+                311 => 
+                array (
+                  'category_id' => '311',
+                  'parent_id' => '62',
+                  'title' => 'Bimba',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c311',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_62_311',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                310 => 
+                array (
+                  'category_id' => '310',
+                  'parent_id' => '62',
+                  'title' => 'Bimbo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c310',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_62_310',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_62',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          255 => 
+          array (
+            'category_id' => '255',
+            'parent_id' => '59',
+            'title' => 'Cofanetti Regalo',
+            'items' => 
+            array (
+              257 => 
+              array (
+                'category_id' => '257',
+                'parent_id' => '255',
+                'title' => 'Donna',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c257',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_255_257',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              256 => 
+              array (
+                'category_id' => '256',
+                'parent_id' => '255',
+                'title' => 'Uomo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c256',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_255_256',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c255',
+              'dropdown' => 
+              array (
+                257 => 
+                array (
+                  'category_id' => '257',
+                  'parent_id' => '255',
+                  'title' => 'Donna',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c257',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_255_257',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                256 => 
+                array (
+                  'category_id' => '256',
+                  'parent_id' => '255',
+                  'title' => 'Uomo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c256',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_255_256',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_255',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          80 => 
+          array (
+            'category_id' => '80',
+            'parent_id' => '59',
+            'title' => 'Essenze e Oli',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c80',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_80',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          247 => 
+          array (
+            'category_id' => '247',
+            'parent_id' => '59',
+            'title' => 'After Shave ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c247',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_247',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          242 => 
+          array (
+            'category_id' => '242',
+            'parent_id' => '59',
+            'title' => 'Deodoranti',
+            'items' => 
+            array (
+              244 => 
+              array (
+                'category_id' => '244',
+                'parent_id' => '242',
+                'title' => 'Donna',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c244',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_242_244',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              243 => 
+              array (
+                'category_id' => '243',
+                'parent_id' => '242',
+                'title' => 'Uomo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c243',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_242_243',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c242',
+              'dropdown' => 
+              array (
+                244 => 
+                array (
+                  'category_id' => '244',
+                  'parent_id' => '242',
+                  'title' => 'Donna',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c244',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_242_244',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                243 => 
+                array (
+                  'category_id' => '243',
+                  'parent_id' => '242',
+                  'title' => 'Uomo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c243',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_242_243',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_242',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          251 => 
+          array (
+            'category_id' => '251',
+            'parent_id' => '59',
+            'title' => 'Bagno Doccia',
+            'items' => 
+            array (
+              253 => 
+              array (
+                'category_id' => '253',
+                'parent_id' => '251',
+                'title' => 'Donna',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c253',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_251_253',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              252 => 
+              array (
+                'category_id' => '252',
+                'parent_id' => '251',
+                'title' => 'Uomo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c252',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_251_252',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c251',
+              'dropdown' => 
+              array (
+                253 => 
+                array (
+                  'category_id' => '253',
+                  'parent_id' => '251',
+                  'title' => 'Donna',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c253',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_251_253',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                252 => 
+                array (
+                  'category_id' => '252',
+                  'parent_id' => '251',
+                  'title' => 'Uomo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c252',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_251_252',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=59_251',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Make-Up',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '64',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64',
+          'name' => 'Make-Up',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-2',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          197 => 
+          array (
+            'category_id' => '197',
+            'parent_id' => '64',
+            'title' => 'Labbra',
+            'items' => 
+            array (
+              208 => 
+              array (
+                'category_id' => '208',
+                'parent_id' => '197',
+                'title' => 'Lucida labbra',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c208',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197_208',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              193 => 
+              array (
+                'category_id' => '193',
+                'parent_id' => '197',
+                'title' => 'Matite Labbra',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c193',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197_193',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              143 => 
+              array (
+                'category_id' => '143',
+                'parent_id' => '197',
+                'title' => 'Rossetti',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c143',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197_143',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c197',
+              'dropdown' => 
+              array (
+                208 => 
+                array (
+                  'category_id' => '208',
+                  'parent_id' => '197',
+                  'title' => 'Lucida labbra',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c208',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197_208',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                193 => 
+                array (
+                  'category_id' => '193',
+                  'parent_id' => '197',
+                  'title' => 'Matite Labbra',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c193',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197_193',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                143 => 
+                array (
+                  'category_id' => '143',
+                  'parent_id' => '197',
+                  'title' => 'Rossetti',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c143',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197_143',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_197',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          156 => 
+          array (
+            'category_id' => '156',
+            'parent_id' => '64',
+            'title' => 'Mani',
+            'items' => 
+            array (
+              206 => 
+              array (
+                'category_id' => '206',
+                'parent_id' => '156',
+                'title' => 'Smalti',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c206',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_156_206',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c156',
+              'dropdown' => 
+              array (
+                206 => 
+                array (
+                  'category_id' => '206',
+                  'parent_id' => '156',
+                  'title' => 'Smalti',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c206',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_156_206',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_156',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          195 => 
+          array (
+            'category_id' => '195',
+            'parent_id' => '64',
+            'title' => 'Occhi',
+            'items' => 
+            array (
+              315 => 
+              array (
+                'category_id' => '315',
+                'parent_id' => '195',
+                'title' => 'Eyeliner',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c315',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_315',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              196 => 
+              array (
+                'category_id' => '196',
+                'parent_id' => '195',
+                'title' => 'Mascara',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c196',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_196',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              192 => 
+              array (
+                'category_id' => '192',
+                'parent_id' => '195',
+                'title' => 'Matite Occhi',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c192',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_192',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              328 => 
+              array (
+                'category_id' => '328',
+                'parent_id' => '195',
+                'title' => 'Matite Sopracciglia ',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c328',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_328',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              190 => 
+              array (
+                'category_id' => '190',
+                'parent_id' => '195',
+                'title' => 'Ombretti',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c190',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_190',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c195',
+              'dropdown' => 
+              array (
+                315 => 
+                array (
+                  'category_id' => '315',
+                  'parent_id' => '195',
+                  'title' => 'Eyeliner',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c315',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_315',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                196 => 
+                array (
+                  'category_id' => '196',
+                  'parent_id' => '195',
+                  'title' => 'Mascara',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c196',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_196',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                192 => 
+                array (
+                  'category_id' => '192',
+                  'parent_id' => '195',
+                  'title' => 'Matite Occhi',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c192',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_192',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                328 => 
+                array (
+                  'category_id' => '328',
+                  'parent_id' => '195',
+                  'title' => 'Matite Sopracciglia ',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c328',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_328',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                190 => 
+                array (
+                  'category_id' => '190',
+                  'parent_id' => '195',
+                  'title' => 'Ombretti',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c190',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195_190',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_195',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          258 => 
+          array (
+            'category_id' => '258',
+            'parent_id' => '64',
+            'title' => 'Trousse',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c258',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_258',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          198 => 
+          array (
+            'category_id' => '198',
+            'parent_id' => '64',
+            'title' => 'Viso',
+            'items' => 
+            array (
+              191 => 
+              array (
+                'category_id' => '191',
+                'parent_id' => '198',
+                'title' => 'Cipria',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c191',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_191',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              314 => 
+              array (
+                'category_id' => '314',
+                'parent_id' => '198',
+                'title' => 'Correttori',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c314',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_314',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              189 => 
+              array (
+                'category_id' => '189',
+                'parent_id' => '198',
+                'title' => 'Fard - Blush',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c189',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_189',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              155 => 
+              array (
+                'category_id' => '155',
+                'parent_id' => '198',
+                'title' => 'Fondotinta',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c155',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_155',
+                  'total' => '6',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              313 => 
+              array (
+                'category_id' => '313',
+                'parent_id' => '198',
+                'title' => 'Terra',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c313',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_313',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c198',
+              'dropdown' => 
+              array (
+                191 => 
+                array (
+                  'category_id' => '191',
+                  'parent_id' => '198',
+                  'title' => 'Cipria',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c191',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_191',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                314 => 
+                array (
+                  'category_id' => '314',
+                  'parent_id' => '198',
+                  'title' => 'Correttori',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c314',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_314',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                189 => 
+                array (
+                  'category_id' => '189',
+                  'parent_id' => '198',
+                  'title' => 'Fard - Blush',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c189',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_189',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                155 => 
+                array (
+                  'category_id' => '155',
+                  'parent_id' => '198',
+                  'title' => 'Fondotinta',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c155',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_155',
+                    'total' => '6',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                313 => 
+                array (
+                  'category_id' => '313',
+                  'parent_id' => '198',
+                  'title' => 'Terra',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c313',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198_313',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_198',
+              'total' => '12',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          77 => 
+          array (
+            'category_id' => '77',
+            'parent_id' => '64',
+            'title' => 'Palette',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c77',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=64_77',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Estetica',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '83',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83',
+          'name' => 'Estetica',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-3',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          134 => 
+          array (
+            'category_id' => '134',
+            'parent_id' => '83',
+            'title' => 'Accessori Estetici',
+            'items' => 
+            array (
+              324 => 
+              array (
+                'category_id' => '324',
+                'parent_id' => '134',
+                'title' => 'Cartine ',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c324',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_324',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              291 => 
+              array (
+                'category_id' => '291',
+                'parent_id' => '134',
+                'title' => 'Forbici',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c291',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_291',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              325 => 
+              array (
+                'category_id' => '325',
+                'parent_id' => '134',
+                'title' => 'Lame',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c325',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_325',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              294 => 
+              array (
+                'category_id' => '294',
+                'parent_id' => '134',
+                'title' => 'Lime',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c294',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_294',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              326 => 
+              array (
+                'category_id' => '326',
+                'parent_id' => '134',
+                'title' => 'Pads',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c326',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_326',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              295 => 
+              array (
+                'category_id' => '295',
+                'parent_id' => '134',
+                'title' => 'Piegaciglia',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c295',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_295',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              292 => 
+              array (
+                'category_id' => '292',
+                'parent_id' => '134',
+                'title' => 'Pinzette',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c292',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_292',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              293 => 
+              array (
+                'category_id' => '293',
+                'parent_id' => '134',
+                'title' => 'Tronchesine',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c293',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_293',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              298 => 
+              array (
+                'category_id' => '298',
+                'parent_id' => '134',
+                'title' => 'Set Manicure',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c298',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_298',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              297 => 
+              array (
+                'category_id' => '297',
+                'parent_id' => '134',
+                'title' => 'Altro',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c297',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_297',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c134',
+              'dropdown' => 
+              array (
+                324 => 
+                array (
+                  'category_id' => '324',
+                  'parent_id' => '134',
+                  'title' => 'Cartine ',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c324',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_324',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                291 => 
+                array (
+                  'category_id' => '291',
+                  'parent_id' => '134',
+                  'title' => 'Forbici',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c291',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_291',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                325 => 
+                array (
+                  'category_id' => '325',
+                  'parent_id' => '134',
+                  'title' => 'Lame',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c325',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_325',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                294 => 
+                array (
+                  'category_id' => '294',
+                  'parent_id' => '134',
+                  'title' => 'Lime',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c294',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_294',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                326 => 
+                array (
+                  'category_id' => '326',
+                  'parent_id' => '134',
+                  'title' => 'Pads',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c326',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_326',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                295 => 
+                array (
+                  'category_id' => '295',
+                  'parent_id' => '134',
+                  'title' => 'Piegaciglia',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c295',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_295',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                292 => 
+                array (
+                  'category_id' => '292',
+                  'parent_id' => '134',
+                  'title' => 'Pinzette',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c292',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_292',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                293 => 
+                array (
+                  'category_id' => '293',
+                  'parent_id' => '134',
+                  'title' => 'Tronchesine',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c293',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_293',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                298 => 
+                array (
+                  'category_id' => '298',
+                  'parent_id' => '134',
+                  'title' => 'Set Manicure',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c298',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_298',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                297 => 
+                array (
+                  'category_id' => '297',
+                  'parent_id' => '134',
+                  'title' => 'Altro',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c297',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134_297',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_134',
+              'total' => '7',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          290 => 
+          array (
+            'category_id' => '290',
+            'parent_id' => '83',
+            'title' => 'Attrezzature',
+            'items' => 
+            array (
+              323 => 
+              array (
+                'category_id' => '323',
+                'parent_id' => '290',
+                'title' => 'Aspiratore',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c323',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_323',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              125 => 
+              array (
+                'category_id' => '125',
+                'parent_id' => '290',
+                'title' => 'Frese',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c125',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_125',
+                  'total' => '2',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              327 => 
+              array (
+                'category_id' => '327',
+                'parent_id' => '290',
+                'title' => 'Kit',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c327',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_327',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              106 => 
+              array (
+                'category_id' => '106',
+                'parent_id' => '290',
+                'title' => 'Lampade ',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c106',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_106',
+                  'total' => '4',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              356 => 
+              array (
+                'category_id' => '356',
+                'parent_id' => '290',
+                'title' => 'Scaldacera',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c356',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_356',
+                  'total' => '2',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              338 => 
+              array (
+                'category_id' => '338',
+                'parent_id' => '290',
+                'title' => 'Sterilizzatori',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c338',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_338',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              262 => 
+              array (
+                'category_id' => '262',
+                'parent_id' => '290',
+                'title' => 'Vaporizzatori',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c262',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_262',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c290',
+              'dropdown' => 
+              array (
+                323 => 
+                array (
+                  'category_id' => '323',
+                  'parent_id' => '290',
+                  'title' => 'Aspiratore',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c323',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_323',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                125 => 
+                array (
+                  'category_id' => '125',
+                  'parent_id' => '290',
+                  'title' => 'Frese',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c125',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_125',
+                    'total' => '2',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                327 => 
+                array (
+                  'category_id' => '327',
+                  'parent_id' => '290',
+                  'title' => 'Kit',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c327',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_327',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                106 => 
+                array (
+                  'category_id' => '106',
+                  'parent_id' => '290',
+                  'title' => 'Lampade ',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c106',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_106',
+                    'total' => '4',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                356 => 
+                array (
+                  'category_id' => '356',
+                  'parent_id' => '290',
+                  'title' => 'Scaldacera',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c356',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_356',
+                    'total' => '2',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                338 => 
+                array (
+                  'category_id' => '338',
+                  'parent_id' => '290',
+                  'title' => 'Sterilizzatori',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c338',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_338',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                262 => 
+                array (
+                  'category_id' => '262',
+                  'parent_id' => '290',
+                  'title' => 'Vaporizzatori',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c262',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290_262',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_290',
+              'total' => '8',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          301 => 
+          array (
+            'category_id' => '301',
+            'parent_id' => '83',
+            'title' => 'Epilazione',
+            'items' => 
+            array (
+              302 => 
+              array (
+                'category_id' => '302',
+                'parent_id' => '301',
+                'title' => 'Cera Barattolo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c302',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_302',
+                  'total' => '7',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              303 => 
+              array (
+                'category_id' => '303',
+                'parent_id' => '301',
+                'title' => 'Cera Roll On',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c303',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_303',
+                  'total' => '1',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              317 => 
+              array (
+                'category_id' => '317',
+                'parent_id' => '301',
+                'title' => 'Crema Depilatoria',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c317',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_317',
+                  'total' => '2',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              318 => 
+              array (
+                'category_id' => '318',
+                'parent_id' => '301',
+                'title' => 'Olio Dopo cera',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c318',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_318',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              316 => 
+              array (
+                'category_id' => '316',
+                'parent_id' => '301',
+                'title' => 'Strisce Depilatorie',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c316',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_316',
+                  'total' => '2',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c301',
+              'dropdown' => 
+              array (
+                302 => 
+                array (
+                  'category_id' => '302',
+                  'parent_id' => '301',
+                  'title' => 'Cera Barattolo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c302',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_302',
+                    'total' => '7',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                303 => 
+                array (
+                  'category_id' => '303',
+                  'parent_id' => '301',
+                  'title' => 'Cera Roll On',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c303',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_303',
+                    'total' => '1',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                317 => 
+                array (
+                  'category_id' => '317',
+                  'parent_id' => '301',
+                  'title' => 'Crema Depilatoria',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c317',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_317',
+                    'total' => '2',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                318 => 
+                array (
+                  'category_id' => '318',
+                  'parent_id' => '301',
+                  'title' => 'Olio Dopo cera',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c318',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_318',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                316 => 
+                array (
+                  'category_id' => '316',
+                  'parent_id' => '301',
+                  'title' => 'Strisce Depilatorie',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c316',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301_316',
+                    'total' => '2',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_301',
+              'total' => '10',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          308 => 
+          array (
+            'category_id' => '308',
+            'parent_id' => '83',
+            'title' => 'Gel Uv',
+            'items' => 
+            array (
+              307 => 
+              array (
+                'category_id' => '307',
+                'parent_id' => '308',
+                'title' => 'Gel Uv Color',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c307',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_308_307',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              309 => 
+              array (
+                'category_id' => '309',
+                'parent_id' => '308',
+                'title' => 'Gel Uv Monofase',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c309',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_308_309',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c308',
+              'dropdown' => 
+              array (
+                307 => 
+                array (
+                  'category_id' => '307',
+                  'parent_id' => '308',
+                  'title' => 'Gel Uv Color',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c307',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_308_307',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                309 => 
+                array (
+                  'category_id' => '309',
+                  'parent_id' => '308',
+                  'title' => 'Gel Uv Monofase',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c309',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_308_309',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_308',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          299 => 
+          array (
+            'category_id' => '299',
+            'parent_id' => '83',
+            'title' => 'Prodotti da trucco',
+            'items' => 
+            array (
+              300 => 
+              array (
+                'category_id' => '300',
+                'parent_id' => '299',
+                'title' => 'Pennelli',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c300',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_299_300',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c299',
+              'dropdown' => 
+              array (
+                300 => 
+                array (
+                  'category_id' => '300',
+                  'parent_id' => '299',
+                  'title' => 'Pennelli',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c300',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_299_300',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_299',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          137 => 
+          array (
+            'category_id' => '137',
+            'parent_id' => '83',
+            'title' => 'Semipermanente',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c137',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_137',
+              'total' => '13',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          254 => 
+          array (
+            'category_id' => '254',
+            'parent_id' => '83',
+            'title' => 'Trattamenti ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c254',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=83_254',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Trattamenti',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '65',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65',
+          'name' => 'Trattamenti',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-4',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          306 => 
+          array (
+            'category_id' => '306',
+            'parent_id' => '65',
+            'title' => 'Prodotti BIO',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c306',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_306',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          96 => 
+          array (
+            'category_id' => '96',
+            'parent_id' => '65',
+            'title' => 'Viso Donna',
+            'items' => 
+            array (
+              215 => 
+              array (
+                'category_id' => '215',
+                'parent_id' => '96',
+                'title' => 'Antirughe Antietà',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c215',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_215',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              213 => 
+              array (
+                'category_id' => '213',
+                'parent_id' => '96',
+                'title' => 'Idratare e Nutrire',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c213',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_213',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              220 => 
+              array (
+                'category_id' => '220',
+                'parent_id' => '96',
+                'title' => 'Pelle Grassa e Impura',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c220',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_220',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              219 => 
+              array (
+                'category_id' => '219',
+                'parent_id' => '96',
+                'title' => 'Pelle Sensibile e Couperose',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c219',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_219',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              218 => 
+              array (
+                'category_id' => '218',
+                'parent_id' => '96',
+                'title' => 'Rassodare Effetto Lifting',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c218',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_218',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              212 => 
+              array (
+                'category_id' => '212',
+                'parent_id' => '96',
+                'title' => 'Struccare e Detergere ',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c212',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_212',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c96',
+              'dropdown' => 
+              array (
+                215 => 
+                array (
+                  'category_id' => '215',
+                  'parent_id' => '96',
+                  'title' => 'Antirughe Antietà',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c215',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_215',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                213 => 
+                array (
+                  'category_id' => '213',
+                  'parent_id' => '96',
+                  'title' => 'Idratare e Nutrire',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c213',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_213',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                220 => 
+                array (
+                  'category_id' => '220',
+                  'parent_id' => '96',
+                  'title' => 'Pelle Grassa e Impura',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c220',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_220',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                219 => 
+                array (
+                  'category_id' => '219',
+                  'parent_id' => '96',
+                  'title' => 'Pelle Sensibile e Couperose',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c219',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_219',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                218 => 
+                array (
+                  'category_id' => '218',
+                  'parent_id' => '96',
+                  'title' => 'Rassodare Effetto Lifting',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c218',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_218',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                212 => 
+                array (
+                  'category_id' => '212',
+                  'parent_id' => '96',
+                  'title' => 'Struccare e Detergere ',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c212',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96_212',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_96',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          158 => 
+          array (
+            'category_id' => '158',
+            'parent_id' => '65',
+            'title' => 'Viso Uomo',
+            'items' => 
+            array (
+              229 => 
+              array (
+                'category_id' => '229',
+                'parent_id' => '158',
+                'title' => 'Antirughe e Antietà',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c229',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_229',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              228 => 
+              array (
+                'category_id' => '228',
+                'parent_id' => '158',
+                'title' => 'Idratante e Nutriente',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c228',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_228',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c158',
+              'dropdown' => 
+              array (
+                229 => 
+                array (
+                  'category_id' => '229',
+                  'parent_id' => '158',
+                  'title' => 'Antirughe e Antietà',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c229',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_229',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                228 => 
+                array (
+                  'category_id' => '228',
+                  'parent_id' => '158',
+                  'title' => 'Idratante e Nutriente',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c228',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158_228',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_158',
+              'total' => '3',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          165 => 
+          array (
+            'category_id' => '165',
+            'parent_id' => '65',
+            'title' => 'Corpo Donna',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c165',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_165',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          166 => 
+          array (
+            'category_id' => '166',
+            'parent_id' => '65',
+            'title' => 'Corpo Uomo',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c166',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_166',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          98 => 
+          array (
+            'category_id' => '98',
+            'parent_id' => '65',
+            'title' => 'Rasatura',
+            'items' => 
+            array (
+              280 => 
+              array (
+                'category_id' => '280',
+                'parent_id' => '98',
+                'title' => 'Crema da Barba',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c280',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_280',
+                  'total' => '2',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              278 => 
+              array (
+                'category_id' => '278',
+                'parent_id' => '98',
+                'title' => 'Pennelli da Barba',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c278',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_278',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              282 => 
+              array (
+                'category_id' => '282',
+                'parent_id' => '98',
+                'title' => 'Rasoi da Barba',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c282',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_282',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c98',
+              'dropdown' => 
+              array (
+                280 => 
+                array (
+                  'category_id' => '280',
+                  'parent_id' => '98',
+                  'title' => 'Crema da Barba',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c280',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_280',
+                    'total' => '2',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                278 => 
+                array (
+                  'category_id' => '278',
+                  'parent_id' => '98',
+                  'title' => 'Pennelli da Barba',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c278',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_278',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                282 => 
+                array (
+                  'category_id' => '282',
+                  'parent_id' => '98',
+                  'title' => 'Rasoi da Barba',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c282',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98_282',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_98',
+              'total' => '3',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          149 => 
+          array (
+            'category_id' => '149',
+            'parent_id' => '65',
+            'title' => 'Solari',
+            'items' => 
+            array (
+              331 => 
+              array (
+                'category_id' => '331',
+                'parent_id' => '149',
+                'title' => 'Creme Solari',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c331',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_331',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              329 => 
+              array (
+                'category_id' => '329',
+                'parent_id' => '149',
+                'title' => 'Dopo Sole Corpo',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c329',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_329',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              330 => 
+              array (
+                'category_id' => '330',
+                'parent_id' => '149',
+                'title' => 'Dopo Sole Viso',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c330',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_330',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              333 => 
+              array (
+                'category_id' => '333',
+                'parent_id' => '149',
+                'title' => 'Make Up Solari',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c333',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_333',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              332 => 
+              array (
+                'category_id' => '332',
+                'parent_id' => '149',
+                'title' => 'Oli Solari',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c332',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_332',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              334 => 
+              array (
+                'category_id' => '334',
+                'parent_id' => '149',
+                'title' => 'Protezione Capelli ',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c334',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_334',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c149',
+              'dropdown' => 
+              array (
+                331 => 
+                array (
+                  'category_id' => '331',
+                  'parent_id' => '149',
+                  'title' => 'Creme Solari',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c331',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_331',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                329 => 
+                array (
+                  'category_id' => '329',
+                  'parent_id' => '149',
+                  'title' => 'Dopo Sole Corpo',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c329',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_329',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                330 => 
+                array (
+                  'category_id' => '330',
+                  'parent_id' => '149',
+                  'title' => 'Dopo Sole Viso',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c330',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_330',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                333 => 
+                array (
+                  'category_id' => '333',
+                  'parent_id' => '149',
+                  'title' => 'Make Up Solari',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c333',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_333',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                332 => 
+                array (
+                  'category_id' => '332',
+                  'parent_id' => '149',
+                  'title' => 'Oli Solari',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c332',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_332',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                334 => 
+                array (
+                  'category_id' => '334',
+                  'parent_id' => '149',
+                  'title' => 'Protezione Capelli ',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c334',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149_334',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=65_149',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Capelli',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '67',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67',
+          'name' => 'Capelli',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-5',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          304 => 
+          array (
+            'category_id' => '304',
+            'parent_id' => '67',
+            'title' => 'Prodotti BIO',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c304',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_304',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          171 => 
+          array (
+            'category_id' => '171',
+            'parent_id' => '67',
+            'title' => 'Accessori',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c171',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_171',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          168 => 
+          array (
+            'category_id' => '168',
+            'parent_id' => '67',
+            'title' => 'Balsamo ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c168',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_168',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          99 => 
+          array (
+            'category_id' => '99',
+            'parent_id' => '67',
+            'title' => 'Colorazione ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c99',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_99',
+              'total' => '14',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          230 => 
+          array (
+            'category_id' => '230',
+            'parent_id' => '67',
+            'title' => 'Kids',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c230',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_230',
+              'total' => '3',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          170 => 
+          array (
+            'category_id' => '170',
+            'parent_id' => '67',
+            'title' => 'Maschere ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c170',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_170',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          167 => 
+          array (
+            'category_id' => '167',
+            'parent_id' => '67',
+            'title' => 'Shampoo ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c167',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_167',
+              'total' => '4',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          169 => 
+          array (
+            'category_id' => '169',
+            'parent_id' => '67',
+            'title' => 'Styling ',
+            'items' => 
+            array (
+              321 => 
+              array (
+                'category_id' => '321',
+                'parent_id' => '169',
+                'title' => 'Cera Capelli',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c321',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_321',
+                  'total' => '3',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              339 => 
+              array (
+                'category_id' => '339',
+                'parent_id' => '169',
+                'title' => 'Cristalli - Gemme',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c339',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_339',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              320 => 
+              array (
+                'category_id' => '320',
+                'parent_id' => '169',
+                'title' => 'Gel Capelli',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c320',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_320',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              319 => 
+              array (
+                'category_id' => '319',
+                'parent_id' => '169',
+                'title' => 'Lacca',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c319',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_319',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+              340 => 
+              array (
+                'category_id' => '340',
+                'parent_id' => '169',
+                'title' => 'Lucidanti',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c340',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_340',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c169',
+              'dropdown' => 
+              array (
+                321 => 
+                array (
+                  'category_id' => '321',
+                  'parent_id' => '169',
+                  'title' => 'Cera Capelli',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c321',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_321',
+                    'total' => '3',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                339 => 
+                array (
+                  'category_id' => '339',
+                  'parent_id' => '169',
+                  'title' => 'Cristalli - Gemme',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c339',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_339',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                320 => 
+                array (
+                  'category_id' => '320',
+                  'parent_id' => '169',
+                  'title' => 'Gel Capelli',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c320',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_320',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                319 => 
+                array (
+                  'category_id' => '319',
+                  'parent_id' => '169',
+                  'title' => 'Lacca',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c319',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_319',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+                340 => 
+                array (
+                  'category_id' => '340',
+                  'parent_id' => '169',
+                  'title' => 'Lucidanti',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c340',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169_340',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=67_169',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Igiene personale',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '66',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66',
+          'name' => 'Igiene Personale',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-6',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          305 => 
+          array (
+            'category_id' => '305',
+            'parent_id' => '66',
+            'title' => 'Prodotti BIO',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c305',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_305',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          176 => 
+          array (
+            'category_id' => '176',
+            'parent_id' => '66',
+            'title' => 'Bambini',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c176',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_176',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          172 => 
+          array (
+            'category_id' => '172',
+            'parent_id' => '66',
+            'title' => 'Corpo',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c172',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_172',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          312 => 
+          array (
+            'category_id' => '312',
+            'parent_id' => '66',
+            'title' => 'Deo',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c312',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_312',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          173 => 
+          array (
+            'category_id' => '173',
+            'parent_id' => '66',
+            'title' => 'Intima',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c173',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_173',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          174 => 
+          array (
+            'category_id' => '174',
+            'parent_id' => '66',
+            'title' => 'Orale',
+            'items' => 
+            array (
+              287 => 
+              array (
+                'category_id' => '287',
+                'parent_id' => '174',
+                'title' => 'Spazzolini da denti',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c287',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174_287',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c174',
+              'dropdown' => 
+              array (
+                287 => 
+                array (
+                  'category_id' => '287',
+                  'parent_id' => '174',
+                  'title' => 'Spazzolini da denti',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c287',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174_287',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_174',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          175 => 
+          array (
+            'category_id' => '175',
+            'parent_id' => '66',
+            'title' => 'Viso',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c175',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_175',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          288 => 
+          array (
+            'category_id' => '288',
+            'parent_id' => '66',
+            'title' => 'Set Benessere',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c288',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=66_288',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      7 => 
+      array (
+        'title' => 'Parrucchieri',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '68',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68',
+          'name' => 'Parrucchieri',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-7',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          285 => 
+          array (
+            'category_id' => '285',
+            'parent_id' => '68',
+            'title' => 'Pettini',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c285',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_285',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          355 => 
+          array (
+            'category_id' => '355',
+            'parent_id' => '68',
+            'title' => 'Tagliacapelli',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c355',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_355',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          126 => 
+          array (
+            'category_id' => '126',
+            'parent_id' => '68',
+            'title' => 'Piastre',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c126',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_126',
+              'total' => '8',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          135 => 
+          array (
+            'category_id' => '135',
+            'parent_id' => '68',
+            'title' => 'Spazzole',
+            'items' => 
+            array (
+              286 => 
+              array (
+                'category_id' => '286',
+                'parent_id' => '135',
+                'title' => 'Spazzole elettriche',
+                'items' => 
+                array (
+                ),
+                'classes' => 
+                array (
+                  0 => 'menu-item menu-item-c286',
+                  'dropdown' => 
+                  array (
+                  ),
+                ),
+                'link' => 
+                array (
+                  'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135_286',
+                  'total' => '0',
+                  'classes' => 
+                  array (
+                  ),
+                ),
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c135',
+              'dropdown' => 
+              array (
+                286 => 
+                array (
+                  'category_id' => '286',
+                  'parent_id' => '135',
+                  'title' => 'Spazzole elettriche',
+                  'items' => 
+                  array (
+                  ),
+                  'classes' => 
+                  array (
+                    0 => 'menu-item menu-item-c286',
+                    'dropdown' => 
+                    array (
+                    ),
+                  ),
+                  'link' => 
+                  array (
+                    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135_286',
+                    'total' => '0',
+                    'classes' => 
+                    array (
+                    ),
+                  ),
+                ),
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          133 => 
+          array (
+            'category_id' => '133',
+            'parent_id' => '68',
+            'title' => 'Asciugacapelli ',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c133',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_133',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          205 => 
+          array (
+            'category_id' => '205',
+            'parent_id' => '68',
+            'title' => 'Accessori',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c205',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_205',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          267 => 
+          array (
+            'category_id' => '267',
+            'parent_id' => '68',
+            'title' => 'Colorazione Professional',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c267',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_267',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      8 => 
+      array (
+        'title' => 'Protezione COVID-19',
+        'label' => '',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '344',
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344',
+          'name' => 'PROTEZIONE COVID-19',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'type' => 'multilevel',
+        'position' => 'left',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'flyout-menu-item',
+          2 => 'flyout-menu-item-8',
+          'multi-level' => true,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          345 => 
+          array (
+            'category_id' => '345',
+            'parent_id' => '344',
+            'title' => 'Gel igienizzanti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c345',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_345',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          346 => 
+          array (
+            'category_id' => '346',
+            'parent_id' => '344',
+            'title' => 'Liquidi igienizzanti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c346',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_346',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          347 => 
+          array (
+            'category_id' => '347',
+            'parent_id' => '344',
+            'title' => 'Dispenser Gel e liquidi igienizzanti',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c347',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_347',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          348 => 
+          array (
+            'category_id' => '348',
+            'parent_id' => '344',
+            'title' => 'Mascherine',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c348',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_348',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          349 => 
+          array (
+            'category_id' => '349',
+            'parent_id' => '344',
+            'title' => 'Occhiali',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c349',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_349',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          350 => 
+          array (
+            'category_id' => '350',
+            'parent_id' => '344',
+            'title' => 'Visiere',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c350',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_350',
+              'total' => '2',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          351 => 
+          array (
+            'category_id' => '351',
+            'parent_id' => '344',
+            'title' => 'Termometri',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c351',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_351',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          352 => 
+          array (
+            'category_id' => '352',
+            'parent_id' => '344',
+            'title' => 'Disinfettanti di superficie',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c352',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_352',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          353 => 
+          array (
+            'category_id' => '353',
+            'parent_id' => '344',
+            'title' => 'Copri scarpe',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c353',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_353',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+);

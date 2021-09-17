@@ -1,0 +1,40 @@
+<?php $val = array (
+  'css' => '.module-notification-137{color:rgba(238, 238, 238, 1);padding:20px;padding-top:15px;padding-bottom:15px;background:rgba(0, 0, 0, 0.8)}.module-notification-137
+a{text-decoration:underline}.module-notification-137 .notification-close{display:flex;margin-left:10px;margin-right:10px;margin-top:10px;margin-bottom:10px;top:0;bottom:initial;left:initial;right:0;transform:none}.module-notification-137 .notification-close.btn{background:rgba(76, 97, 255, 1)}.module-notification-137 .notification-close.btn:hover{background:rgba(63, 83, 237, 1) !important}.module-notification-137 .notification-close.btn.btn.disabled::after{font-size:20px}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'cookie' => '52052aac',
+    'closeButton' => true,
+    'title' => 'Notification Module',
+    'text' => 'This is the sticky Notification module. You can use it for any sticky messages such as cookie notices or special promotions, etc.',
+    'notificationCloseText' => '',
+    'status' => true,
+    'id' => 'notification-5f2c703b5c752',
+    'module_id' => 137,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-notification',
+      2 => 'module-notification-137',
+      3 => 'notification',
+    ),
+    'options' => 
+    array (
+      'position' => NULL,
+      'title' => 'Notification Module',
+      'cookie' => '52052aac',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

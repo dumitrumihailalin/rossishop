@@ -1,0 +1,166 @@
+<?php $val = array (
+  'css' => '.module-popup-195 .popup-container{width:800px}.module-popup-195 .popup-content, .popup.module-popup-195 .site-wrapper{padding:0px
+!important}.module-popup-195 .title.popup-header{padding:20px;padding-bottom:0px}.module-popup-195 .popup-footer{background:rgba(238, 238, 238, 1);padding:15px}.module-popup-195 .popup-dont-show{padding:3px;padding-right:5px;padding-left:5px;position:absolute;left:5px;right:auto;top:50%;transform:translateY(-50%)}.module-popup-195 .grid-row-1::before{display:block;left:0;width:100vw}.module-popup-195 .grid-row-1 .grid-col-1{width:40%;background-image:url(\'https://www.rossishop.it/test/image/cache/catalog/2938859-copia3-2676x2812.jpg\');background-position:center center;background-repeat:no-repeat;background-size:cover}.module-popup-195 .grid-row-1 .grid-col-1 .grid-item{height:auto}.module-popup-195 .grid-row-1 .grid-col-1 .grid-items{justify-content:center}.module-popup-195 .grid-row-1 .grid-col-2{width:60%;background:rgba(255, 255, 255, 1);padding:25px}.module-popup-195 .grid-row-1 .grid-col-2 .grid-item{height:auto}.module-popup-195 .grid-row-1 .grid-col-2 .grid-items{justify-content:center}@media (max-width: 760px){.module-popup-195 .grid-row-1 .grid-col-2{width:100%;padding:10px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'showAfter' => '2000',
+    'hideAfter' => '',
+    'title' => '',
+    'cookie' => '070c63c0',
+    'closeButton' => true,
+    'footer' => true,
+    'headerText' => '',
+    'contentType' => 'grid',
+    'imageDimensions' => 
+    array (
+      'width' => NULL,
+      'height' => NULL,
+      'resize' => 'fill',
+    ),
+    'text' => '',
+    'doNotShowAgain' => true,
+    'doNotShowAgainChecked' => false,
+    'doNotShowAgainText' => 'Don\'t show again.',
+    'button1' => false,
+    'button1Text' => 'Button 1',
+    'button1Link' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'button2' => false,
+    'button2Text' => 'Button 2',
+    'button2Link' => 
+    array (
+      'type' => '',
+      'id' => '',
+      'href' => '',
+      'name' => '',
+      'total' => NULL,
+      'attrs' => 
+      array (
+      ),
+      'classes' => 
+      array (
+      ),
+    ),
+    'status' => true,
+    'id' => 'popup-5f2c2d5d27dc1',
+    'module_id' => 195,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-popup',
+      2 => 'module-popup-195',
+      'popup-iframe' => false,
+    ),
+    'grid_classes' => 
+    array (
+      0 => 'grid-rows',
+    ),
+    'ajax' => false,
+    'options' => 
+    array (
+      'showAfter' => '2000',
+      'hideAfter' => '',
+      'cookie' => '070c63c0',
+      'doNotShowAgain' => true,
+      'doNotShowAgainChecked' => false,
+    ),
+    'rows' => 
+    array (
+      1 => 
+      array (
+        'classes' => 
+        array (
+          0 => 'grid-row',
+          1 => 'grid-row-1',
+        ),
+        'columns' => 
+        array (
+          1 => 
+          array (
+            'name' => 'New Column',
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-1',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+          2 => 
+          array (
+            'name' => 'New Column',
+            'classes' => 
+            array (
+              0 => 'grid-col',
+              1 => 'grid-col-2',
+            ),
+            'items' => 
+            array (
+              1 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-1',
+                ),
+                'item' => 
+                array (
+                  'id' => '113',
+                  'name' => 'Popup Newsletter',
+                  'type' => 'newsletter',
+                ),
+              ),
+              2 => 
+              array (
+                'classes' => 
+                array (
+                  0 => 'grid-item',
+                  1 => 'grid-item-2',
+                ),
+                'item' => 
+                array (
+                  'id' => '269',
+                  'name' => 'Social Icons Footer Copy',
+                  'type' => 'icons_menu',
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+);

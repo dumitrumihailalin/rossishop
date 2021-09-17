@@ -1,0 +1,55 @@
+<?php $val = array (
+  'css' => '.module-newsletter-67 .title.module-title{color:rgba(238, 238, 238, 1);margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}.module-newsletter-67 .title.module-title::after, .module-newsletter-67 .title.module-title.page-title>span::after{width:50px;height:1px;background:rgba(76, 97, 255, 1)}.module-newsletter-67 .title.module-title::after{margin-top:8px}.module-newsletter-67 .title.module-title.page-title>span::after{margin-top:8px}.module-newsletter-67{text-align:left;justify-content:flex-start}.module-newsletter-67 .module-body>div{align-self:flex-start}.module-newsletter-67 .title::after{left:0;right:auto;transform:none}.module-newsletter-67 .module-body{flex-direction:column}.module-newsletter-67 .newsletter-text{color:rgba(190, 190, 190, 1);margin-bottom:10px}.module-newsletter-67 .module-body .input-group{height:40px}.module-newsletter-67 .module-body .newsletter-form .input-group
+input{width:500px;max-width:100%}.module-newsletter-67 .btn::before{content:\'\\eb79\' !important;font-family:icomoon !important;margin-right:5px}.module-newsletter-67 .input-group .input-group-btn
+.btn{background:rgba(77, 98, 255, 1)}.module-newsletter-67 .input-group .input-group-btn .btn:hover{background:rgba(63, 83, 237, 1) !important}.module-newsletter-67 .input-group .input-group-btn .btn.btn.disabled::after{font-size:20px}.module-newsletter-67 .checkbox
+label{color:rgba(190, 190, 190, 1)}@media (max-width: 760px){.module-newsletter-67 .module-body .newsletter-form
+.checkbox{padding-top:10px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'Newsletter',
+    'text' => 'Don\'t miss any updates or promotions by signing up to our newsletter.',
+    'placeholder' => 'Your email',
+    'buttonType' => 'both',
+    'buttonText' => 'Send',
+    'tooltipStatus' => true,
+    'tooltipText' => 'Subscribe',
+    'tooltipPosition' => 'top',
+    'subscribedMessage' => 'You have been subscribed to our newsletter.',
+    'subscribedEmail' => true,
+    'subscribedEmailMessage' => 'Thank you for subscribing to our newsletter.',
+    'unsubscribeMessage' => 'You are already subscribed. Do you want to unsubscribe?',
+    'unsubscribedMessage' => 'You have been unsubscribed from our newsletter.',
+    'unsubscribedEmail' => true,
+    'unsubscribedEmailMessage' => 'We\'re sorry to see you go.',
+    'adminAlerts' => true,
+    'agree' => '3',
+    'captcha' => false,
+    'status' => true,
+    'id' => 'newsletter-5f2c2d5db73f0',
+    'module_id' => 67,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-newsletter',
+      2 => 'module-newsletter-67',
+    ),
+    'action' => 'https://www.rossishop.it/test/index.php?route=journal3/newsletter/newsletter&amp;module_id=67',
+    'agree_data' => 
+    array (
+      'text' => 'Ho letto e accetto <a class="agree" href="https://www.rossishop.it/test/index.php?route=information/information/agree&amp;information_id=3" alt="Privacy e Cookie"><b>Privacy e Cookie</b></a>',
+      'error' => 'Attenzione: devi accettare Privacy e Cookie!',
+    ),
+    'items' => 
+    array (
+    ),
+  ),
+);

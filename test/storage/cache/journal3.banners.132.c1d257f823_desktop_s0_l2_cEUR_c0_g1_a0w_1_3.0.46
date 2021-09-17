@@ -1,0 +1,235 @@
+<?php $val = array (
+  'css' => '.module-banners-132 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.module-banners-132 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.one-column #content .module-banners-132 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.one-column #content .module-banners-132 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.two-column #content .module-banners-132 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 3 * 20px) / 4 - 0.01px)}.two-column #content .module-banners-132 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 4 - 0.01px)}.side-column .module-banners-132 .module-item.swiper-slide{margin-right:20px;width:calc((100% - 0 * 20px) / 1 - 0.01px)}.side-column .module-banners-132 .module-item:not(.swiper-slide){padding:10px;width:calc(100% / 1 - 0.01px)}.module-banners-132:not(.carousel-mode) .module-body{margin:-10px}.module-banners-132 a
+img{transform:scale(1)}.module-banners-132 .module-item>a::before{background:rgba(53, 66, 174, 0.4)}.module-banners-132 a::before{opacity:0}.desktop .module-banners-132 a:hover::before{opacity:1}.module-banners-132 a::after{opacity:0}.desktop .module-banners-132 a:hover::after{opacity:1}.module-banners-132 a .banner-caption{visibility:visible;opacity:1;display:block;width:auto}.module-banners-132 .banner-caption{top:50%;left:50%;right:auto;bottom:auto;transform:translate3d(-50%, -50%, 0)}.module-banners-132 .banner-caption
+span{white-space:normal;;padding-top:8px;padding-bottom:8px}.desktop .module-banners-132 a:hover .banner-caption
+span{margin-bottom:20px}.module-banners-132 .banner-caption-2{visibility:hidden;opacity:0;display:block;top:auto;left:50%;right:auto;bottom:0;transform:translate3d(-50%, 0, 0)}.desktop .module-banners-132 a:hover .banner-caption-2{visibility:visible;opacity:1}.module-banners-132 a .banner-caption-2{width:auto}.module-banners-132 .banner-caption-2 span::after{content:\'\\e5c8\' !important;font-family:icomoon !important;font-size:12px;margin-left:5px}.module-banners-132 .banner-caption-2
+span{white-space:normal;;text-align:center;padding-bottom:5px;border-width:0;border-bottom-width:1px;border-style:solid;border-color:rgba(76, 97, 255, 1)}.desktop .module-banners-132 a:hover .banner-caption-2
+span{margin-bottom:20px}.module-banners-132 .banner-caption-3
+span{white-space:normal}@media (max-width: 760px){.module-banners-132 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.module-banners-132 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.one-column #content .module-banners-132 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.one-column #content .module-banners-132 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.two-column #content .module-banners-132 .module-item.swiper-slide{margin-right:10px;width:calc((100% - 1 * 10px) / 2 - 0.01px)}.two-column #content .module-banners-132 .module-item:not(.swiper-slide){padding:5px;width:calc(100% / 2 - 0.01px)}.module-banners-132:not(.carousel-mode) .module-body{margin:-5px}}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'carousel' => false,
+    'itemsPerRow' => 
+    array (
+      'c0' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c1' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'c2' => 
+      array (
+        0 => 
+        array (
+          'items' => 4,
+          'spacing' => 20,
+        ),
+        760 => 
+        array (
+          'items' => 2,
+          'spacing' => 10,
+        ),
+      ),
+      'sc' => 
+      array (
+        0 => 
+        array (
+          'items' => 1,
+          'spacing' => 20,
+        ),
+      ),
+    ),
+    'imageDimensions' => 
+    array (
+      'width' => 335,
+      'height' => 225,
+      'resize' => 'fill',
+    ),
+    'status' => true,
+    'id' => 'banners-5f2c2d5d015b0',
+    'module_id' => 132,
+    'classes' => 
+    array (
+      0 => 'module',
+      1 => 'module-banners',
+      2 => 'module-banners-132',
+      'carousel-mode' => false,
+    ),
+    'carouselOptions' => 
+    array (
+      'speed' => 0,
+      'autoplay' => false,
+      'pauseOnHover' => false,
+      'loop' => false,
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => '',
+        'title2' => 'Vedi tutti',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '195',
+          'href' => 'javascript:open_popup(195)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '132-1',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-1',
+          'swiper-slide' => false,
+        ),
+        'image' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia2-335x225w.jpg',
+        'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia2-670x450w.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => '',
+        'title2' => 'Vedi tutti',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '195',
+          'href' => 'javascript:open_popup(195)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '132-2',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-2',
+          'swiper-slide' => false,
+        ),
+        'image' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia2-335x225w.jpg',
+        'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia2-670x450w.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => '',
+        'title2' => 'Vedi tutti',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '195',
+          'href' => 'javascript:open_popup(195)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '132-3',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-3',
+          'swiper-slide' => false,
+        ),
+        'image' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia3-335x225w.jpg',
+        'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia3-670x450w.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => '',
+        'title2' => 'Vedi tutti',
+        'title3' => '',
+        'alt' => '',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '195',
+          'href' => 'javascript:open_popup(195)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'id' => '132-4',
+        'classes' => 
+        array (
+          0 => 'module-item',
+          1 => 'module-item-4',
+          'swiper-slide' => false,
+        ),
+        'image' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia3-335x225w.jpg',
+        'image2x' => 'https://www.rossishop.it/test/image/cache/catalog/2938859-copia3-670x450w.jpg',
+        'text' => NULL,
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

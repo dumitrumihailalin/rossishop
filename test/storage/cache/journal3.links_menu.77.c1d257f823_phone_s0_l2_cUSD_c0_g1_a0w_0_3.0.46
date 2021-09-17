@@ -1,0 +1,59 @@
+<?php $val = array (
+  'css' => 'div.links-menu-77 .title.module-title{color:rgba(238, 238, 238, 1);margin-bottom:10px;white-space:normal;overflow:visible;text-overflow:initial}div.links-menu-77 .title.module-title::after, div.links-menu-77 .title.module-title.page-title>span::after{width:50px;height:1px;background:rgba(76, 97, 255, 1)}div.links-menu-77 .title.module-title::after{margin-top:8px}div.links-menu-77 .title.module-title.page-title>span::after{margin-top:8px}div.links-menu-77 .module-body{display:flex;flex-direction:row;justify-content:flex-start;;-webkit-overflow-scrolling:touch}div.links-menu-77 .menu-item{border-width:0 0 0 1px;flex-grow:0;justify-content:flex-start}div.links-menu-77 .menu-item a .links-text{white-space:nowrap;font-size:13px;color:rgba(190, 190, 190, 1)}div.links-menu-77 .menu-item
+a{justify-content:flex-start}div.links-menu-77 .count-badge{display:none}.phone footer  div.links-menu-77 .module-title::before{display:none}.phone footer  div.links-menu-77 .module-title+.module-body>li{display:flex}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => '',
+    'status' => true,
+    'id' => 'links-menu-5f2c703c3bd6c',
+    'module_id' => 77,
+    'classes' => 
+    array (
+      0 => 'links-menu',
+      1 => 'links-menu-77',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Copyright © 2020, BM Sistemi Srl - P.Iva 12345678910',
+        'link' => 
+        array (
+          'type' => '',
+          'id' => '',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'label' => '',
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'links-menu-item',
+          2 => 'links-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

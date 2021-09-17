@@ -1,0 +1,455 @@
+<?php $val = array (
+  'category_id' => '344',
+  'parent_id' => '0',
+  'title' => 'PROTEZIONE COVID-19',
+  'items' => 
+  array (
+    345 => 
+    array (
+      'category_id' => '345',
+      'parent_id' => '344',
+      'title' => 'Gel igienizzanti',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c345',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_345',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    346 => 
+    array (
+      'category_id' => '346',
+      'parent_id' => '344',
+      'title' => 'Liquidi igienizzanti',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c346',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_346',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    347 => 
+    array (
+      'category_id' => '347',
+      'parent_id' => '344',
+      'title' => 'Dispenser Gel e liquidi igienizzanti',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c347',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_347',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    348 => 
+    array (
+      'category_id' => '348',
+      'parent_id' => '344',
+      'title' => 'Mascherine',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c348',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_348',
+        'total' => '1',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    349 => 
+    array (
+      'category_id' => '349',
+      'parent_id' => '344',
+      'title' => 'Occhiali',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c349',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_349',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    350 => 
+    array (
+      'category_id' => '350',
+      'parent_id' => '344',
+      'title' => 'Visiere',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c350',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_350',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    351 => 
+    array (
+      'category_id' => '351',
+      'parent_id' => '344',
+      'title' => 'Termometri',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c351',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_351',
+        'total' => '1',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    352 => 
+    array (
+      'category_id' => '352',
+      'parent_id' => '344',
+      'title' => 'Disinfettanti di superficie',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c352',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_352',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    353 => 
+    array (
+      'category_id' => '353',
+      'parent_id' => '344',
+      'title' => 'Copri scarpe',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c353',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_353',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c344',
+    'dropdown' => 
+    array (
+      345 => 
+      array (
+        'category_id' => '345',
+        'parent_id' => '344',
+        'title' => 'Gel igienizzanti',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c345',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_345',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      346 => 
+      array (
+        'category_id' => '346',
+        'parent_id' => '344',
+        'title' => 'Liquidi igienizzanti',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c346',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_346',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      347 => 
+      array (
+        'category_id' => '347',
+        'parent_id' => '344',
+        'title' => 'Dispenser Gel e liquidi igienizzanti',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c347',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_347',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      348 => 
+      array (
+        'category_id' => '348',
+        'parent_id' => '344',
+        'title' => 'Mascherine',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c348',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_348',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      349 => 
+      array (
+        'category_id' => '349',
+        'parent_id' => '344',
+        'title' => 'Occhiali',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c349',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_349',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      350 => 
+      array (
+        'category_id' => '350',
+        'parent_id' => '344',
+        'title' => 'Visiere',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c350',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_350',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      351 => 
+      array (
+        'category_id' => '351',
+        'parent_id' => '344',
+        'title' => 'Termometri',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c351',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_351',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      352 => 
+      array (
+        'category_id' => '352',
+        'parent_id' => '344',
+        'title' => 'Disinfettanti di superficie',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c352',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_352',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      353 => 
+      array (
+        'category_id' => '353',
+        'parent_id' => '344',
+        'title' => 'Copri scarpe',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c353',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344_353',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=344',
+    'total' => '4',
+    'classes' => 
+    array (
+    ),
+  ),
+);

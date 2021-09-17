@@ -1,0 +1,161 @@
+<?php $val = array (
+  'settings' => 
+  array (
+    'column_left' => 
+    array (
+      'rows' => 
+      array (
+        1 => 
+        array (
+          'videoBgStatus' => false,
+          'videoBg' => '',
+          'videoInline' => false,
+          'waveStatus' => false,
+          'waveDirection' => '5',
+          'wave2Status' => false,
+          'wave2Direction' => '5',
+          'classes' => 
+          array (
+            0 => 'grid-row',
+            1 => 'grid-row-column-left-1',
+          ),
+          'columns' => 
+          array (
+            1 => 
+            array (
+              'classes' => 
+              array (
+                0 => 'grid-col',
+                1 => 'grid-col-column-left-1-1',
+              ),
+              'items' => 
+              array (
+                1 => 
+                array (
+                  'classes' => 
+                  array (
+                    0 => 'grid-item',
+                    1 => 'grid-item-column-left-1-1-1',
+                  ),
+                  'item' => 
+                  array (
+                    'id' => '36',
+                    'name' => 'Filter',
+                    'type' => 'filter',
+                  ),
+                ),
+              ),
+            ),
+          ),
+        ),
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'column_right' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'content_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'content_bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'header_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'footer_top' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'footer_bottom' => 
+    array (
+      'rows' => 
+      array (
+      ),
+      'grid_classes' => 
+      array (
+        0 => 'grid-rows',
+      ),
+    ),
+    'global' => 
+    array (
+      0 => 
+      array (
+        'module_id' => '137',
+        'module_type' => 'notification',
+      ),
+      1 => 
+      array (
+        'module_id' => '266',
+        'module_type' => 'bottom_menu',
+      ),
+    ),
+  ),
+  'php' => 
+  array (
+  ),
+  'js' => 
+  array (
+  ),
+  'fonts' => 
+  array (
+  ),
+  'css' => '.grid-row-column-left-1::before{left:0;width:100vw}.grid-col-column-left-1-1{width:100%}.grid-col-column-left-1-1 .grid-items{justify-content:flex-start}.grid-item-column-left-1-1-1{width:100%}',
+);

@@ -1,0 +1,127 @@
+{{ header }}{{ column_left }}
+<div id="content">
+  <div class="page-header">
+    <div class="container-fluid">
+      <div class="pull-right">
+        <button type="submit" form="form-cod-fee" data-toggle="tooltip" title="{{ button_save }}" class="btn btn-primary"><i class="fa fa-save"></i></button>
+        <a href="{{ cancel }}" data-toggle="tooltip" title="{{ button_cancel }}" class="btn btn-default"><i class="fa fa-reply"></i></a></div>
+      <h1>{{ heading_title }}</h1>
+      <ul class="breadcrumb">
+        {% for breadcrumb in breadcrumbs %}
+        <li><a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="container-fluid">
+    {% if error_warning %}
+    <div class="alert alert-danger"><i class="fa fa-exclamation-circle"></i> {{ error_warning }}
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+    </div>
+    {% endif %}
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-pencil"></i> {{ text_edit }}</h3>
+      </div>
+      <div class="panel-body">
+        <form action="{{ action }}" method="post" enctype="multipart/form-data" id="form-cod-fee" class="form-horizontal">
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-cod-fee-total-cod-free"><span data-toggle="tooltip" title="{{ help_total_cod_free }}">{{ entry_total_cod_free }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" name="total_cod_fee_total_cod_free" value="{{ total_cod_fee_total_cod_free }}" placeholder="{{ entry_total_cod_free }}" id="input-cod-fee-total-cod-free" class="form-control" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-cod-fee-total-no-cod"><span data-toggle="tooltip" title="{{ help_total_no_cod }}">{{ entry_total_no_cod }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" name="total_cod_fee_total_no_cod" value="{{ total_cod_fee_total_no_cod }}" placeholder="{{ entry_total_no_cod }}" id="input-cod-fee-total-no-cod" class="form-control" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="select-cod-fee-fee-type">{{ entry_fee_type }}</label>
+            <div class="col-sm-10">
+				        <select name="total_cod_fee_fee_type" id="select-cod-fee-fee-type" onchange="minmax_onoff();" class="form-control">
+                    {% if total_cod_fee_fee_type == 'f' %}
+                    <option value="f" selected="selected">{{ text_fixed }}</option>
+                    <option value="p">{{ text_perc }}</option>
+                    {% else %}
+                    <option value="f">{{ text_fixed }}</option>
+                    <option value="p" selected="selected">{{ text_perc }}</option>
+                    {% endif %}
+                </select>
+            </div>
+          </div>
+          <div class="form-group required">
+            <label class="col-sm-2 control-label" for="input-cod-fee-fee"><span data-toggle="tooltip" title="{{ help_fee }}">{{ entry_fee }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" name="total_cod_fee_fee" value="{{ total_cod_fee_fee }}" placeholder="{{ entry_fee }}" id="input-cod-fee-fee" class="form-control" />
+							{% if error_fee %}
+              <div class="text-danger"><?php echo $error_fee; ?></div>
+              {% endif %}
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-fee-min"><span data-toggle="tooltip" title="{{ help_fee_min }}">{{ entry_fee_min }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" name="total_cod_fee_fee_min" value="{{ total_cod_fee_fee_min }}" placeholder="{{ entry_fee_min }}" id="input-fee-min" class="form-control" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-fee-max"><span data-toggle="tooltip" title="{{ help_fee_max }}">{{ entry_fee_max }}</span></label>
+            <div class="col-sm-10">
+              <input type="text" name="total_cod_fee_fee_max" value="{{ total_cod_fee_fee_max }}" placeholder="{{ entry_fee_max }}" id="input-fee-max" class="form-control" />
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-tax-class">{{ entry_tax_class }}</label>
+            <div class="col-sm-10">
+				        <select name="total_cod_fee_tax_class_id" id="total_cod_fee_tax_class_id" class="form-control">
+                  <option value="0">{{ text_none }}</option>
+                  {% for tax_class in tax_classes %}
+									{% if tax_class['tax_class_id'] == total_cod_fee_tax_class_id %}
+                  <option value="{{ tax_class['tax_class_id'] }}" selected="selected">{{ tax_class['title'] }}</option>
+									{% else %}
+                  <option value="{{ tax_class['tax_class_id'] }}">{{ tax_class['title'] }}</option>
+									{% endif %}
+									{% endfor %}
+                </select>
+			</div>
+          </div>		  
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-status">{{ entry_status }}</label>
+            <div class="col-sm-10">
+              <select name="total_cod_fee_status" id="input-status" class="form-control">
+			    {% if total_cod_fee_status %}
+                <option value="1" selected="selected">{{ text_enabled }}</option>
+                <option value="0">{{ text_disabled }}</option>
+				{% else %}
+                <option value="1">{{ text_enabled }}</option>
+                <option value="0" selected="selected">{{ text_disabled }}</option>
+				{% endif %}
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="col-sm-2 control-label" for="input-sort-order">{{ entry_sort_order }}</label>
+            <div class="col-sm-10">
+              <input type="text" name="total_cod_fee_sort_order" value="{{ total_cod_fee_sort_order }}" placeholder="{{ entry_sort_order }}" id="input-sort-order" class="form-control" />
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+function minmax_onoff() {
+	if(document.getElementById('select-cod-fee-fee-type').value == 'f') {
+		document.getElementById('input-fee-min').disabled = true;
+		document.getElementById('input-fee-max').disabled = true;
+	} else {
+		document.getElementById('input-fee-min').disabled = false;
+		document.getElementById('input-fee-max').disabled = false;
+	}
+}
+minmax_onoff(); 
+</script>
+{{ footer }}

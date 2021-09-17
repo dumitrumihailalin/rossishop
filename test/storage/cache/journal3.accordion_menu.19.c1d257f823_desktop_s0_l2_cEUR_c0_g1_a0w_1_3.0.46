@@ -1,0 +1,399 @@
+<?php $val = array (
+  'css' => '.accordion-menu-19.accordion-menu > .j-menu > li.accordion-menu-item li>a::before{content:\'\\e93f\' !important;font-family:icomoon !important;font-size:12px;margin-right:5px}.accordion-menu-19.accordion-menu .j-menu .dropdown>a>.count-badge{margin-right:5px}.accordion-menu-19.accordion-menu .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}.accordion-menu-19.accordion-menu .j-menu .dropdown>a::after{display:none}.accordion-menu-19.accordion-menu .j-menu>li>a{font-size:13px;color:rgba(109, 118, 125, 1);font-weight:700;text-transform:uppercase;padding:6px;padding-right:0px;padding-left:0px}.desktop .accordion-menu-19.accordion-menu .j-menu > li:hover > a, .accordion-menu-19.accordion-menu .j-menu>li.active>a{color:rgba(76, 97, 255, 1)}.accordion-menu-19.accordion-menu .j-menu>li.open>a{color:rgba(76, 97, 255, 1)}.accordion-menu-19.accordion-menu .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.accordion-menu-19.accordion-menu .j-menu>li>a::before{margin-right:8px}.accordion-menu-19.accordion-menu .j-menu a .count-badge{display:none;position:relative}.accordion-menu-19 .open-menu i::before{content:\'\\eba1\' !important;font-family:icomoon !important;font-size:16px;left:5px}.accordion-menu-19 .open-menu[aria-expanded=\'true\'] i::before{content:\'\\eb86\' !important;font-family:icomoon !important;font-size:16px;left:5px}.accordion-menu-19.accordion-menu .j-menu .j-menu .dropdown>a>.count-badge{margin-right:5px}.accordion-menu-19.accordion-menu .j-menu .j-menu .dropdown>a>.count-badge+.open-menu+.menu-label{margin-left:0}.accordion-menu-19.accordion-menu .j-menu .j-menu .dropdown>a::after{display:none}.accordion-menu-19.accordion-menu .j-menu .j-menu>li>a{font-size:14px;font-weight:400;text-transform:none;padding:5px}.desktop .accordion-menu-19.accordion-menu .j-menu .j-menu > li:hover > a, .accordion-menu-19.accordion-menu .j-menu .j-menu>li.active>a{color:rgba(76, 97, 255, 1)}.accordion-menu-19.accordion-menu .j-menu .j-menu>li.open>a{color:rgba(76, 97, 255, 1)}.accordion-menu-19.accordion-menu .j-menu .j-menu .links-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.accordion-menu-19.accordion-menu .j-menu .j-menu>li>a::before{margin-right:8px}.accordion-menu-19.accordion-menu .j-menu .j-menu a .count-badge{display:none;position:relative}.accordion-menu-19 .j-menu > li > div .j-menu>li>a{padding-left:5px !important}.accordion-menu-19 .j-menu > li > div .j-menu>li>div>.j-menu>li>a{padding-left:12px !important}.accordion-menu-19 .j-menu > li > div .j-menu>li>div>.j-menu>li>div>.j-menu>li>a{padding-left:20px !important}.accordion-menu-19 .j-menu > li > div .j-menu>li>div>.j-menu>li>div>.j-menu>li>div>.j-menu>li>a{padding-left:28px !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'schedule' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'title' => 'All Categories',
+    'status' => true,
+    'id' => 'accordion-menu-5f2c2d5b8c741',
+    'module_id' => 19,
+    'classes' => 
+    array (
+      0 => 'accordion-menu',
+      1 => 'accordion-menu-19',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Fashion',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '59',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59',
+          'name' => 'Bici Elettriche',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => true,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+          66 => 
+          array (
+            'category_id' => '66',
+            'parent_id' => '59',
+            'title' => 'Promozioni',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c66',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_66',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          67 => 
+          array (
+            'category_id' => '67',
+            'parent_id' => '59',
+            'title' => 'Accessori Bici',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c67',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_67',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          60 => 
+          array (
+            'category_id' => '60',
+            'parent_id' => '59',
+            'title' => 'City Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c60',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_60',
+              'total' => '1',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          61 => 
+          array (
+            'category_id' => '61',
+            'parent_id' => '59',
+            'title' => 'Fat-Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c61',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_61',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          62 => 
+          array (
+            'category_id' => '62',
+            'parent_id' => '59',
+            'title' => 'Folding',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c62',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_62',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          63 => 
+          array (
+            'category_id' => '63',
+            'parent_id' => '59',
+            'title' => 'Monopattini Elettrici',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c63',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_63',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          64 => 
+          array (
+            'category_id' => '64',
+            'parent_id' => '59',
+            'title' => 'Mountain Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c64',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_64',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+          65 => 
+          array (
+            'category_id' => '65',
+            'parent_id' => '59',
+            'title' => 'Work-Bike',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c65',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=59_65',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Electronics',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '69',
+          'href' => 'https://www.rossishop.it/test/index.php?route=product/category&amp;path=69',
+          'name' => 'Smartphone',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Beauty',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '109',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Footwear',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '111',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '175',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      6 => 
+      array (
+        'title' => 'Baby & Kids',
+        'link' => 
+        array (
+          'type' => 'category',
+          'id' => '166',
+          'href' => '',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'accordion-menu-item',
+          2 => 'accordion-menu-item-6',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

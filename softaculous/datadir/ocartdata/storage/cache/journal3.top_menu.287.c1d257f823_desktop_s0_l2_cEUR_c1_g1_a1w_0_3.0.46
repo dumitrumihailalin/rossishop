@@ -1,0 +1,113 @@
+<?php $val = array (
+  'css' => '.top-menu-287 .j-menu li.top-menu-item-2>a::before{content:\'\\ebdb\' !important;font-family:icomoon !important;left:-2px}.top-menu-287>ul>.top-menu-item-2>a{text-align:left}.top-menu-287>ul>.top-menu-item-2>a>.links-text{display:block}.top-menu-287 > ul > .top-menu-item-2 > a .count-badge{position:relative}.top-menu-287 li.top-menu-item-3>a::before{content:\'\\e90d\' !important;font-family:icomoon !important}.top-menu-287 li.top-menu-item-4>a::before{content:\'\\e98e\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'scheduledStatus' => 
+    array (
+      'from' => '',
+      'to' => '',
+      'between' => true,
+    ),
+    'status' => true,
+    'id' => 'top-menu-613bc4e5c1902',
+    'module_id' => 287,
+    'classes' => 
+    array (
+      0 => 'top-menu',
+      1 => 'top-menu-287',
+    ),
+    'items' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/index.php?route=account/account',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'top-menu-item',
+          2 => 'top-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => true,
+          'drop-menu' => true,
+          'icon-only' => false,
+        ),
+        'items' => 
+        array (
+          3 => 
+          array (
+            'title' => 'Edit Account',
+            'link' => 
+            array (
+              'type' => 'page',
+              'id' => '',
+              'href' => 'https://www.rossishop.it/index.php?route=account/account',
+              'name' => '',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'top-menu-item-3',
+              'dropdown' => false,
+              'icon-only' => NULL,
+            ),
+            'items' => 
+            array (
+            ),
+          ),
+          4 => 
+          array (
+            'title' => 'Sign Out',
+            'link' => 
+            array (
+              'type' => 'page',
+              'id' => '',
+              'href' => 'https://www.rossishop.it/index.php?route=account/logout',
+              'name' => '',
+              'total' => NULL,
+              'attrs' => 
+              array (
+              ),
+              'classes' => 
+              array (
+              ),
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item',
+              1 => 'top-menu-item-4',
+              'dropdown' => false,
+              'icon-only' => NULL,
+            ),
+            'items' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+);

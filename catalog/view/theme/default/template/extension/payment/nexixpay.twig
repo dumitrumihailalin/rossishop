@@ -1,0 +1,53 @@
+<!--
+
+/**
+ * Copyright (c) 2019 Nexi Payments S.p.A.
+ *
+ * @author      iPlusService S.r.l.
+ * @category    Payment Module
+ * @package     Nexi XPay
+ * @version     2.0.0
+ * @copyright   Copyright (c) 2019 Nexi Payments S.p.A. (https://ecommerce.nexi.it)
+ * @license     GNU General Public License v3.0
+ */
+
+-->
+
+<div class='row'>
+    <div class='col-md-12'>
+
+        {% if logoUrl and availableMethods %}
+            <div style='display:table;'>
+
+                <div style='display:inline-block; height:40px; float:left; padding-top:10px; padding-bottom:10px;'>
+                    <img src='{{ logoUrl }}' style='height:100%;'>
+                </div>
+
+                {% for method in availableMethods %}
+                    <div style='display:inline-block; height:40px; float:left; {{ method.style }}'>
+                        <img src='{{ method.image }}'  style='height:100%;'>
+                    </div>
+                {% endfor %}
+
+            </div>
+        {% else %}
+            <img src="https://ecommerce.nexi.it/specifiche-tecniche/moduli/img/logo.jpg">
+        {% endif %}
+
+    </div>
+    <div class='col-md-12' style='margin-top: 10px; margin-bottom: 10px;'>
+        {{ descrizione }}
+    </div>
+</div>
+
+{{ submit_form }}
+
+<!-- <div class="pull-right">
+    <input type="button" value="{{ button_confirm }}" id="button-confirm" class="btn btn-primary" />
+</div> -->
+
+<script type="text/javascript">
+    $('#button-confirm').on('click', function () {
+        location = '{{ location }}';
+    });
+</script>

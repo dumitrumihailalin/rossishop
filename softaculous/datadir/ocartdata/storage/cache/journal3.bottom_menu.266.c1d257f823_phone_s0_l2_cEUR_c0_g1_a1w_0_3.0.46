@@ -1,0 +1,172 @@
+<?php $val = array (
+  'css' => '.bottom-menu-266>ul>li>a{height:50px;min-width:50px;font-size:10px;color:rgba(139, 145, 152, 1)}.has-bottom-menu .site-wrapper{padding-bottom:50px}.has-bottom-menu .scroll-top{bottom:calc(50px+10px)}.bottom-menu>ul>li>a{flex-direction:column}.bottom-menu > ul > li .links-text{top:-2px;margin:0}.bottom-menu>ul>li>a::before{width:100%}.bottom-menu-266 li>a::before{font-size:20px}.bottom-menu-266>ul>li+li{border-style:solid;border-color:rgba(52,52,56,1)}.bottom-menu-266{border-style:solid;border-color:rgba(52, 52, 56, 1);background:rgba(0, 0, 0, 0.75);box-shadow:0 -10px 30px -5px rgba(0,0,0,0.15)}.bottom-menu-266>ul>li>a::before{color:rgba(143, 157, 166, 1)}.bottom-menu-266 > ul > li > a .count-badge{margin-top:-7px;display:inline-flex}.bottom-menu-266 .bottom-menu-item-1>a::before{content:\'\\eb69\' !important;font-family:icomoon !important}.bottom-menu-266 .bottom-menu-item-2>a::before{content:\'\\eaa7\' !important;font-family:icomoon !important}.bottom-menu-266 .bottom-menu-item-3>a::before{content:\'\\eab6\' !important;font-family:icomoon !important}.bottom-menu-266 .bottom-menu-item-4>a::before{content:\'\\f003\' !important;font-family:icomoon !important}.bottom-menu-266 .bottom-menu-item-5>a::before{content:\'\\eaac\' !important;font-family:icomoon !important}',
+  'fonts' => 
+  array (
+  ),
+  'settings' => 
+  array (
+    'status' => true,
+    'id' => 'bottom-menu-613bbc7310077',
+    'module_id' => 266,
+    'classes' => 
+    array (
+      0 => 'bottom-menu',
+      1 => 'bottom-menu-266',
+    ),
+    'items' => 
+    array (
+      1 => 
+      array (
+        'title' => 'Home',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '',
+          'href' => 'https://www.rossishop.it/',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-1',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      2 => 
+      array (
+        'title' => 'Lista Desideri',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '22',
+          'href' => 'https://www.rossishop.it/index.php?route=account/wishlist',
+          'name' => '',
+          'total' => '{{ $wishlist }}',
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'wishlist-badge',
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-2',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      3 => 
+      array (
+        'title' => 'Compara',
+        'link' => 
+        array (
+          'type' => 'page',
+          'id' => '22',
+          'href' => 'https://www.rossishop.it/index.php?route=product/compare',
+          'name' => '',
+          'total' => '{{ $compare }}',
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'compare-badge',
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-3',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      4 => 
+      array (
+        'title' => 'Email',
+        'link' => 
+        array (
+          'type' => 'popup',
+          'id' => '257',
+          'href' => 'javascript:open_popup(257)',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-4',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+      5 => 
+      array (
+        'title' => 'Chiama',
+        'link' => 
+        array (
+          'type' => 'custom',
+          'id' => '22',
+          'href' => 'tel:08231450707',
+          'name' => '',
+          'total' => NULL,
+          'attrs' => 
+          array (
+          ),
+          'classes' => 
+          array (
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item',
+          1 => 'bottom-menu-item',
+          2 => 'bottom-menu-item-5',
+          'multi-level' => false,
+          'dropdown' => false,
+          'drop-menu' => false,
+        ),
+        'items' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+);

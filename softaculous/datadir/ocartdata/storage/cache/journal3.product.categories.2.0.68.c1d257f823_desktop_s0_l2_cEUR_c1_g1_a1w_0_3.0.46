@@ -1,0 +1,455 @@
+<?php $val = array (
+  'category_id' => '68',
+  'parent_id' => '0',
+  'title' => 'Parrucchieri',
+  'items' => 
+  array (
+    285 => 
+    array (
+      'category_id' => '285',
+      'parent_id' => '68',
+      'title' => 'Pettini',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c285',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_285',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    355 => 
+    array (
+      'category_id' => '355',
+      'parent_id' => '68',
+      'title' => 'Tagliacapelli',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c355',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_355',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    126 => 
+    array (
+      'category_id' => '126',
+      'parent_id' => '68',
+      'title' => 'Piastre',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c126',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_126',
+        'total' => '8',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    135 => 
+    array (
+      'category_id' => '135',
+      'parent_id' => '68',
+      'title' => 'Spazzole',
+      'items' => 
+      array (
+        286 => 
+        array (
+          'category_id' => '286',
+          'parent_id' => '135',
+          'title' => 'Spazzole elettriche',
+          'items' => 
+          array (
+          ),
+          'classes' => 
+          array (
+            0 => 'menu-item menu-item-c286',
+            'dropdown' => 
+            array (
+            ),
+          ),
+          'link' => 
+          array (
+            'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135_286',
+            'total' => '0',
+            'classes' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c135',
+        'dropdown' => 
+        array (
+          286 => 
+          array (
+            'category_id' => '286',
+            'parent_id' => '135',
+            'title' => 'Spazzole elettriche',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c286',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135_286',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135',
+        'total' => '1',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    133 => 
+    array (
+      'category_id' => '133',
+      'parent_id' => '68',
+      'title' => 'Asciugacapelli ',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c133',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_133',
+        'total' => '2',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    205 => 
+    array (
+      'category_id' => '205',
+      'parent_id' => '68',
+      'title' => 'Accessori',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c205',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_205',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+    267 => 
+    array (
+      'category_id' => '267',
+      'parent_id' => '68',
+      'title' => 'Colorazione Professional',
+      'items' => 
+      array (
+      ),
+      'classes' => 
+      array (
+        0 => 'menu-item menu-item-c267',
+        'dropdown' => 
+        array (
+        ),
+      ),
+      'link' => 
+      array (
+        'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_267',
+        'total' => '0',
+        'classes' => 
+        array (
+        ),
+      ),
+    ),
+  ),
+  'classes' => 
+  array (
+    0 => 'menu-item menu-item-c68',
+    'dropdown' => 
+    array (
+      285 => 
+      array (
+        'category_id' => '285',
+        'parent_id' => '68',
+        'title' => 'Pettini',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c285',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_285',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      355 => 
+      array (
+        'category_id' => '355',
+        'parent_id' => '68',
+        'title' => 'Tagliacapelli',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c355',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_355',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      126 => 
+      array (
+        'category_id' => '126',
+        'parent_id' => '68',
+        'title' => 'Piastre',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c126',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_126',
+          'total' => '8',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      135 => 
+      array (
+        'category_id' => '135',
+        'parent_id' => '68',
+        'title' => 'Spazzole',
+        'items' => 
+        array (
+          286 => 
+          array (
+            'category_id' => '286',
+            'parent_id' => '135',
+            'title' => 'Spazzole elettriche',
+            'items' => 
+            array (
+            ),
+            'classes' => 
+            array (
+              0 => 'menu-item menu-item-c286',
+              'dropdown' => 
+              array (
+              ),
+            ),
+            'link' => 
+            array (
+              'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135_286',
+              'total' => '0',
+              'classes' => 
+              array (
+              ),
+            ),
+          ),
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c135',
+          'dropdown' => 
+          array (
+            286 => 
+            array (
+              'category_id' => '286',
+              'parent_id' => '135',
+              'title' => 'Spazzole elettriche',
+              'items' => 
+              array (
+              ),
+              'classes' => 
+              array (
+                0 => 'menu-item menu-item-c286',
+                'dropdown' => 
+                array (
+                ),
+              ),
+              'link' => 
+              array (
+                'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135_286',
+                'total' => '0',
+                'classes' => 
+                array (
+                ),
+              ),
+            ),
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_135',
+          'total' => '1',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      133 => 
+      array (
+        'category_id' => '133',
+        'parent_id' => '68',
+        'title' => 'Asciugacapelli ',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c133',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_133',
+          'total' => '2',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      205 => 
+      array (
+        'category_id' => '205',
+        'parent_id' => '68',
+        'title' => 'Accessori',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c205',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_205',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+      267 => 
+      array (
+        'category_id' => '267',
+        'parent_id' => '68',
+        'title' => 'Colorazione Professional',
+        'items' => 
+        array (
+        ),
+        'classes' => 
+        array (
+          0 => 'menu-item menu-item-c267',
+          'dropdown' => 
+          array (
+          ),
+        ),
+        'link' => 
+        array (
+          'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68_267',
+          'total' => '0',
+          'classes' => 
+          array (
+          ),
+        ),
+      ),
+    ),
+  ),
+  'link' => 
+  array (
+    'href' => 'https://www.rossishop.it/index.php?route=product/category&amp;path=68',
+    'total' => '12',
+    'classes' => 
+    array (
+    ),
+  ),
+);
